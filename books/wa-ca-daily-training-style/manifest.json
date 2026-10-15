@@ -1,0 +1,26 @@
+{
+  "edition": "WA/CA daily-training style rewrite",
+  "books": [
+    {
+      "state_code": "WA",
+      "file": "books/WA_Washington_Practice_Book.html",
+      "case_count": 1000,
+      "source": "Repository WA edition 0.2; local file URL inaccessible",
+      "sha256": "40f46f7ef7221837a0de91de0bead1841cd127490c27f572ecbf992a58d20d51",
+      "baseline_css_sha256": "173fac8dac469526b794e29262f8e480e92e693d1dbf8c0417baba559148195f",
+      "baseline_script_sha256": "9c31b93e69beb5f5825463d5ee00ff336f73067f004c92df92d2bedec57b1c94"
+    },
+    {
+      "state_code": "CA",
+      "file": "books/CA_California_Practice_Book.html",
+      "case_count": 1000,
+      "source": "Uploaded CA HTML",
+      "sha256": "5f2e2b5862c889fdefa719461343df86e0d1d7b498d14789688db7409d0c14f1",
+      "baseline_css_sha256": "173fac8dac469526b794e29262f8e480e92e693d1dbf8c0417baba559148195f",
+      "baseline_script_sha256": "9c31b93e69beb5f5825463d5ee00ff336f73067f004c92df92d2bedec57b1c94"
+    }
+  ],
+  "unique_underlying_situations": 100,
+  "shared_tasks_per_situation": 10,
+  "state_rule_verified_cases": 0
+}

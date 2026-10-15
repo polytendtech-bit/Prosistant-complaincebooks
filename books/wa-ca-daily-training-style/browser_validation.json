@@ -1,0 +1,24 @@
+[
+  {
+    "state": "WA",
+    "search_topic_setting_filters": "passed",
+    "reveal_hide_answers": "passed",
+    "template_answer_sections": "passed",
+    "filtered_print_and_restore": "passed",
+    "no_results_and_reset": "passed",
+    "mobile_width_390": "no horizontal overflow",
+    "back_navigation": "passed",
+    "javascript_errors": []
+  },
+  {
+    "state": "CA",
+    "search_topic_setting_filters": "passed",
+    "reveal_hide_answers": "passed",
+    "template_answer_sections": "passed",
+    "filtered_print_and_restore": "passed",
+    "no_results_and_reset": "passed",
+    "mobile_width_390": "no horizontal overflow",
+    "back_navigation": "passed",
+    "javascript_errors": []
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "structural_validation": "passed",
+  "state_books": [
+    {
+      "state": "WA",
+      "cases": 1000,
+      "topics": 25,
+      "center": 500,
+      "home": 500,
+      "original_css_unchanged": true,
+      "original_js_unchanged": true,
+      "ids_and_filter_attributes_retained": true,
+      "all_bilingual_content_fields_match": true,
+      "relative_links_exist": true,
+      "current_rules_verified": 0,
+      "new_checked_dates": 0
+    },
+    {
+      "state": "CA",
+      "cases": 1000,
+      "topics": 25,
+      "center": 500,
+      "home": 500,
+      "original_css_unchanged": true,
+      "original_js_unchanged": true,
+      "ids_and_filter_attributes_retained": true,
+      "all_bilingual_content_fields_match": true,
+      "relative_links_exist": true,
+      "current_rules_verified": 0,
+      "new_checked_dates": 0
+    }
+  ],
+  "total_records": 2000,
+  "template_provenance": "Supplied DOCX; source and date claims not independently verified",
+  "wa_baseline": "Repository edition 0.2; user local file URL could not be opened",
+  "ca_baseline": "Attached HTML",
+  "browser_validation": "passed both books via internal HTTP",
+  "legal_review": "not completed",
+  "independent_bilingual_review": "not completed",
+  "browser_checks_file": "browser_validation.json"
+}

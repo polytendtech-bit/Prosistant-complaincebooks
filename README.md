@@ -1,6 +1,19 @@
 # Prosistant child-care staff practice books
 
-The latest edition is **0.2 — an editorial draft for general child-care staff competency**.
+## Washington and California — daily-training style
+
+The two books have been rewritten using the supplied Washington daily-training DOCX as the writing and Q&A model, while retaining the original book controls and layout styling.
+
+- [Download both books and their shared navigation](books/WA_CA_Daily_Training_Style_Books.zip)
+- [Washington HTML](books/wa-ca-daily-training-style/books/WA_Washington_Practice_Book.html)
+- [California HTML](books/wa-ca-daily-training-style/books/CA_California_Practice_Book.html)
+- [Adaptation notes and limitations](books/wa-ca-daily-training-style/REVIEW_REPORT.md)
+
+Each book still has 1,000 exercises and 25 topics. Chinese/English incidents and role-based questions come before expandable answers divided into required actions, practical handling, records/good practice and points to verify. Download and extract the ZIP, then open `START_HERE.html`; GitHub normally displays HTML source.
+
+Current legal verification remains incomplete. Template check dates were not reused as new verification, and Washington-specific requirements were not copied into California. The Washington baseline was the saved repository edition because the user's local file URL could not be opened here.
+
+The earlier 50-state collection is **edition 0.2 — an editorial draft for general child-care staff competency**.
 
 - [Download the revised 50-book collection](reviews/Prosistant_Revised_Books_v0.2.zip)
 - [Read the review report and revision details](reviews/revised-books-v0.2/REVIEW_REPORT.md)

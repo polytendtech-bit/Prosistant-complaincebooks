@@ -1,0 +1,102 @@
+{
+  "PRACTICE_ASSESSMENT_12.html": {
+    "bytes": 24195,
+    "sha256": "c9ad1acdbb9ec25cfa20bb6b21d2cec41de5ecbddddae8264171e1a9060608d5"
+  },
+  "README.md": {
+    "bytes": 1129,
+    "sha256": "8f538d412a0907af46c69cd7f1064c954a26d4fbd0c556474d054e4128405afb"
+  },
+  "REVIEW_REPORT.md": {
+    "bytes": 6337,
+    "sha256": "0a8f730274ff50f9914ae66fe119300429ba28b0d9063e1d3e383a235710c454"
+  },
+  "STAFF_FOUNDATIONS.html": {
+    "bytes": 12725,
+    "sha256": "b66ab1875bde8d8369ecce93d471577cd044be261ee4c5ed0b51ee066972ada7"
+  },
+  "START_HERE.html": {
+    "bytes": 2408,
+    "sha256": "f94916963e26aa9309ee2c3692c7ac81560a17c285048074170f2566160b3a14"
+  },
+  "authoring/CA_baseline.html": {
+    "bytes": 4049993,
+    "sha256": "f29d8e2501112613b2a8ed69e1ef3ee52010b9dba7bd94a8de8ff77c8771e671"
+  },
+  "authoring/WA_baseline.html": {
+    "bytes": 4049946,
+    "sha256": "65ecad60e5e1c2b0cf78c8d738741ab9659acae1cfa27fbf38a06e8133f1a222"
+  },
+  "authoring/build_books.py": {
+    "bytes": 25714,
+    "sha256": "c457ef3da23251d0fed67d261e0c2409b5fb73484fbfc77cbb27aea1990dd6fa"
+  },
+  "authoring/family_notes.tsv": {
+    "bytes": 24889,
+    "sha256": "b03a34baba6fbafa476a80c7be35d4c54c924630353459c3b03ea3b3fabb3815"
+  },
+  "authoring/original_shared_curriculum.json": {
+    "bytes": 3002672,
+    "sha256": "4b02afb693a505321be68bf99d97ddaa5c2492bf8c3065daf7ae6ed93127b6ba"
+  },
+  "authoring/questions_en.txt": {
+    "bytes": 9590,
+    "sha256": "2e43a3a0aa2d954648ffe7ba97d4b80398c28b32274176d1c86bff9a41b83138"
+  },
+  "authoring/questions_zh.txt": {
+    "bytes": 7363,
+    "sha256": "1f0cb8843b9c3824a0f9bb0ac21ee96310aa1e6fa4eb0261035e8e5b7ae9e5af"
+  },
+  "authoring/scenes.tsv": {
+    "bytes": 38697,
+    "sha256": "3d9f2a145ac732d75d2d730548309ce9ad9dbfc0bc99864d6d214bce60f26257"
+  },
+  "authoring/state_registry.json": {
+    "bytes": 18426,
+    "sha256": "f2393f6aee671193e0dbb1e964fd04c962ab37349bacc2c47e3aa6cb0cecb38c"
+  },
+  "authoring/teaching_notes.tsv": {
+    "bytes": 24197,
+    "sha256": "efebfc8ebff4fa8692fbdc1ad0314741cb9e9d2f92b94b93ce4978ff41415e63"
+  },
+  "authoring/validate_books.py": {
+    "bytes": 3187,
+    "sha256": "8c4981968fdd3c5a32888fcb8fd64825c933ba9b1aada8a4667232973d97c944"
+  },
+  "books/CA_California_Practice_Book.html": {
+    "bytes": 5039477,
+    "sha256": "5f2e2b5862c889fdefa719461343df86e0d1d7b498d14789688db7409d0c14f1"
+  },
+  "books/WA_Washington_Practice_Book.html": {
+    "bytes": 4741876,
+    "sha256": "40f46f7ef7221837a0de91de0bead1841cd127490c27f572ecbf992a58d20d51"
+  },
+  "browser_validation.json": {
+    "bytes": 694,
+    "sha256": "f8b0e7255d22e0c18a416fb5bcd5db62c8e9d91f74c5a9b543b4d20d083834f8"
+  },
+  "data/CA_curriculum_1000.json": {
+    "bytes": 4474577,
+    "sha256": "5f122acc14db3d87e853f9dc22d8682e53aa8bc8710440f31f05043eb6c3c8e1"
+  },
+  "data/CHANGE_REGISTER_2000.csv": {
+    "bytes": 426066,
+    "sha256": "b07cf0181d80400eaf194d00487d11ed63969be6e6d5d29a9d28953aef154065"
+  },
+  "data/WA_curriculum_1000.json": {
+    "bytes": 4152657,
+    "sha256": "20ad2a52f1daf68b08bf01dea6bd7af6c9b05e287f8ea1af3b2fe38a75797a7b"
+  },
+  "data/template_provenance.json": {
+    "bytes": 6259,
+    "sha256": "e1eecbb19afe669c6218811ce5aeca18c84715fd56fa0b30e21c38b3581807d6"
+  },
+  "manifest.json": {
+    "bytes": 1091,
+    "sha256": "ce860f264d715055234d4a66afc37a303cd6161e448b4cb02b5f68c4ee9fe366"
+  },
+  "validation_report.json": {
+    "bytes": 1279,
+    "sha256": "9c20b88334f2cfd1819eb4abf963eba5dacd8dcfca57ce099a57bff89377b7e7"
+  }
+}
