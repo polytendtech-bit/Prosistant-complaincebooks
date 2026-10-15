@@ -1,0 +1,66 @@
+{
+  "CORE_1000_AUDIT.csv": {
+    "bytes": 1185257,
+    "sha256": "a55d3c3df6712c93eb7135c977e6f857de196d7b17851c5eb3ad88ba2ed7d339"
+  },
+  "FAMILY_REVISION_PLAN.csv": {
+    "bytes": 77897,
+    "sha256": "641e2c80150033c7da0389f90df5f691d04883edc24a3809cc4ad07d6cd51b32"
+  },
+  "FOUNDATION_100_LESSONS.html": {
+    "bytes": 95820,
+    "sha256": "581380bc9c5d40de6a892afe6456300ac7e6ed427a78234fa4c30811e6b9c798"
+  },
+  "REVIEW_REPORT.docx": {
+    "bytes": 45997,
+    "sha256": "d0e18716b0adb42afafd370fcc51df9bd566a59fd77a032820eef29971944a92"
+  },
+  "REVIEW_REPORT.html": {
+    "bytes": 21350,
+    "sha256": "0e967c16d9d5ab2ac1295f9bb800e2a2a8dcdf3ecb980358844c3b99a2f8d3d6"
+  },
+  "REVIEW_REPORT.md": {
+    "bytes": 19435,
+    "sha256": "cb17c032d88e9c0f4b7e8d7dcde546950b416e34081f0eb127889981efb8268c"
+  },
+  "SAMPLE_LESSONS_12.html": {
+    "bytes": 21295,
+    "sha256": "deb42ef3c41b67fda8ce42ac5d72231de24a170f2fe26741a4a9f45e6dae35b0"
+  },
+  "SAMPLE_LESSONS_12.json": {
+    "bytes": 17753,
+    "sha256": "68f73550ac7d3e7ee1e82bb22ee94a661522fe1f9695eeb51bae857fbd9b18a7"
+  },
+  "SOURCE_CATALOG.csv": {
+    "bytes": 17917,
+    "sha256": "70c278614477002d8929b0cee5500b3f2fdcc76a3dbe6eca989eb358848f82d8"
+  },
+  "START_HERE.html": {
+    "bytes": 2153,
+    "sha256": "130fe412c25b93e0710f20c3870aa121879b18ac83f342c018e0c88fa85d4193"
+  },
+  "STATE_50_RESEARCH_QUEUE.csv": {
+    "bytes": 17345,
+    "sha256": "a30f9e39a2b31d2cf9cbaf21cfc889e935b134de02464c0ff2fc0220c7bf92bb"
+  },
+  "audit.py": {
+    "bytes": 2164,
+    "sha256": "c784d52157df04f04bf99c5d1cc85742383ac5153b64f283ace7264d4b3add9f"
+  },
+  "package_review.py": {
+    "bytes": 15942,
+    "sha256": "859eea362473089c629dce56f91aabbcbb1ed79e86a98e0583b960ed0ae6a1c7"
+  },
+  "research.py": {
+    "bytes": 3284,
+    "sha256": "5f2d73764e3609941d290c3c1fbb0857d520678ad13eaaf566e0c434e5eda42e"
+  },
+  "sources/retrieval_log.json": {
+    "bytes": 18759,
+    "sha256": "155abf275a59817fec650d78a2fd0d41797be3595d8c0375d301657e29720026"
+  },
+  "structural_audit.json": {
+    "bytes": 12407,
+    "sha256": "74f6c1fd374ddf8266cf7706805d395d4367d30830db1910b4e43eea1cbc9673"
+  }
+}

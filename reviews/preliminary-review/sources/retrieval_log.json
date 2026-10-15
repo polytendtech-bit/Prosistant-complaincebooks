@@ -1,0 +1,434 @@
+[
+  {
+    "source_id": "CDC_SLEEP",
+    "requested_url": "https://www.cdc.gov/sudden-infant-death/sleep-safely/index.html",
+    "retrieved_utc": "2026-10-15T06:34:24.091175+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "NIH_SLEEP",
+    "requested_url": "https://safetosleep.nichd.nih.gov/reduce-risk/safe-sleep-environment",
+    "retrieved_utc": "2026-10-15T06:34:24.091803+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "CDC_DIAPER",
+    "requested_url": "https://www.cdc.gov/hygiene/about/healthy-habits-diaper-changing-steps-for-childcare-settings.html",
+    "retrieved_utc": "2026-10-15T06:34:24.092406+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "CDC_CLEAN",
+    "requested_url": "https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html",
+    "retrieved_utc": "2026-10-15T06:34:24.092827+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "CDC_ALLERGY",
+    "requested_url": "https://www.cdc.gov/school-health-conditions/food-allergies/index.html",
+    "retrieved_utc": "2026-10-15T06:34:24.093189+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "ADA_CHILDCARE",
+    "requested_url": "https://www.ada.gov/resources/child-care-centers/",
+    "retrieved_utc": "2026-10-15T06:34:24.094393+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "CCDF",
+    "requested_url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-98/subpart-E/section-98.41",
+    "retrieved_utc": "2026-10-15T06:34:24.107675+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "HEADSTART",
+    "requested_url": "https://headstart.gov/policy/45-cfr-chap-xiii/1302-47-safety-practices",
+    "retrieved_utc": "2026-10-15T06:34:24.108106+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "HEADSTART_SUPERVISION",
+    "requested_url": "https://headstart.gov/safety-practices/article/active-supervision",
+    "retrieved_utc": "2026-10-15T06:34:24.115304+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "NAEYC_DAP",
+    "requested_url": "https://www.naeyc.org/resources/position-statements/dap/contents",
+    "retrieved_utc": "2026-10-15T06:34:24.115632+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "CPSC_CRIB",
+    "requested_url": "https://www.cpsc.gov/SafeSleep",
+    "retrieved_utc": "2026-10-15T06:34:24.125415+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "CHILDCARE_DIRECTORY",
+    "requested_url": "https://childcare.gov/state-resources",
+    "retrieved_utc": "2026-10-15T06:34:24.126841+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "CA_CENTER",
+    "requested_url": "https://www.cdss.ca.gov/ord/entres/getinfo/pdf/ccc7.pdf",
+    "retrieved_utc": "2026-10-15T06:34:24.128364+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "CA_HOME",
+    "requested_url": "https://www.cdss.ca.gov/ord/entres/getinfo/pdf/fccman.pdf",
+    "retrieved_utc": "2026-10-15T06:34:24.130125+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "WA_RULE",
+    "requested_url": "https://app.leg.wa.gov/wac/default.aspx?cite=110-300-0291",
+    "retrieved_utc": "2026-10-15T06:34:24.132121+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "NY_REPORT",
+    "requested_url": "https://www.nysenate.gov/legislation/laws/SOS/413",
+    "retrieved_utc": "2026-10-15T06:34:24.133648+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "TX_RULE",
+    "requested_url": "https://www.hhs.texas.gov/providers/protective-services-providers/child-care-regulation/minimum-standards",
+    "retrieved_utc": "2026-10-15T06:34:24.134971+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "NHTSA",
+    "requested_url": "https://www.nhtsa.gov/equipment/car-seats-and-booster-seats",
+    "retrieved_utc": "2026-10-15T06:34:24.136425+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "EPA",
+    "requested_url": "https://www.epa.gov/safepestcontrol/safe-use-disinfectants",
+    "retrieved_utc": "2026-10-15T06:34:24.137587+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "CDC_MILESTONES",
+    "requested_url": "https://www.cdc.gov/act-early/milestones/index.html",
+    "retrieved_utc": "2026-10-15T06:34:24.139042+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "IDEA",
+    "requested_url": "https://sites.ed.gov/idea/regs/c/a/303.21",
+    "retrieved_utc": "2026-10-15T06:34:24.140334+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "CDC_HANDS",
+    "requested_url": "https://www.cdc.gov/clean-hands/about/index.html",
+    "retrieved_utc": "2026-10-15T06:34:24.141736+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_AL",
+    "requested_url": "https://dhr.alabama.gov/child-care/licensing-overview/",
+    "retrieved_utc": "2026-10-15T06:34:24.143088+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_AK",
+    "requested_url": "https://health.alaska.gov/en/topics/child-care/forms-guidance-publications/child-care-policies-guidance/",
+    "retrieved_utc": "2026-10-15T06:34:24.144406+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_AZ",
+    "requested_url": "https://www.azdhs.gov/licensing/childcare-facilities/",
+    "retrieved_utc": "2026-10-15T06:34:24.145860+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_AR",
+    "requested_url": "https://dese.ade.arkansas.gov/Offices/office-of-early-childhood/oec-policies",
+    "retrieved_utc": "2026-10-15T06:34:24.147184+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_CA",
+    "requested_url": "https://cdss.ca.gov/inforesources/child-care-licensing/resources-for-providers/laws-and-regulations",
+    "retrieved_utc": "2026-10-15T06:34:24.148500+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_CO",
+    "requested_url": "https://www.sos.state.co.us/CCR/NumericalCCRDocList.do?agencyID=215&deptID=26",
+    "retrieved_utc": "2026-10-15T06:34:24.149853+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_CT",
+    "requested_url": "https://www.ctoec.org/licensing/family-child-care-homes/statutes-regulations/",
+    "retrieved_utc": "2026-10-15T06:34:24.151207+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_DE",
+    "requested_url": "https://education.delaware.gov/families/birth-age-5/occl/regulations_and_exemptions/",
+    "retrieved_utc": "2026-10-15T06:34:24.152726+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_FL",
+    "requested_url": "https://www.myflfamilies.com/services/child-family/child-care/child-care-laws-and-requirements",
+    "retrieved_utc": "2026-10-15T06:34:24.153906+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_GA",
+    "requested_url": "https://www.decal.ga.gov/CCS/RulesAndRegulations.aspx",
+    "retrieved_utc": "2026-10-15T06:34:24.155229+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_HI",
+    "requested_url": "https://humanservices.hawaii.gov/bessd/child-care-program/child-care-licensing-standards/",
+    "retrieved_utc": "2026-10-15T06:34:24.156489+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_ID",
+    "requested_url": "https://healthandwelfare.idaho.gov/providers/child-care-providers/child-care-resources",
+    "retrieved_utc": "2026-10-15T06:34:24.157886+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_IL",
+    "requested_url": "https://idec.illinois.gov/forproviders/licensure.html",
+    "retrieved_utc": "2026-10-15T06:34:24.159337+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_IN",
+    "requested_url": "https://www.in.gov/fssa/carefinder/laws-rules-and-related-policies/",
+    "retrieved_utc": "2026-10-15T06:34:24.160862+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_IA",
+    "requested_url": "https://hhs.iowa.gov/programs/programs-and-services/child-care/child-care-licensing",
+    "retrieved_utc": "2026-10-15T06:34:24.162156+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_KS",
+    "requested_url": "https://www.koec.ks.gov/providers/child-care-licensing/regualtions-and-policy-exemptions",
+    "retrieved_utc": "2026-10-15T06:34:24.163558+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_KY",
+    "requested_url": "https://chfs.ky.gov/agencies/dcbs/dcc/Pages/regulations.aspx",
+    "retrieved_utc": "2026-10-15T06:34:24.164924+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_LA",
+    "requested_url": "https://doe.louisiana.gov/early-childhood/child-care-facility-licensing",
+    "retrieved_utc": "2026-10-15T06:34:24.166366+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_ME",
+    "requested_url": "https://www.maine.gov/dhhs/ocfs/provider-resources/child-care-licensing/becoming-a-childcare-provider",
+    "retrieved_utc": "2026-10-15T06:34:24.167609+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_MD",
+    "requested_url": "https://earlychildhood.marylandpublicschools.org/child-care-providers/licensing/resource-documents/licensing-manuals",
+    "retrieved_utc": "2026-10-15T06:34:24.168856+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_MA",
+    "requested_url": "https://www.mass.gov/lists/eec-laws-and-regulations",
+    "retrieved_utc": "2026-10-15T06:34:24.170393+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_MI",
+    "requested_url": "https://www.michigan.gov/mileap/early-childhood-education/cclb/provider-resources/rules-statutes-technical-assistance",
+    "retrieved_utc": "2026-10-15T06:34:24.171455+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_MN",
+    "requested_url": "https://dcyf.mn.gov/partners-and-providers/licensing/child-care-centers/regulations-licensing-child-care-centers",
+    "retrieved_utc": "2026-10-15T06:34:24.172819+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_MS",
+    "requested_url": "https://www.mdhs.ms.gov/eccd/providers/licensing/",
+    "retrieved_utc": "2026-10-15T06:34:24.174102+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_MO",
+    "requested_url": "https://dese.mo.gov/childhood/child-care/rules-laws",
+    "retrieved_utc": "2026-10-15T06:34:24.175531+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_MT",
+    "requested_url": "https://www.dphhs.mt.gov/ecfsd/childcare/childcarelicensing/",
+    "retrieved_utc": "2026-10-15T06:34:24.176700+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_NE",
+    "requested_url": "https://dhhs.ne.gov/Pages/Child-Care-Regulations.aspx",
+    "retrieved_utc": "2026-10-15T06:34:24.177978+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_NV",
+    "requested_url": "https://www.dss.nv.gov/programs/child-care-licensing-ccl/ccl-statutes-and-regulations/",
+    "retrieved_utc": "2026-10-15T06:34:24.179442+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_NH",
+    "requested_url": "https://gc.nh.gov/rules/state_agencies/he-c4000.html",
+    "retrieved_utc": "2026-10-15T06:34:24.180766+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_NJ",
+    "requested_url": "https://www.nj.gov/dcf/providers/licensing/laws/index.html",
+    "retrieved_utc": "2026-10-15T06:34:24.182225+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_NM",
+    "requested_url": "https://www.nmececd.org/child-care-licensing-and-registered-homes/",
+    "retrieved_utc": "2026-10-15T06:34:24.183624+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_NY",
+    "requested_url": "https://ocfs.ny.gov/programs/childcare/regulations/",
+    "retrieved_utc": "2026-10-15T06:34:24.184985+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_NC",
+    "requested_url": "https://ncchildcare.ncdhhs.gov/Services/Licensing/Child-Care-License-Overview",
+    "retrieved_utc": "2026-10-15T06:34:24.186285+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_ND",
+    "requested_url": "https://www.hhs.nd.gov/cfs/early-childhood-services/providers/regulations",
+    "retrieved_utc": "2026-10-15T06:34:24.187589+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_OH",
+    "requested_url": "https://childrenandyouth.ohio.gov/for-providers/rules-and-resources/02-licensing-and-certification",
+    "retrieved_utc": "2026-10-15T06:34:24.188893+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_OK",
+    "requested_url": "https://www.oklahoma.gov/okdhs/services/child-care-services/child-care-licensing/licensing-requirements.html",
+    "retrieved_utc": "2026-10-15T06:34:24.190334+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_OR",
+    "requested_url": "https://www.oregon.gov/delc/providers/pages/child-care-rules.aspx",
+    "retrieved_utc": "2026-10-15T06:34:24.191757+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_PA",
+    "requested_url": "https://www.pa.gov/agencies/dhs/resources/for-providers/child-care-for-providers/child-care-regulations",
+    "retrieved_utc": "2026-10-15T06:34:24.193318+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_RI",
+    "requested_url": "https://rules.sos.ri.gov/regulations/part/218-70-00-1",
+    "retrieved_utc": "2026-10-15T06:34:24.194484+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_SC",
+    "requested_url": "https://scchildcare.org/providers/licensing-requirements/",
+    "retrieved_utc": "2026-10-15T06:34:24.196017+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_SD",
+    "requested_url": "https://dss.sd.gov/childcare/licensing/",
+    "retrieved_utc": "2026-10-15T06:34:24.197380+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_TN",
+    "requested_url": "https://www.tn.gov/humanservices/for-families/child-care-services/child-care-rules-and-regulations.html",
+    "retrieved_utc": "2026-10-15T06:34:24.201287+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_TX",
+    "requested_url": "https://www.hhs.texas.gov/providers/child-care-regulation/minimum-standards",
+    "retrieved_utc": "2026-10-15T06:34:24.201510+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_UT",
+    "requested_url": "https://dlbc.utah.gov/home/office-of-licensing/child-care/rules/",
+    "retrieved_utc": "2026-10-15T06:34:24.201839+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_VT",
+    "requested_url": "https://dcf.vermont.gov/cdd/laws-rules/licensing",
+    "retrieved_utc": "2026-10-15T06:34:24.203176+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_VA",
+    "requested_url": "https://www.childcare.virginia.gov/providers/program-types",
+    "retrieved_utc": "2026-10-15T06:34:24.204487+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_WA",
+    "requested_url": "https://app.leg.wa.gov/wac/default.aspx?cite=110-300",
+    "retrieved_utc": "2026-10-15T06:34:24.205860+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_WV",
+    "requested_url": "https://bfa.wv.gov/child-care-centers",
+    "retrieved_utc": "2026-10-15T06:34:24.207180+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_WI",
+    "requested_url": "https://dcf.wisconsin.gov/cclicensing/rules",
+    "retrieved_utc": "2026-10-15T06:34:24.208512+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source_id": "STATE_WY",
+    "requested_url": "https://dfs.wyo.gov/providers/child-care-2/licensing-rules/",
+    "retrieved_utc": "2026-10-15T06:34:24.209945+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]

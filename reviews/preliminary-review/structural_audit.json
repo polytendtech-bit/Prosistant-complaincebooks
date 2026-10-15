@@ -1,0 +1,616 @@
+{
+  "scope": "Structural checks only; no substantive legal verification",
+  "shared_records": 1000,
+  "scenario_families": 100,
+  "distinct_questions": 10,
+  "distinct_rationales": 10,
+  "distinct_evidence_prompts": 25,
+  "distinct_local_verification_prompts": 25,
+  "records_with_state_rule_verified": 0,
+  "state_register_rows": 50000,
+  "state_register_rows_with_exact_rule_section": 0,
+  "state_register_rows_with_named_rule_reviewer": 0,
+  "books": [
+    {
+      "state": "Alabama",
+      "code": "AL",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Alaska",
+      "code": "AK",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Arizona",
+      "code": "AZ",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Arkansas",
+      "code": "AR",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "California",
+      "code": "CA",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Colorado",
+      "code": "CO",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Connecticut",
+      "code": "CT",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Delaware",
+      "code": "DE",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Florida",
+      "code": "FL",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Georgia",
+      "code": "GA",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Hawaii",
+      "code": "HI",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Idaho",
+      "code": "ID",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Illinois",
+      "code": "IL",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Indiana",
+      "code": "IN",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Iowa",
+      "code": "IA",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Kansas",
+      "code": "KS",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Kentucky",
+      "code": "KY",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Louisiana",
+      "code": "LA",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Maine",
+      "code": "ME",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Maryland",
+      "code": "MD",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Massachusetts",
+      "code": "MA",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Michigan",
+      "code": "MI",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Minnesota",
+      "code": "MN",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Mississippi",
+      "code": "MS",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Missouri",
+      "code": "MO",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Montana",
+      "code": "MT",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Nebraska",
+      "code": "NE",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Nevada",
+      "code": "NV",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "New Hampshire",
+      "code": "NH",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "New Jersey",
+      "code": "NJ",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "New Mexico",
+      "code": "NM",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "New York",
+      "code": "NY",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "North Carolina",
+      "code": "NC",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "North Dakota",
+      "code": "ND",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Ohio",
+      "code": "OH",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Oklahoma",
+      "code": "OK",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Oregon",
+      "code": "OR",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Pennsylvania",
+      "code": "PA",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Rhode Island",
+      "code": "RI",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "South Carolina",
+      "code": "SC",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "South Dakota",
+      "code": "SD",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Tennessee",
+      "code": "TN",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Texas",
+      "code": "TX",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Utah",
+      "code": "UT",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Vermont",
+      "code": "VT",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Virginia",
+      "code": "VA",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Washington",
+      "code": "WA",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "West Virginia",
+      "code": "WV",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Wisconsin",
+      "code": "WI",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    },
+    {
+      "state": "Wyoming",
+      "code": "WY",
+      "cases": 1000,
+      "unique_ids": 1000,
+      "content_mismatches": [],
+      "hash_matches": true,
+      "settings": {
+        "center": 500,
+        "home": 500
+      }
+    }
+  ],
+  "checks_passed": true
+}
