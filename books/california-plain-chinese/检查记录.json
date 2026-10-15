@@ -1,0 +1,17 @@
+{
+  "cases": 100,
+  "chapters": 25,
+  "unique_case_questions": 100,
+  "unique_case_answers": 100,
+  "body_content_match": "passed",
+  "internal_anchor_links": "passed",
+  "browser_search_show_hide_no_results": "passed",
+  "mobile_390px": "no horizontal overflow",
+  "browser_js_errors": [],
+  "pdf_generated": true,
+  "regulatory_review": "Not performed; language and structure revision only",
+  "pdf_pages": 28,
+  "pdf_all_100_cases_and_answers": "passed",
+  "word_all_100_cases_and_answers": "passed",
+  "input_sha256": "f29d8e2501112613b2a8ed69e1ef3ee52010b9dba7bd94a8de8ff77c8771e671"
+}

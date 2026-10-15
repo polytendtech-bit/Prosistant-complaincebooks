@@ -13,6 +13,18 @@ Download and extract the ZIP, keep the folders together, then open `START_HERE.h
 
 The revised collection contains 50 state-organized books sharing 1,000 guided exercises in 100 situation families, plus eight short foundation lessons and a separate 12-question practice check. The explanations and English/Chinese answers have been revised; IDs are retained for comparison.
 
+## 加州中文通俗精简版
+
+已将加州原稿的重复问法合并为 **25章、100个案例**，重新编写中文情境、问题和参考处理。PDF共28页。
+
+- [直接阅读PDF](books/california-plain-chinese/CA_California_Practice_Book_Plain_Chinese.pdf)
+- [下载可编辑Word](books/california-plain-chinese/CA_California_Practice_Book_Plain_Chinese.docx)
+- [HTML版](books/california-plain-chinese/CA_California_Practice_Book_Plain_Chinese.html)（下载后用浏览器打开，可搜索、展开答案）
+- [下载整套文件](books/CA_Plain_Chinese_Book.zip)
+- [修改说明](books/california-plain-chinese/修改说明.md)
+
+这次调整语言和结构，没有完成加州现行法规逐条核实。旧版保留，原题号对照表附在新版文件夹中。
+
 ## Review status
 
 The regulatory review remains incomplete. Official-source hosts are listed in the published environment configuration, but the runtime proxy blocked all 72 source requests. No current primary text was successfully consulted. The books do not constitute verified state-law guidance, an approved training-credit course, government approval, or a validated examination. Independent bilingual review and learner testing also remain outstanding.
