@@ -1,0 +1,452 @@
+[
+  {
+    "state": "Alabama",
+    "code": "AL",
+    "url": "https://dhr.alabama.gov/child-care/licensing-overview/",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Alaska",
+    "code": "AK",
+    "url": "https://health.alaska.gov/en/topics/child-care/forms-guidance-publications/child-care-policies-guidance/",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Arizona",
+    "code": "AZ",
+    "url": "https://www.azdhs.gov/licensing/childcare-facilities/",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Arkansas",
+    "code": "AR",
+    "url": "https://dese.ade.arkansas.gov/Offices/office-of-early-childhood/oec-policies",
+    "source_access": "retrieval_incomplete",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "California",
+    "code": "CA",
+    "url": "https://cdss.ca.gov/inforesources/child-care-licensing/resources-for-providers/laws-and-regulations",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Colorado",
+    "code": "CO",
+    "url": "https://www.sos.state.co.us/CCR/NumericalCCRDocList.do?agencyID=215&deptID=26",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Connecticut",
+    "code": "CT",
+    "url": "https://www.ctoec.org/licensing/family-child-care-homes/statutes-regulations/",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Delaware",
+    "code": "DE",
+    "url": "https://education.delaware.gov/families/birth-age-5/occl/regulations_and_exemptions/",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Florida",
+    "code": "FL",
+    "url": "https://www.myflfamilies.com/services/child-family/child-care/child-care-laws-and-requirements",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Georgia",
+    "code": "GA",
+    "url": "https://www.decal.ga.gov/CCS/RulesAndRegulations.aspx",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Hawaii",
+    "code": "HI",
+    "url": "https://humanservices.hawaii.gov/bessd/child-care-program/child-care-licensing-standards/",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Idaho",
+    "code": "ID",
+    "url": "https://healthandwelfare.idaho.gov/providers/child-care-providers/child-care-resources",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Illinois",
+    "code": "IL",
+    "url": "https://idec.illinois.gov/forproviders/licensure.html",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Indiana",
+    "code": "IN",
+    "url": "https://www.in.gov/fssa/carefinder/laws-rules-and-related-policies/",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Iowa",
+    "code": "IA",
+    "url": "https://hhs.iowa.gov/programs/programs-and-services/child-care/child-care-licensing",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Kansas",
+    "code": "KS",
+    "url": "https://www.koec.ks.gov/providers/child-care-licensing/regualtions-and-policy-exemptions",
+    "source_access": "retrieval_incomplete",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Kentucky",
+    "code": "KY",
+    "url": "https://chfs.ky.gov/agencies/dcbs/dcc/Pages/regulations.aspx",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Louisiana",
+    "code": "LA",
+    "url": "https://doe.louisiana.gov/early-childhood/child-care-facility-licensing",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Maine",
+    "code": "ME",
+    "url": "https://www.maine.gov/dhhs/ocfs/provider-resources/child-care-licensing/becoming-a-childcare-provider",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Maryland",
+    "code": "MD",
+    "url": "https://earlychildhood.marylandpublicschools.org/child-care-providers/licensing/resource-documents/licensing-manuals",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Massachusetts",
+    "code": "MA",
+    "url": "https://www.mass.gov/lists/eec-laws-and-regulations",
+    "source_access": "retrieval_incomplete",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Michigan",
+    "code": "MI",
+    "url": "https://www.michigan.gov/mileap/early-childhood-education/cclb/provider-resources/rules-statutes-technical-assistance",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Minnesota",
+    "code": "MN",
+    "url": "https://dcyf.mn.gov/partners-and-providers/licensing/child-care-centers/regulations-licensing-child-care-centers",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Mississippi",
+    "code": "MS",
+    "url": "https://www.mdhs.ms.gov/eccd/providers/licensing/",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Missouri",
+    "code": "MO",
+    "url": "https://dese.mo.gov/childhood/child-care/rules-laws",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Montana",
+    "code": "MT",
+    "url": "https://www.dphhs.mt.gov/ecfsd/childcare/childcarelicensing/",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Nebraska",
+    "code": "NE",
+    "url": "https://dhhs.ne.gov/Pages/Child-Care-Regulations.aspx",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Nevada",
+    "code": "NV",
+    "url": "https://www.dss.nv.gov/programs/child-care-licensing-ccl/ccl-statutes-and-regulations/",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "New Hampshire",
+    "code": "NH",
+    "url": "https://gc.nh.gov/rules/state_agencies/he-c4000.html",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "New Jersey",
+    "code": "NJ",
+    "url": "https://www.nj.gov/dcf/providers/licensing/laws/index.html",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "New Mexico",
+    "code": "NM",
+    "url": "https://www.nmececd.org/child-care-licensing-and-registered-homes/",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "New York",
+    "code": "NY",
+    "url": "https://ocfs.ny.gov/programs/childcare/regulations/",
+    "source_access": "retrieval_incomplete",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "North Carolina",
+    "code": "NC",
+    "url": "https://ncchildcare.ncdhhs.gov/Services/Licensing/Child-Care-License-Overview",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "North Dakota",
+    "code": "ND",
+    "url": "https://www.hhs.nd.gov/cfs/early-childhood-services/providers/regulations",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Ohio",
+    "code": "OH",
+    "url": "https://childrenandyouth.ohio.gov/for-providers/rules-and-resources/02-licensing-and-certification",
+    "source_access": "retrieval_incomplete",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Oklahoma",
+    "code": "OK",
+    "url": "https://www.oklahoma.gov/okdhs/services/child-care-services/child-care-licensing/licensing-requirements.html",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Oregon",
+    "code": "OR",
+    "url": "https://www.oregon.gov/delc/providers/pages/child-care-rules.aspx",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Pennsylvania",
+    "code": "PA",
+    "url": "https://www.pa.gov/agencies/dhs/resources/for-providers/child-care-for-providers/child-care-regulations",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Rhode Island",
+    "code": "RI",
+    "url": "https://rules.sos.ri.gov/regulations/part/218-70-00-1",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "South Carolina",
+    "code": "SC",
+    "url": "https://scchildcare.org/providers/licensing-requirements/",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "South Dakota",
+    "code": "SD",
+    "url": "https://dss.sd.gov/childcare/licensing/",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Tennessee",
+    "code": "TN",
+    "url": "https://www.tn.gov/humanservices/for-families/child-care-services/child-care-rules-and-regulations.html",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Texas",
+    "code": "TX",
+    "url": "https://www.hhs.texas.gov/providers/child-care-regulation/minimum-standards",
+    "source_access": "retrieval_incomplete",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Utah",
+    "code": "UT",
+    "url": "https://dlbc.utah.gov/home/office-of-licensing/child-care/rules/",
+    "source_access": "retrieval_incomplete",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Vermont",
+    "code": "VT",
+    "url": "https://dcf.vermont.gov/cdd/laws-rules/licensing",
+    "source_access": "retrieval_incomplete",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Virginia",
+    "code": "VA",
+    "url": "https://www.childcare.virginia.gov/providers/program-types",
+    "source_access": "retrieval_incomplete",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Washington",
+    "code": "WA",
+    "url": "https://app.leg.wa.gov/wac/default.aspx?cite=110-300",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "West Virginia",
+    "code": "WV",
+    "url": "https://bfa.wv.gov/child-care-centers",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Wisconsin",
+    "code": "WI",
+    "url": "https://dcf.wisconsin.gov/cclicensing/rules",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  },
+  {
+    "state": "Wyoming",
+    "code": "WY",
+    "url": "https://dfs.wyo.gov/providers/child-care-2/licensing-rules/",
+    "source_access": "retrieved",
+    "source_role": "official discovery entry point, not a per-case legal citation",
+    "case_review_status": "editorial_draft_not_state_rule_verified",
+    "source_checked_date": "2026-10-14"
+  }
+]

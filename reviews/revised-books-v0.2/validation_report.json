@@ -1,0 +1,329 @@
+{
+  "structural_validation": "passed",
+  "state_books": 50,
+  "state_records": 50000,
+  "shared_exercises": 1000,
+  "situation_families": 100,
+  "distinct_situation_rationales": 100,
+  "bilingual_answer_and_rationale_presence": "passed",
+  "local_research_tasks_unscored": 100,
+  "foundation_lessons": 8,
+  "practice_questions": 12,
+  "changed_questions_answers_and_rationales": 1000,
+  "source_requests": 72,
+  "source_texts_retrieved": 0,
+  "state_rule_verified_cases": 0,
+  "regulatory_approval": "not_obtained",
+  "independent_translation_review": "not_completed",
+  "browser_validation": "passed representative California edition and practice assessment via internal HTTP",
+  "books": [
+    {
+      "state": "Alabama",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Alaska",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Arizona",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Arkansas",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "California",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Colorado",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Connecticut",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Delaware",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Florida",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Georgia",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Hawaii",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Idaho",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Illinois",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Indiana",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Iowa",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Kansas",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Kentucky",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Louisiana",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Maine",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Maryland",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Massachusetts",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Michigan",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Minnesota",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Mississippi",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Missouri",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Montana",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Nebraska",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Nevada",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "New Hampshire",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "New Jersey",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "New Mexico",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "New York",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "North Carolina",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "North Dakota",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Ohio",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Oklahoma",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Oregon",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Pennsylvania",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Rhode Island",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "South Carolina",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "South Dakota",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Tennessee",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Texas",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Utah",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Vermont",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Virginia",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Washington",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "West Virginia",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Wisconsin",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    },
+    {
+      "state": "Wyoming",
+      "cases": 1000,
+      "hash_and_content_match": true,
+      "internal_links_exist": true
+    }
+  ],
+  "browser_checks": {
+    "index_links": 50,
+    "search_topic_setting_show_hide_and_print": "passed",
+    "mobile_width_390": "no horizontal overflow",
+    "practice_scoring_empty_all_correct_all_wrong_reset": "passed",
+    "browser_console_errors": []
+  },
+  "direct_file_navigation": "not tested: blocked by cloud browser policy"
+}

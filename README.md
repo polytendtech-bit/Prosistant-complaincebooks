@@ -1,19 +1,27 @@
-# Prosistant child-care practice book review
+# Prosistant child-care staff practice books
 
-Preliminary editorial review for general child-care staff competency.
+The latest edition is **0.2 — an editorial draft for general child-care staff competency**.
 
-- [Read the review report](reviews/preliminary-review/REVIEW_REPORT.md)
-- [Download the complete review package](reviews/Prosistant_Preliminary_Review_and_Revision.zip)
-- [Word report](reviews/preliminary-review/REVIEW_REPORT.docx)
-- [100 family revision recommendations](reviews/preliminary-review/FAMILY_REVISION_PLAN.csv)
-- [1,000-exercise audit](reviews/preliminary-review/CORE_1000_AUDIT.csv)
-- [12 worked sample lessons (HTML)](reviews/preliminary-review/SAMPLE_LESSONS_12.html)
-- [100 foundational teaching prototypes (HTML)](reviews/preliminary-review/FOUNDATION_100_LESSONS.html)
+- [Download the revised 50-book collection](reviews/Prosistant_Revised_Books_v0.2.zip)
+- [Read the review report and revision details](reviews/revised-books-v0.2/REVIEW_REPORT.md)
+- [Word report](reviews/revised-books-v0.2/REVIEW_REPORT.docx)
+- [Browse the revised book files](reviews/revised-books-v0.2/books)
+- [1,000-exercise before/after change register](reviews/revised-books-v0.2/data/CHANGE_REGISTER_1000.csv)
+- [Technical validation results](reviews/revised-books-v0.2/validation_report.json)
 
-Download and extract the ZIP, then open `START_HERE.html` to browse the HTML material locally. GitHub may display HTML source rather than render the lessons.
+Download and extract the ZIP, keep the folders together, then open `START_HERE.html` in a browser. GitHub normally displays HTML source instead of rendering these local learning tools.
+
+The revised collection contains 50 state-organized books sharing 1,000 guided exercises in 100 situation families, plus eight short foundation lessons and a separate 12-question practice check. The explanations and English/Chinese answers have been revised; IDs are retained for comparison.
 
 ## Review status
 
-These are provisional editorial deliverables. The original collection has 1,000 shared exercises from 100 scenario families, repeated across 50 state editions. Current federal and state source retrieval was blocked during the review. This package does not constitute a completed regulatory review, an approved curriculum, or a validated examination. Read the report for the findings, scope, and outstanding source-verification work.
+The regulatory review remains incomplete. Official-source hosts are listed in the published environment configuration, but the runtime proxy blocked all 72 source requests. No current primary text was successfully consulted. The books do not constitute verified state-law guidance, an approved training-credit course, government approval, or a validated examination. Independent bilingual review and learner testing also remain outstanding.
 
-The package includes source-access logs and structural validation results. Helper scripts reflect the original cloud workspace layout and require the original extracted input and path adjustments to run elsewhere. The original uploaded book collection is not included in this repository update.
+Read the report for the exact scope, implemented changes, source-access evidence and remaining work. All state-law verification flags remain false. The uploaded original books were preserved separately and were not silently overwritten.
+
+## Earlier preliminary review
+
+- [Earlier report](reviews/preliminary-review/REVIEW_REPORT.md)
+- [Earlier preliminary review package](reviews/Prosistant_Preliminary_Review_and_Revision.zip)
+
+The earlier review is retained as history. Use edition 0.2 for the current editorial material and current source-access status.

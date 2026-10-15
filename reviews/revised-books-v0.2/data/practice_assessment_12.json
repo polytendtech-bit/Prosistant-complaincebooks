@@ -1,0 +1,269 @@
+{
+  "status": "Formative draft; not a validated exam",
+  "questions": [
+    {
+      "family": 1,
+      "title": "A doorway handoff",
+      "scenario": "Maya brings Leo to the next room. Jordan is already supervising that room. Maya thinks Jordan has accepted Leo, but Jordan has not replied.",
+      "question": "What should Maya do before leaving Leo with Jordan?",
+      "options": [
+        "Leave because Jordan can see the doorway.",
+        "Ask Jordan to accept care of Leo, wait for a clear reply, and check Leo against the attendance list.",
+        "Ask another child to watch Leo.",
+        "Finish the paperwork in the office first."
+      ],
+      "answer": "B",
+      "why": "An adult must clearly accept responsibility. Seeing another adult nearby does not prove the handoff is complete.",
+      "example": "It is like handing someone a full cup: make sure they have hold of it before you let go.",
+      "task": "Practice a handoff with a partner. Name the child, receive a reply, and check the attendance list.",
+      "zh": "Maya把Leo带到隔壁教室。离开前，她应请Jordan明确接手，等对方回应，再按当日名单核对Leo。附近有成人，不代表已经完成照护交接。",
+      "sources": [
+        "HEADSTART_SUPERVISION"
+      ],
+      "critical": "Leaving a child without an adult who has accepted care."
+    },
+    {
+      "family": 17,
+      "title": "A toy in an infant's sleep space",
+      "scenario": "During a routine check, you see a stuffed toy in an infant's sleep space. The infant is breathing normally and has no signs of distress. A parent says the toy helps at home.",
+      "question": "Which is the safest general teaching response?",
+      "options": [
+        "Keep the toy because the parent requested it.",
+        "Cover the toy with a blanket.",
+        "Remove the toy, maintain supervision, and explain the safe-sleep procedure to the parent.",
+        "Wait for the next staff meeting before acting."
+      ],
+      "answer": "C",
+      "why": "A parent's familiar routine does not establish that an item is safe in an infant's sleep space. The final lesson needs current safe-sleep guidance and the applicable state rule.",
+      "example": "A toy can be suitable for awake, supervised play without belonging in the sleep space.",
+      "task": "Use an empty demonstration sleep space to identify items that need checking against current guidance. Do not use a child for the demonstration.",
+      "zh": "例子中的婴儿没有紧急不适表现。先移走睡眠区域内的毛绒玩具，继续照看婴儿，再向家长解释安全睡眠做法。家中习惯不能代替安全要求。最终教材须核实现行睡眠指导与州规则。",
+      "sources": [
+        "NIH_SLEEP",
+        "CDC_SLEEP",
+        "CPSC_CRIB"
+      ],
+      "critical": "Keeping a known potential sleep hazard only because of parent preference."
+    },
+    {
+      "family": 23,
+      "title": "Was the medicine already given?",
+      "scenario": "A child's medicine record is blank. One worker thinks a scheduled dose may already have been given. The child has no urgent symptoms in this example.",
+      "question": "What should the next worker do?",
+      "options": [
+        "Give another dose so the record will be complete.",
+        "Guess from the amount left in the bottle.",
+        "Ask a child whether the medicine was given.",
+        "Do not repeat the dose on a guess; keep the child supervised and use the medication plan's qualified clinical advice route."
+      ],
+      "answer": "D",
+      "why": "A blank entry does not prove no medicine was given. The person reviewing the record must not invent a dosing decision.",
+      "example": "An unchecked delivery box does not prove a package never arrived; first find reliable information. Medicine decisions also need qualified clinical advice.",
+      "task": "Using a fictional record, identify what is known, what is uncertain, whom the plan tells you to contact, and how to record the actual advice and action.",
+      "zh": "空白给药记录不等于没有给过药。不要猜测后再给一次。继续照看儿童，按用药计划联系具备资质的医疗指导人员，并如实记录。若出现紧急症状，应立即采用相应急救流程。",
+      "sources": [
+        "CCDF",
+        "HEADSTART"
+      ],
+      "critical": "Giving a possible duplicate dose without appropriate direction."
+    },
+    {
+      "family": 49,
+      "title": "A child tells you something worrying",
+      "scenario": "During play, a child says, “Someone hurt me last night.” No immediate medical emergency is apparent. You are the caregiver receiving the statement.",
+      "question": "Which response best supports safety and a proper reporting process?",
+      "options": [
+        "Listen calmly, avoid leading questions, record the child's own words, and follow the applicable reporting duty without waiting to prove the allegation.",
+        "Promise you will keep it secret.",
+        "Interview the other children until the story is proven.",
+        "Wait for the owner's permission before deciding whether a legally required report may be made."
+      ],
+      "answer": "A",
+      "why": "The caregiver's role is to support the child and follow reporting duties, not investigate the allegation. The jurisdiction-specific reporting trigger, recipient, and timing still need primary-source verification.",
+      "example": "Write “Someone hurt me last night,” rather than changing it to your own conclusion about who did what.",
+      "task": "Locate the applicable official reporting instructions. Identify the reporting trigger, recipient, deadline, and whether any additional written follow-up is required.",
+      "zh": "平静倾听，不承诺保密，不用诱导问题追问，也不自行调查。记录儿童原话，依法履行报告义务；不为收集证据或等待老板许可而拖延已经触发的报告。报告门槛、对象和时限须按所在州核实。",
+      "sources": [
+        "NY_REPORT",
+        "CCDF"
+      ],
+      "critical": "Delaying an already-required report to obtain proof or internal approval."
+    },
+    {
+      "family": 25,
+      "title": "The unlabeled snack",
+      "scenario": "A child has a documented food-allergy plan. A visitor brings cookies with no ingredient information. A suitable snack that has already been checked against the plan is available.",
+      "question": "What should you offer the child?",
+      "options": [
+        "The cookie after removing visible nuts.",
+        "The checked alternative, while keeping the uncertain cookies away from the child's food.",
+        "A small bite of the cookie as a test.",
+        "The cookie if another child ate one safely."
+      ],
+      "answer": "B",
+      "why": "The ingredients and cross-contact risk are unknown. Other children's reactions and removing visible pieces do not establish that this food fits the child's plan.",
+      "example": "A label missing from a container means you cannot tell what is inside by looking at the lid.",
+      "task": "Practice checking a fictional snack label against a fictional allergy plan. For emergency symptoms, use the child's emergency plan rather than this routine snack exercise.",
+      "zh": "按该儿童的过敏计划提供已经核实的替代点心，不试吃，不靠挑掉可见坚果来判断安全。其他儿童吃后没事，也不能证明这个儿童可以吃。",
+      "sources": [
+        "CDC_ALLERGY"
+      ],
+      "critical": "Using a taste test to determine whether a child's allergen is present."
+    },
+    {
+      "family": 5,
+      "title": "Can one more child attend?",
+      "scenario": "A family requests an extra day. You have not yet checked the children's ages, attendance, qualified staff, or the current license conditions.",
+      "question": "Can you determine from these facts that the extra attendance is permitted?",
+      "options": [
+        "Yes, because only one child is being added.",
+        "Yes, because a parent agrees to the arrangement.",
+        "No. Obtain the relevant facts and apply the current rules and license conditions before confirming attendance.",
+        "No program may ever accept an extra day."
+      ],
+      "answer": "C",
+      "why": "Neither permission nor a universal refusal follows from the facts given. A legal calculation needs the applicable rule and the actual age and staffing information.",
+      "example": "A room with an empty chair may still lack a qualified adult or permitted capacity.",
+      "task": "Use a verified rule excerpt for a specified license category, then calculate the result for a fully stated group. Do not use invented limits as state law.",
+      "zh": "仅凭“多一个孩子”无法判断是否允许。先查实际年龄组合、出勤、合格人员和许可条件，再按现行规则判断。空椅子不等于有合法名额。",
+      "sources": [
+        "STATE_CA",
+        "STATE_TX",
+        "STATE_WA"
+      ],
+      "critical": "Promising admission before checking an applicable legal capacity limit."
+    },
+    {
+      "family": 58,
+      "title": "A request for a different tool",
+      "scenario": "A child has difficulty holding the thin handle used in a painting activity. The family asks whether a larger handle could be used. No individualized review has occurred.",
+      "question": "What should the educator do next?",
+      "options": [
+        "Reject the request because every child must use identical tools.",
+        "Exclude the child from painting.",
+        "Tell the family that every request is automatically required, regardless of the facts.",
+        "Discuss the child's access needs and consider a workable change that lets the child take part."
+      ],
+      "answer": "D",
+      "why": "Individual review is more useful than a blanket refusal or an automatic promise. Exact legal duties depend on the covered program and applicable law.",
+      "example": "A larger handle may let the child explore the same colors and make choices alongside peers.",
+      "task": "Name the learning goal and propose two accessible ways to take part. Review legal applicability separately.",
+      "zh": "先了解儿童的实际需要，再考虑可行调整，例如更粗的画笔手柄。目标是让儿童参与同样有意义的学习，不是一概拒绝，也不是未经分析承诺所有要求都必须满足。",
+      "sources": [
+        "ADA_CHILDCARE",
+        "NAEYC_DAP",
+        "IDEA"
+      ],
+      "critical": "A blanket disability-based refusal without an individualized review."
+    },
+    {
+      "family": 87,
+      "title": "Payment for an absence",
+      "scenario": "A provider in another program says every absence is payable. Your own program's current payment terms have not been checked.",
+      "question": "What information should guide your claim?",
+      "options": [
+        "Your program's current authorization, effective payment terms, and applicable absence rules.",
+        "The other provider's experience alone.",
+        "A guessed attendance entry that matches the payment requested.",
+        "A rule that no absence can ever be paid in any program."
+      ],
+      "answer": "A",
+      "why": "Payment rules depend on the program. An absence does not by itself establish whether payment is permitted, and records must remain accurate.",
+      "example": "Two families can use different benefit programs with different payment arrangements even at the same child-care site.",
+      "task": "Using fictional records and verified program instructions, distinguish attendance facts from payment eligibility and explain a correction route.",
+      "zh": "按本项目现行授权、付款条款和缺勤规则判断，不能照搬其他项目经验。出勤事实和可付款条件是不同问题，不能为了账单改造出勤记录。",
+      "sources": [
+        "CCDF"
+      ],
+      "critical": "Inventing attendance to support a payment claim."
+    },
+    {
+      "family": 34,
+      "title": "From toileting help to lunch",
+      "scenario": "A caregiver finishes helping a child use the toilet and is about to prepare food. Safe supervision is in place while the caregiver completes hygiene steps.",
+      "question": "What should happen before food preparation?",
+      "options": [
+        "Skip hand hygiene if gloves were worn.",
+        "Complete the required handwashing steps and use clean food-handling equipment.",
+        "Wipe hands on clothing.",
+        "Only check whether the hands look dirty."
+      ],
+      "answer": "B",
+      "why": "Gloves and visible cleanliness do not replace proper hand hygiene. The final lesson should show the current handwashing procedure and applicable facility rules.",
+      "example": "A hand can look clean after touching a bathroom door and still need washing before making a sandwich.",
+      "task": "Demonstrate the verified handwashing sequence at a training sink and explain how group supervision is maintained.",
+      "zh": "如厕协助后，先按正确步骤洗手，再处理食物。戴过手套、手看起来干净，都不能代替手部卫生。最终教材应配上经核实的操作步骤。",
+      "sources": [
+        "CDC_HANDS",
+        "CDC_DIAPER"
+      ],
+      "critical": "Skipping required hand hygiene before food handling."
+    },
+    {
+      "family": 56,
+      "title": "Describe what happened",
+      "scenario": "A worker writes, “Ava was bad again.” The worker saw Ava push a block toward Sam after Sam took a truck.",
+      "question": "Which note is most useful for planning support?",
+      "options": [
+        "Ava is a difficult child.",
+        "Ava always behaves badly.",
+        "Ava pushed a block toward Sam after Sam took the truck; the adult moved closer and helped them take turns.",
+        "Delete the event so the family will not worry."
+      ],
+      "answer": "C",
+      "why": "A concrete observation shows the event, context, and adult response without turning a behavior into a label about the child.",
+      "example": "“Spilled the water while reaching for the cup” tells you more than “careless.”",
+      "task": "Rewrite two fictional judgmental notes as observable events. Add one developmentally appropriate support to try and observe.",
+      "zh": "用可观察事实代替“坏”“难管”等标签：谁做了什么、之前发生了什么、成人怎样回应。记录的目的是帮助理解和支持儿童，不是给儿童定性。",
+      "sources": [
+        "NAEYC_DAP",
+        "CDC_MILESTONES"
+      ],
+      "critical": "No automatic safety-critical failure for wording alone; give specific feedback."
+    },
+    {
+      "family": 66,
+      "title": "The vehicle is quiet",
+      "scenario": "Children have left a program vehicle at the destination. The assigned physical vehicle check has not been completed. No child is known to be missing in this example.",
+      "question": "What should the responsible adult do?",
+      "options": [
+        "Assume the vehicle is empty because it is quiet.",
+        "Sign the checklist from memory tomorrow.",
+        "Ask a child whether anyone stayed behind and stop there.",
+        "Complete the physical vehicle check and the transport plan's other verification steps, while maintaining supervision of the children outside."
+      ],
+      "answer": "D",
+      "why": "Silence is not a reliable check for a child left in a vehicle. A physical check and the applicable safeguards address a risk that a head count alone may miss.",
+      "example": "A sleeping child may not answer when someone calls into the vehicle.",
+      "task": "Using an empty parked training vehicle, demonstrate the approved check. A missing child or medical emergency requires the emergency procedure immediately.",
+      "zh": "车辆安静不能证明车内没有儿童。按运输计划逐处实查，并完成所要求的其他核实步骤；车外儿童也必须有人照看。若儿童失踪或有紧急危险，应立即启动相应应急流程。",
+      "sources": [
+        "NHTSA",
+        "HEADSTART"
+      ],
+      "critical": "Declaring the vehicle empty without completing the assigned check."
+    },
+    {
+      "family": 53,
+      "title": "Respond without shaming",
+      "scenario": "During block play, an adult proposes making a child stand in front of the group while everyone says the child is naughty.",
+      "question": "What is the best response?",
+      "options": [
+        "Stop the humiliating approach and guide the child toward a safe action with calm adult support.",
+        "Use the shaming activity if it works quickly.",
+        "Ask the other children to decide the punishment.",
+        "Ignore any risk because guidance must never include adult limits."
+      ],
+      "answer": "A",
+      "why": "Children need safe limits and support. Public shaming does not teach the next safe action and can harm the child's dignity.",
+      "example": "Say, “Blocks stay on the floor. I can help you build here,” while moving close enough to support safe play.",
+      "task": "Practice one brief, respectful limit and one supported alternative suited to the child's age and communication needs.",
+      "zh": "停止羞辱做法，用平静、具体的话说明安全界限，并帮助儿童练习下一步。例如：“积木留在地上，我陪你在这里搭。”尊重儿童不等于放弃安全界限。",
+      "sources": [
+        "NAEYC_DAP",
+        "HEADSTART"
+      ],
+      "critical": "Endorsing humiliation as discipline."
+    }
+  ]
+}

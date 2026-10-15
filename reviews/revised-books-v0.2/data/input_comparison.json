@@ -1,0 +1,257 @@
+[
+  {
+    "file": "books/MS_Mississippi_Practice_Book.html",
+    "sha256": "e6f13a02a6409d14253d99206bfbbb8a857e643132cfd4ae070607fded717e53",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/TN_Tennessee_Practice_Book.html",
+    "sha256": "21ae91a18937beb33fe6edb57ac59e5559f2558b97e7b665bf603996ff1553e1",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/MI_Michigan_Practice_Book.html",
+    "sha256": "12f04792d3f2d3864623b95f93255ad062d2e9332e3cc3b91982a88866e19626",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/MA_Massachusetts_Practice_Book.html",
+    "sha256": "d746eb17e01a2a660a25495ab9d66f4a302d21e648aef8dbb56f14b9641ce43f",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/IN_Indiana_Practice_Book.html",
+    "sha256": "6d54a3dec8398408c171f02cf0ad8d58846e2c53fc5828168b2aa23ab45ffda8",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/VA_Virginia_Practice_Book.html",
+    "sha256": "e4743ac680a7051e3f5c3cee3314300e7388d880c4b7a443cce7798a3c6d7180",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/ME_Maine_Practice_Book.html",
+    "sha256": "6f482ee4d8c50d93c4c10792605945f07f6a32b1ef0486cc0c7999bb84113057",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/AR_Arkansas_Practice_Book.html",
+    "sha256": "00f5d9328ac32f7b3d8843d2fe06b03a8e5f2b189fdde9a5389ab65a98d0d4e2",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/ID_Idaho_Practice_Book.html",
+    "sha256": "17d01a9f839928a652a0295b2bb596b03e4c97b7e5b9a653b2a4250280f025d5",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/FL_Florida_Practice_Book.html",
+    "sha256": "4cda2777150e30c0e846cf60e46a8ce53470fb4a9c81c4460414124fb2330049",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/WY_Wyoming_Practice_Book.html",
+    "sha256": "848e6aa395e6ab90d1063d0bba261d7d2619dafa0f8bb93fc0fd852041811090",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/OH_Ohio_Practice_Book.html",
+    "sha256": "eb77d121f4867c9215d042c3f139760e20f514a5fe514f11e9912110ae66b876",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/NV_Nevada_Practice_Book.html",
+    "sha256": "61c8a13155131d84838adb901b170862caaa7baf7364757327309970502f47ae",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/KS_Kansas_Practice_Book.html",
+    "sha256": "237fb38aa8bc27e5efba4d65f320fb7bffa0aa201d657d7013c51c0e8fd32e46",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/LA_Louisiana_Practice_Book.html",
+    "sha256": "497c045187c4002f2bd961f92f146bf427949b119cca381e0d20b58b35cca66a",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/NM_New_Mexico_Practice_Book.html",
+    "sha256": "8a84933e1eab980423696691d2eb8446691c3d83d464cd55035f3de28ef040f3",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/OK_Oklahoma_Practice_Book.html",
+    "sha256": "12ea7863ee39ff485f04b12bbdd5ec2a7bf5511de7c29948b594fc700a0b28c8",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/NH_New_Hampshire_Practice_Book.html",
+    "sha256": "00bc534707a54c325eb64207ddc32f83d3bef2b9650f395b869f145eccb822f5",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/NY_New_York_Practice_Book.html",
+    "sha256": "c69816d45a0a825681944ffa4a6b8ad8f65075505f8dd6ca018bd490ecc55389",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/PA_Pennsylvania_Practice_Book.html",
+    "sha256": "08696e31e682959feaa7b5702858ccc721255e1be4f8973087078e2f8cdf9577",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/VT_Vermont_Practice_Book.html",
+    "sha256": "74f964162a145975cb5443f5219d41b50ea521ec46dbb4aea739e6c9874aa356",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/AL_Alabama_Practice_Book.html",
+    "sha256": "cd65275019d384ac07dfced106479059124e56c844aadb9bd61241505acd87a4",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/TX_Texas_Practice_Book.html",
+    "sha256": "924f839a73cc0a28a853194cd596a7b49a78025c8102b4d113c793a95c31630e",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/ND_North_Dakota_Practice_Book.html",
+    "sha256": "830711ca52974eb636faa13b405e44ced266fd48112babd99bbf736c7d278d61",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/CA_California_Practice_Book.html",
+    "sha256": "fc2ca74d50ec3dd3188e19bc5954cd63a1a2551fe708f5f673bb8c6eff7d9e56",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/IA_Iowa_Practice_Book.html",
+    "sha256": "7e91e3ea62cbecfa51cb29494934aa24fe0972bf619623e08156cd83ed82b787",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/HI_Hawaii_Practice_Book.html",
+    "sha256": "343a3d99022c8df01ea87c0edc4442f5fa1d4e960653d6f12e591840d04b2925",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/RI_Rhode_Island_Practice_Book.html",
+    "sha256": "df08a8723cd73318360466421d462cc97a323614faf969d6ef7ad3d8e8d0aae5",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/WI_Wisconsin_Practice_Book.html",
+    "sha256": "262027dee85016398b8346d78fce4b7d0c5feb268b66a838d30ba92f0c8b0d8f",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/MO_Missouri_Practice_Book.html",
+    "sha256": "6a6aa67437576776e8e1024ab979e5608a6eaed5e3b2289b91c5f72a8af55078",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/AZ_Arizona_Practice_Book.html",
+    "sha256": "f1e399c751e7b1e68be36034b0129e2ae85e43211c16be37215301390484307f",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/SD_South_Dakota_Practice_Book.html",
+    "sha256": "8e9aadf16ab2e09d1c57af98404c2a62490654eac80e9d1786b5b3fa4e93ee5f",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/START_HERE.html",
+    "sha256": "f04a497c0fc83e4b4901bff4fc9c0656082807cb9e63dd85bb9c17efcee167f2",
+    "identical_to_previous": false
+  },
+  {
+    "file": "books/NC_North_Carolina_Practice_Book.html",
+    "sha256": "de59780a9f183170cf311f6472206b8fc0667382a8eee910d32d5b5bc3277be7",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/OR_Oregon_Practice_Book.html",
+    "sha256": "5e70a2657f178db560227c8cba4a03dfeadaa58ae3afa65a452f88d49198f834",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/MD_Maryland_Practice_Book.html",
+    "sha256": "425cd3767ff8398320bb261f864c65bfcd5b18b8830db81abe2ed14d99c2e762",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/NJ_New_Jersey_Practice_Book.html",
+    "sha256": "0d91df7706323a02698bbe28fa5536c401d866cef2b587a8473272df74227225",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/IL_Illinois_Practice_Book.html",
+    "sha256": "0cbe74e0d9d2e08f965632bce19a0f75dcd10774c32f3bb6be527a130a73bf90",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/GA_Georgia_Practice_Book.html",
+    "sha256": "4a2efe772384c0f847f5eead902047c81cdd946867cb9da5385f09fd7b9909fc",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/WV_West_Virginia_Practice_Book.html",
+    "sha256": "6b7ca2913c7fcf027c4d1a13d47f04d446459a502a74605e92e69840f07256bc",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/AK_Alaska_Practice_Book.html",
+    "sha256": "b29aedace50922e95a6f44d685e36adc71d13393f22c0a2fd63ca5a82a6268b5",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/WA_Washington_Practice_Book.html",
+    "sha256": "a6bf311543c89d738e7b6829dfbd43ffe9f87d0bcaa9138017a3edc192824adc",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/NE_Nebraska_Practice_Book.html",
+    "sha256": "2533c2bd282174d5622d64a1f426fc9635ad12c51db991460f521b94acfa6738",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/MT_Montana_Practice_Book.html",
+    "sha256": "1679dbd4ef502d952512d3c04a67c8e5dfdfe73de3616bf4872d718eb67c67ed",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/MN_Minnesota_Practice_Book.html",
+    "sha256": "60db1b4b5692a57dd2afe07e724db2dc2586ae52025f942a133b51ef0f2caca4",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/DE_Delaware_Practice_Book.html",
+    "sha256": "d81569632cd2de38bdfd2f3da4b79921176ac168d45af679b9fd354bd8e80a06",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/UT_Utah_Practice_Book.html",
+    "sha256": "a489a696d2366cdf92ddc1843a3bb03a1e3f18dcf054903917a07a7e0f6ccdf3",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/KY_Kentucky_Practice_Book.html",
+    "sha256": "24be46032e7192018bda20cc75279788c1c51af04887a6feabd4b08acf1d0413",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/CT_Connecticut_Practice_Book.html",
+    "sha256": "0b04620d318c7de4f132f1513e0ec812b65653e320272e40e8a7f2e207385c31",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/SC_South_Carolina_Practice_Book.html",
+    "sha256": "e1cb20d57c33db07db66c64923ca14fe8604694672e51ee94e54ac1e43dd78d3",
+    "identical_to_previous": true
+  },
+  {
+    "file": "books/CO_Colorado_Practice_Book.html",
+    "sha256": "ebee75c2838cd59d80bbd2a3feca43e382508cb0e81a66ae0b7f540789f15915",
+    "identical_to_previous": true
+  }
+]
