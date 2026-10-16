@@ -1,0 +1,314 @@
+{
+  "files": [
+    {
+      "file": "PRACTICE_ASSESSMENT_12.html",
+      "bytes": 24195,
+      "sha256": "c9ad1acdbb9ec25cfa20bb6b21d2cec41de5ecbddddae8264171e1a9060608d5"
+    },
+    {
+      "file": "README.md",
+      "bytes": 958,
+      "sha256": "71b8ab5978648c6379419c56d436fecaecbbf5b31e24e23b149aa48c4c4c7257"
+    },
+    {
+      "file": "REVIEW_REPORT.md",
+      "bytes": 6931,
+      "sha256": "2b0d16722d954f6be83ee4d8322f1e5ebe9677f3ae88561314fea6c659c37d9b"
+    },
+    {
+      "file": "STAFF_FOUNDATIONS.html",
+      "bytes": 12725,
+      "sha256": "b66ab1875bde8d8369ecce93d471577cd044be261ee4c5ed0b51ee066972ada7"
+    },
+    {
+      "file": "START_HERE.html",
+      "bytes": 7450,
+      "sha256": "bbb94e044fc19a0893353f2d5b53feb7c6ec46525cebc0730ea31d493bf1f9f4"
+    },
+    {
+      "file": "books/AK_Alaska_Practice_Book.html",
+      "bytes": 4372466,
+      "sha256": "28a3844d46af87f8a479191102d5001ca1f3fe2d61a0671c78aa67c54eaa66de"
+    },
+    {
+      "file": "books/AL_Alabama_Practice_Book.html",
+      "bytes": 4323419,
+      "sha256": "6df91522de112ed842f46702181f1c185867b4cf82527d87ef95f1ccc4420a76"
+    },
+    {
+      "file": "books/AR_Arkansas_Practice_Book.html",
+      "bytes": 4346444,
+      "sha256": "08a38c313b796d6db3227562bb057eee738b5949317465a6503c12c05045b4de"
+    },
+    {
+      "file": "books/AZ_Arizona_Practice_Book.html",
+      "bytes": 4322418,
+      "sha256": "5e5116243e7ba6072a8b5a28292057e7e887ee0da6f97354ccff478b61a7c547"
+    },
+    {
+      "file": "books/CO_Colorado_Practice_Book.html",
+      "bytes": 4351449,
+      "sha256": "3c1c97ad8a86525090887eaf7637ef38ca004caffbf03b3f4ec20e291908aa19"
+    },
+    {
+      "file": "books/CT_Connecticut_Practice_Book.html",
+      "bytes": 4350454,
+      "sha256": "2cd8aa9e2bea63780075d29c31dd8711dd711e0c178aad0dedebe06442cd3843"
+    },
+    {
+      "file": "books/DE_Delaware_Practice_Book.html",
+      "bytes": 4354452,
+      "sha256": "21a4119ba932ffde1b5555c1e06949b24d332c30752aa0ad2e091cc514e78486"
+    },
+    {
+      "file": "books/FL_Florida_Practice_Book.html",
+      "bytes": 4363459,
+      "sha256": "3e54a13685fca3ce22a66e8858bd3235b9e2a800a17513271425dcc455f50780"
+    },
+    {
+      "file": "books/GA_Georgia_Practice_Book.html",
+      "bytes": 4322418,
+      "sha256": "cde6c60bc31a29cae57267ab86f42d49abf7a42d75dc4017ae3abda776d2865c"
+    },
+    {
+      "file": "books/HI_Hawaii_Practice_Book.html",
+      "bytes": 4357451,
+      "sha256": "ab37a1fbc61c0427c1818e1ef90814bc2b465007a398250b8e1bfaa71815b855"
+    },
+    {
+      "file": "books/IA_Iowa_Practice_Book.html",
+      "bytes": 4349439,
+      "sha256": "98ef436f554362f27d419b0fe2951fa9329926392cd7baee89c61aceb998f3a4"
+    },
+    {
+      "file": "books/ID_Idaho_Practice_Book.html",
+      "bytes": 4353445,
+      "sha256": "dc3ab6186b7a9aec612c4baf1bebf5a76d02252de42c038fd3eb001b0e8d894c"
+    },
+    {
+      "file": "books/IL_Illinois_Practice_Book.html",
+      "bytes": 4323421,
+      "sha256": "b792e2c0bd877e6beee22dee863db58fbd1fd21ba62f9b33a3e5d1197d2166e0"
+    },
+    {
+      "file": "books/IN_Indiana_Practice_Book.html",
+      "bytes": 4336432,
+      "sha256": "ffdef1c80a66799ecfd6dce490b0f59f0c9eac34b96c367d1c7ae82872f459d1"
+    },
+    {
+      "file": "books/KS_Kansas_Practice_Book.html",
+      "bytes": 4356450,
+      "sha256": "0642a9824dbc9a662c2575df81035850e9be4d6595a05699ea2378a1f9f83b8c"
+    },
+    {
+      "file": "books/KY_Kentucky_Practice_Book.html",
+      "bytes": 4330428,
+      "sha256": "a3c30009fbffc7a71d75859dccfbd3beb372527e84b3317ca3ee2422ea8c8bf2"
+    },
+    {
+      "file": "books/LA_Louisiana_Practice_Book.html",
+      "bytes": 4342442,
+      "sha256": "f7f6c4271df58a4f5c7fadf17d45cbedb5c908bbcfd1ebabb573c662040bcf87"
+    },
+    {
+      "file": "books/MA_Massachusetts_Practice_Book.html",
+      "bytes": 4326434,
+      "sha256": "ac188147fef94e4d76a1c39366acc60244eff0132c7400eaa31124dfde408250"
+    },
+    {
+      "file": "books/MD_Maryland_Practice_Book.html",
+      "bytes": 4386484,
+      "sha256": "e1720ac0dd6b139a33558d849b2d52380e3886a9e3d9d012a8cbe0578f5e7a38"
+    },
+    {
+      "file": "books/ME_Maine_Practice_Book.html",
+      "bytes": 4368460,
+      "sha256": "79b726640caaff42f44b272e698bca1920dc5cfae89645f5db9d9c69930d7412"
+    },
+    {
+      "file": "books/MI_Michigan_Practice_Book.html",
+      "bytes": 4387485,
+      "sha256": "368f40ba6c1f587863db68bb3cf10d70daa38533dbcfd5c691b528f8c11e9229"
+    },
+    {
+      "file": "books/MN_Minnesota_Practice_Book.html",
+      "bytes": 4383483,
+      "sha256": "26f151f262fc02188598026fa29b3b77b5e2fcf7e0d767a570f509156f26c902"
+    },
+    {
+      "file": "books/MO_Missouri_Practice_Book.html",
+      "bytes": 4321419,
+      "sha256": "ba377af96fa5461aba102eab5bfdfb54b0645783db202d3a08e303ead7c7a8f4"
+    },
+    {
+      "file": "books/MS_Mississippi_Practice_Book.html",
+      "bytes": 4322426,
+      "sha256": "cf841abb4485125d5960176b72178469ecaf013eb42368157d0dccffead27bc8"
+    },
+    {
+      "file": "books/MT_Montana_Practice_Book.html",
+      "bytes": 4329425,
+      "sha256": "0efea2611d6245a7d6c72141a2db0aa3ec0f06933219afed2a6d586db031eccf"
+    },
+    {
+      "file": "books/NC_North_Carolina_Practice_Book.html",
+      "bytes": 4353463,
+      "sha256": "a01c0422eb88183d298078b1753e8adba5d3367ad917a53a95c5ae36eb2936bf"
+    },
+    {
+      "file": "books/ND_North_Dakota_Practice_Book.html",
+      "bytes": 4347453,
+      "sha256": "4da5254fc1fd99ba5171a4454a2d6ce34d01a1a0d5d1ae6fc618531682cebebc"
+    },
+    {
+      "file": "books/NE_Nebraska_Practice_Book.html",
+      "bytes": 4323421,
+      "sha256": "59179eeba2ff8695fec7117060f54454b8eed8556a24d70da41ea9e2f42496cc"
+    },
+    {
+      "file": "books/NH_New_Hampshire_Practice_Book.html",
+      "bytes": 4327435,
+      "sha256": "9dfd8f32a1b84ca50eeb1ff29586dedc5705e4e8a30f4aeb66976dd2bf8f4a28"
+    },
+    {
+      "file": "books/NJ_New_Jersey_Practice_Book.html",
+      "bytes": 4330432,
+      "sha256": "ba31e3fabfa410cdb72687cdc4cb7b00611c3fb4e9321c9013d114ad286e7d18"
+    },
+    {
+      "file": "books/NM_New_Mexico_Practice_Book.html",
+      "bytes": 4338440,
+      "sha256": "fa9110deec8a9bd7ee165eac4f66e17bd30a89adda4391e8adcaedfb9a1024f2"
+    },
+    {
+      "file": "books/NV_Nevada_Practice_Book.html",
+      "bytes": 4354448,
+      "sha256": "cfd584bd0cf37c722dacacbebdc16116cac20bbc807bdc4c151fe7737b7dfe04"
+    },
+    {
+      "file": "books/NY_New_York_Practice_Book.html",
+      "bytes": 4321419,
+      "sha256": "2ca78d73bb836acc6944092f6687c22351b0de1b860b44a0f16bfef9ae1c1ab0"
+    },
+    {
+      "file": "books/OH_Ohio_Practice_Book.html",
+      "bytes": 4364454,
+      "sha256": "6a94f9caad9237f606235583e9ee8726d6ee3166c6c57afe22046fd40257a846"
+    },
+    {
+      "file": "books/OK_Oklahoma_Practice_Book.html",
+      "bytes": 4378476,
+      "sha256": "ce4feb8d29eb52a87e055758b4a4238daf5e6870df45cd309df993a214772f70"
+    },
+    {
+      "file": "books/OR_Oregon_Practice_Book.html",
+      "bytes": 4333427,
+      "sha256": "71cc7574beac6900cbaed467f549be5fba738f667bf921702d143402c1c28c22"
+    },
+    {
+      "file": "books/PA_Pennsylvania_Practice_Book.html",
+      "bytes": 4377483,
+      "sha256": "a1c90ba9e908c292c31ebad2aa573efb24d8b97d5425386ff51cbe6f89724189"
+    },
+    {
+      "file": "books/RI_Rhode_Island_Practice_Book.html",
+      "bytes": 4327433,
+      "sha256": "52ce3950134b3c2a2deeca6501119f7c64edaee9695270c10875d01b17cab39d"
+    },
+    {
+      "file": "books/SC_South_Carolina_Practice_Book.html",
+      "bytes": 4333443,
+      "sha256": "1d4616c2edc9dfbdeb18f1ea973ed1ed704923c5e4a515d71e7fc4d7b6e862cc"
+    },
+    {
+      "file": "books/SD_South_Dakota_Practice_Book.html",
+      "bytes": 4313419,
+      "sha256": "05f98608a664bd2b11493c05c31762a6e2e088fa384dcb1a531ef412e47e7980"
+    },
+    {
+      "file": "books/TN_Tennessee_Practice_Book.html",
+      "bytes": 4374474,
+      "sha256": "d453c9010a12c56e4fa3546d9943d0b0b030d150a7e0ec58c37ab8773f356c0d"
+    },
+    {
+      "file": "books/TX_Texas_Practice_Book.html",
+      "bytes": 4342434,
+      "sha256": "3e8400acad70828f40ed4d2fd8769d8ae61604be0b04d81e44b686ce247dc252"
+    },
+    {
+      "file": "books/UT_Utah_Practice_Book.html",
+      "bytes": 4330420,
+      "sha256": "87a3836c9504e3898e41992f68bd358338d1d02113469ffe33dd91cbed26c4da"
+    },
+    {
+      "file": "books/VA_Virginia_Practice_Book.html",
+      "bytes": 4328426,
+      "sha256": "1dae15fd79ff5d97651bbc5d5c5124db5c690e2c2aed31a8372a22a8e5769840"
+    },
+    {
+      "file": "books/VT_Vermont_Practice_Book.html",
+      "bytes": 4317413,
+      "sha256": "6874140d8ab491ae006f9202410795831a4faca72f767f46fb23fb678d2d51b1"
+    },
+    {
+      "file": "books/WI_Wisconsin_Practice_Book.html",
+      "bytes": 4314414,
+      "sha256": "d4166ffa7bdbd0d4635c643812e8dc5d544e14e8ffdc9fe03f0ef3d7008e40a7"
+    },
+    {
+      "file": "books/WV_West_Virginia_Practice_Book.html",
+      "bytes": 4312420,
+      "sha256": "7ecaf984af6e7ca41f6b6ace0cdcbeb752be0ec4c2a24a96d7645a5a5d596ac6"
+    },
+    {
+      "file": "books/WY_Wyoming_Practice_Book.html",
+      "bytes": 4328424,
+      "sha256": "d028bc451490909e30b85bf3861dfc230220af413ea192bff9743010d45f12a7"
+    },
+    {
+      "file": "browser_validation.json",
+      "bytes": 16436,
+      "sha256": "2c900e13164c3c2e763721ab0c93fddf1e852974e36d152092078bfac37b1abd"
+    },
+    {
+      "file": "data/CASE_REGISTER_48000.csv",
+      "bytes": 3064409,
+      "sha256": "2519f80ebbfeca00a8feeb1e1b2fccb17a5711fb735da279def9220a00f1061b"
+    },
+    {
+      "file": "data/INPUT_FILES_48.csv",
+      "bytes": 11947,
+      "sha256": "066b9282616b9d83a79fc466abf3e44912725a1783c51d924b7189b89dc4065e"
+    },
+    {
+      "file": "data/STATE_SOURCE_ROUTES_48.csv",
+      "bytes": 6739,
+      "sha256": "e31831d484e77313353f06507d049054b4dbc6be356e499f18dc03d125a35643"
+    },
+    {
+      "file": "data/shared_curriculum_1000.json",
+      "bytes": 3374038,
+      "sha256": "3f20fb69aa2a3dbdc107aabe1fa73ae56e5c8e340cbc8e41e59ea2e15011da93"
+    },
+    {
+      "file": "data/template_provenance.json",
+      "bytes": 6259,
+      "sha256": "e1eecbb19afe669c6218811ce5aeca18c84715fd56fa0b30e21c38b3581807d6"
+    },
+    {
+      "file": "manifest.json",
+      "bytes": 31642,
+      "sha256": "528d96f95c46d34f1a1b3fa5bf493805dd345b89ac40645eef60fc033b5d20f5"
+    },
+    {
+      "file": "reference/USER_SUPPLIED_WA_STYLE_TEMPLATE.docx",
+      "bytes": 57252,
+      "sha256": "ed4990df2a0ae51d335fbc40975f6429b8aaf93dd6d283dbed39fb1ac732e1eb"
+    },
+    {
+      "file": "validation_report.json",
+      "bytes": 20381,
+      "sha256": "126107a54f6d8f567b5bb10151b28c4712e32f578a81bd07bfb9ea5ef6727b1e"
+    }
+  ]
+}

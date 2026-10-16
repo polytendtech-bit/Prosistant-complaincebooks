@@ -1,5 +1,16 @@
 # Prosistant child-care staff practice books
 
+## 48 states — bilingual daily-training style
+
+The 48 uploaded books have been rewritten using the supplied Washington daily-training DOCX as the model for bilingual incidents, role-based questions and structured answers. Each retains 1,000 exercises, 25 topics, original IDs, CSS, JavaScript, filters, answer controls and printing.
+
+- [Download all 48 books](books/48_State_Daily_Training_Style_Books.zip)
+- [Browse the book files](books/48-state-daily-training-style/books)
+- [Read the scope and review report](books/48-state-daily-training-style/REVIEW_REPORT.md)
+- [Technical validation](books/48-state-daily-training-style/validation_report.json)
+
+Extract the ZIP with its folders intact, then open `START_HERE.html`. The editions share 1,000 general practice exercises; current state-law and exact-subsection verification remain incomplete. Each state's original source route is retained. Earlier editions, including California and Washington, remain available below.
+
 ## California — revised examples, unchanged reader
 
 - [Download the California examples revision](books/CA_Revised_Examples_Original_Reader.zip)
