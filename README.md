@@ -1,5 +1,13 @@
 # Prosistant child-care staff practice books
 
+## Subsection coverage audit — revision prerequisite
+
+[Read the subsection audit and next revision criteria](reviews/subsection-coverage-audit/REVIEW_AND_NEXT_REVISION.md) · [2,000-case coverage register](reviews/subsection-coverage-audit/CASE_COVERAGE_REGISTER_2000.csv)
+
+The latest audit confirms that the previous style rewrite retained 100 underlying families and ten repeated task patterns. All 1,000 corresponding scenarios and the main answer bodies are identical across Washington and California; no exact subsection mappings are populated. That edition is not a distinct subsection-based curriculum.
+
+The source-based rewrite remains blocked because official sites return proxy errors in this running environment, even after a fresh network grant and a normal browser check. Current official rule documents or working source access are required. The audit records gaps and candidate authoring targets; it does not claim that revised regulatory books have been completed. Existing books are preserved.
+
 ## Washington and California — daily-training style
 
 The two books have been rewritten using the supplied Washington daily-training DOCX as the writing and Q&A model, while retaining the original book controls and layout styling.

@@ -1,0 +1,47 @@
+{
+  "scope": "Audit of both actual uploaded HTML books; no current primary rule text verified",
+  "states": {
+    "WA": {
+      "input_sha256": "40f46f7ef7221837a0de91de0bead1841cd127490c27f572ecbf992a58d20d51",
+      "input_matches_latest_repository_book": true,
+      "cases": 1000,
+      "topic_count": 25,
+      "base_families": 100,
+      "family_task_counts": {
+        "10": 100
+      },
+      "distinct_required_answer_texts": 102,
+      "distinct_practical_answer_texts": 10,
+      "distinct_record_answer_texts": 100,
+      "verified_current_rule_cases": 0,
+      "cases_with_exact_subsection_field": 0
+    },
+    "CA": {
+      "input_sha256": "5f2e2b5862c889fdefa719461343df86e0d1d7b498d14789688db7409d0c14f1",
+      "input_matches_latest_repository_book": true,
+      "cases": 1000,
+      "topic_count": 25,
+      "base_families": 100,
+      "family_task_counts": {
+        "10": 100
+      },
+      "distinct_required_answer_texts": 102,
+      "distinct_practical_answer_texts": 10,
+      "distinct_record_answer_texts": 100,
+      "verified_current_rule_cases": 0,
+      "cases_with_exact_subsection_field": 0
+    }
+  },
+  "cross_state_identical_text_at_same_case_position": {
+    "scenario": 1000,
+    "question": 1000,
+    "required": 1000,
+    "practical": 1000,
+    "records_best_practice": 1000
+  },
+  "source_leads": {
+    "WA": 27,
+    "CA": 7
+  },
+  "all_cases_need_exact_subsection_mapping": 2000
+}

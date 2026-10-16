@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://app.leg.wa.gov/wac/default.aspx?cite=110-300-0345",
+    "client": "Chromium default configured network",
+    "attempted_utc": "2026-10-16T03:06:31.763081+00:00",
+    "error": "Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://app.leg.wa.gov/wac/default.aspx?cite=110-300-0345\nCall log:\n  - navigating to \"https://app.leg.wa.gov/wac/default.aspx?cite=110-300-0345\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.cdss.ca.gov/inforesources/child-care-licensing/resources-for-providers/laws-and-regulations",
+    "client": "Chromium default configured network",
+    "attempted_utc": "2026-10-16T03:06:32.500757+00:00",
+    "error": "Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.cdss.ca.gov/inforesources/child-care-licensing/resources-for-providers/laws-and-regulations\nCall log:\n  - navigating to \"https://www.cdss.ca.gov/inforesources/child-care-licensing/resources-for-providers/laws-and-regulations\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://app.leg.wa.gov/wac/default.aspx?cite=110-300-0345",
+    "client": "Python HTTPS after network grant",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://www.cdss.ca.gov/inforesources/child-care-licensing/resources-for-providers/laws-and-regulations",
+    "client": "Python HTTPS after network grant",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]
