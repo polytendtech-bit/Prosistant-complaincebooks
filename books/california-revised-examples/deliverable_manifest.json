@@ -1,0 +1,50 @@
+{
+  "EXAMPLE_REVISION_NOTES.md": {
+    "bytes": 2573,
+    "sha256": "8a56e854eaf74f063d08807fa93144e6fb612032eec86888e43aeb7902658772"
+  },
+  "PRACTICE_ASSESSMENT_12.html": {
+    "bytes": 24195,
+    "sha256": "c9ad1acdbb9ec25cfa20bb6b21d2cec41de5ecbddddae8264171e1a9060608d5"
+  },
+  "README.md": {
+    "bytes": 635,
+    "sha256": "f43dec84ad89f8c9f25222e8ae560b497c5725c390c15b56ac2e7117aa232637"
+  },
+  "REVIEW_REPORT.md": {
+    "bytes": 6337,
+    "sha256": "0a8f730274ff50f9914ae66fe119300429ba28b0d9063e1d3e383a235710c454"
+  },
+  "STAFF_FOUNDATIONS.html": {
+    "bytes": 12725,
+    "sha256": "b66ab1875bde8d8369ecce93d471577cd044be261ee4c5ed0b51ee066972ada7"
+  },
+  "START_HERE.html": {
+    "bytes": 2408,
+    "sha256": "f94916963e26aa9309ee2c3692c7ac81560a17c285048074170f2566160b3a14"
+  },
+  "books/CA_California_Practice_Book.html": {
+    "bytes": 4493698,
+    "sha256": "90f40e1dac5739690d56fa15ae626220580fff8a35aa0395edbf457e5d0895ac"
+  },
+  "books/WA_Washington_Practice_Book.html": {
+    "bytes": 4741876,
+    "sha256": "40f46f7ef7221837a0de91de0bead1841cd127490c27f572ecbf992a58d20d51"
+  },
+  "browser_validation.json": {
+    "bytes": 300,
+    "sha256": "d4c9090f1175a989f8095fbab359c1fe003444a8d8a0961d2cd17c523148d058"
+  },
+  "data/CA_curriculum_1000.json": {
+    "bytes": 3928798,
+    "sha256": "3d7d681aacce1789505fa78683f50d7f76d5847766ad7a3d62cdf7ba1511cb21"
+  },
+  "data/EXAMPLE_CHANGE_REGISTER_1000.csv": {
+    "bytes": 819240,
+    "sha256": "df68ab83aa9d10e24d1b57c5041713c8ef4c0e2e5f5d5b98cb0d96dd09408b1b"
+  },
+  "validation_report.json": {
+    "bytes": 754,
+    "sha256": "7e0645206227e171a3a31280663ac614fe57a3b99debc885e7f7782b08457c19"
+  }
+}

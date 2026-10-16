@@ -1,0 +1,20 @@
+{
+  "changed_bilingual_scenarios": 1000,
+  "distinct_english_scenarios": 1000,
+  "distinct_chinese_scenarios": 1000,
+  "exercises": 1000,
+  "topics": 25,
+  "case_ids_unchanged": true,
+  "all_non_scenario_DOM_unchanged": true,
+  "all_questions_unchanged": true,
+  "all_answers_unchanged": true,
+  "all_citations_unchanged": true,
+  "css_unchanged": true,
+  "javascript_unchanged": true,
+  "original_case_family_structure": "100 families with 10 guided decision tasks retained",
+  "new_legal_requirement_mappings": 0,
+  "new_legal_verification": false,
+  "browser_checks": "passed",
+  "input_sha256": "5f2e2b5862c889fdefa719461343df86e0d1d7b498d14789688db7409d0c14f1",
+  "output_sha256": "90f40e1dac5739690d56fa15ae626220580fff8a35aa0395edbf457e5d0895ac"
+}
