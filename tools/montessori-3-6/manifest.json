@@ -1,0 +1,44 @@
+{
+  "product": "Growing Together — Montessori planning and records, ages 3–6",
+  "version": "1.0",
+  "built_in_lessons": 72,
+  "shared_accounts": false,
+  "cloud_sync": false,
+  "files": [
+    {
+      "path": "Curriculum_Library_72.csv",
+      "bytes": 47226,
+      "sha256": "3eff11a9090796deadd5390ef93113d7f041285dfb03657d2f113165e0430852"
+    },
+    {
+      "path": "Montessori_Planning_and_Records.html",
+      "bytes": 116550,
+      "sha256": "d95aa7eb399c2c46461ba9661d3641141626455355db5df8f96bface3a675aeb"
+    },
+    {
+      "path": "Printable_Planning_and_Record_Packet.pdf",
+      "bytes": 85650,
+      "sha256": "835a37d9a0dc47ce353e50c7c4540e5345653190034ae3bada84e8d50ff650c2"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6310,
+      "sha256": "c0135caa47226c81db12ec36268ec92935c7d7d0c3ff27e02287d9a15b792cc1"
+    },
+    {
+      "path": "curriculum.json",
+      "bytes": 70236,
+      "sha256": "72f562d0911845b805b85d2041e3593f79cd02a8934fb9a8b4fba339670873df"
+    },
+    {
+      "path": "tests/test_browser.py",
+      "bytes": 10711,
+      "sha256": "fdae46fd4285c6d967b3360cf81cdefef6d7b6cc5d9b88e0841408f7728c9f90"
+    },
+    {
+      "path": "validation_report.json",
+      "bytes": 1564,
+      "sha256": "dc24eeea870419c2393ee5a81cf5de78e1c853a372b9f74538655732b1c46cfb"
+    }
+  ]
+}

@@ -1,0 +1,1476 @@
+{
+  "areas": [
+    {
+      "id": "practical",
+      "title": "Practical life",
+      "goal": "Independence, coordinated movement, care of self and others."
+    },
+    {
+      "id": "sensorial",
+      "title": "Sensorial",
+      "goal": "Careful comparison, sensory language, order and discrimination."
+    },
+    {
+      "id": "language",
+      "title": "Language",
+      "goal": "Conversation, sound awareness, writing, reading and meaning."
+    },
+    {
+      "id": "math",
+      "title": "Mathematics",
+      "goal": "Quantity, symbols, place value, operations and mathematical language."
+    },
+    {
+      "id": "culture",
+      "title": "Cultural studies",
+      "goal": "Geography, living things, community, scientific inquiry and respect."
+    },
+    {
+      "id": "expression",
+      "title": "Art, music & movement",
+      "goal": "Creative choices, rhythm, expression, movement and collaboration."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "L001",
+      "area": "practical",
+      "title": "Carrying a tray",
+      "stage": "Exploring",
+      "materials": "Small tray; two stable, light objects",
+      "readiness": "Can walk steadily and attend to a short demonstration.",
+      "steps": [
+        "Hold opposite sides with two hands.",
+        "Walk slowly to a clear table and lower the tray quietly.",
+        "Return the tray and invite the child to try."
+      ],
+      "interest": "Keeping the tray level.",
+      "control": "Objects shift when the tray tilts.",
+      "observe": "Grip, balance, walking pace and placement.",
+      "nextStep": "Carry a tray with an empty pitcher.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Carry and place a tray with controlled movement."
+    },
+    {
+      "id": "L002",
+      "area": "practical",
+      "title": "Rolling and unrolling a work rug",
+      "stage": "Exploring",
+      "materials": "Small washable rug; open floor space",
+      "readiness": "Can grasp with both hands.",
+      "steps": [
+        "Unroll the rug slowly in a clear space.",
+        "Kneel at the short edge and turn a small fold evenly.",
+        "Roll with both hands and return it to its place."
+      ],
+      "interest": "Matching the two edges.",
+      "control": "Uneven edges show where the roll wandered.",
+      "observe": "Chooses a clear space; rolls and stores the rug.",
+      "nextStep": "Walk around another person’s work.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Prepare and restore a defined floor workspace."
+    },
+    {
+      "id": "L003",
+      "area": "practical",
+      "title": "Dry pouring",
+      "stage": "Exploring",
+      "materials": "Two small pitchers; large dry items; tray",
+      "readiness": "Can grasp a pitcher and carry a tray.",
+      "steps": [
+        "Show the starting and receiving pitchers.",
+        "Pour slowly, stopping before the second pitcher overflows.",
+        "Return spills to the tray and reset the work."
+      ],
+      "interest": "Starting and stopping the flow.",
+      "control": "Spills and items left in the starting pitcher are visible.",
+      "observe": "Grip, wrist control and response to spills.",
+      "nextStep": "Pour a small amount of water.",
+      "safety": "Use large nonfood items if mouthing is possible. Assess choking risk and supervise; do not use beans with children who mouth objects.",
+      "custom": false,
+      "aim": "Transfer dry material by pouring with controlled starts and stops."
+    },
+    {
+      "id": "L004",
+      "area": "practical",
+      "title": "Pouring water",
+      "stage": "Developing",
+      "materials": "Two small pitchers; a little water; tray; sponge",
+      "readiness": "Has practiced controlling a dry pour.",
+      "steps": [
+        "Lift the pitcher with a steady grip and aim at the opening.",
+        "Pour slowly and stop before the container fills.",
+        "Set it down and sponge up spills."
+      ],
+      "interest": "The stream entering the opening.",
+      "control": "Water outside the pitcher is visible.",
+      "observe": "Flow control, stopping and cleanup without distress.",
+      "nextStep": "Pour to a marked line.",
+      "safety": "Use room-temperature water and immediately dry wet floors.",
+      "custom": false,
+      "aim": "Transfer water and manage small spills with growing independence."
+    },
+    {
+      "id": "L005",
+      "area": "practical",
+      "title": "Transferring with a spoon",
+      "stage": "Exploring",
+      "materials": "Two bowls; spoon; large transfer objects; tray",
+      "readiness": "Can grasp and release a spoon.",
+      "steps": [
+        "Place the bowls and spoon within easy reach.",
+        "Scoop, move over the receiving bowl and tip gently.",
+        "Continue, collect spills and reset."
+      ],
+      "interest": "Keeping the spoon level.",
+      "control": "A missed transfer is visible on the tray.",
+      "observe": "Hand control and whether the spoon suits the child.",
+      "nextStep": "Transfer with child-sized tongs.",
+      "safety": "Select objects that are safe for this child; assess mouthing and choking risk.",
+      "custom": false,
+      "aim": "Transfer objects with a spoon using coordinated movement."
+    },
+    {
+      "id": "L006",
+      "area": "practical",
+      "title": "Using tongs",
+      "stage": "Developing",
+      "materials": "Easy-squeeze tongs; large soft objects; two bowls",
+      "readiness": "Can squeeze and release with one hand.",
+      "steps": [
+        "Open the tongs around one object.",
+        "Squeeze gently, move it and release over the other bowl.",
+        "Continue and return the work in order."
+      ],
+      "interest": "Squeezing enough to hold without crushing.",
+      "control": "A dropped object shows that the grip needs adjustment.",
+      "observe": "Grip, release and willingness to adjust.",
+      "nextStep": "Use tongs in snack preparation.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Transfer objects by controlling the grip and release of tongs."
+    },
+    {
+      "id": "L007",
+      "area": "practical",
+      "title": "Handwashing sequence",
+      "stage": "Exploring",
+      "materials": "Accessible sink; soap; safe drying method",
+      "readiness": "Can reach the setup with safe support.",
+      "steps": [
+        "Wet hands, apply soap and rub all hand surfaces.",
+        "Use the program’s health guidance for thorough washing and rinsing.",
+        "Dry hands and leave the sink ready for the next person."
+      ],
+      "interest": "Washing between fingers and over thumbs.",
+      "control": "Soap or water left on hands can be seen or felt; cleanliness still requires adult guidance.",
+      "observe": "Sequence and support needed at transitions.",
+      "nextStep": "Use the sequence before food and after toileting.",
+      "safety": "Provide safe access and supervision. Follow applicable health rules; this lesson does not replace required hygiene procedures.",
+      "custom": false,
+      "aim": "Carry out an effective handwashing routine with appropriate adult support."
+    },
+    {
+      "id": "L008",
+      "area": "practical",
+      "title": "Buttoning frame",
+      "stage": "Developing",
+      "materials": "Buttoning frame with large buttons",
+      "readiness": "Interested in fastening; can coordinate both hands.",
+      "steps": [
+        "Hold the fabric near one button.",
+        "Guide the button through the opening and draw the fabric flat.",
+        "Repeat slowly, then show how to undo it."
+      ],
+      "interest": "Turning the button to fit the hole.",
+      "control": "Misaligned edges or an unfastened button are visible.",
+      "observe": "Two-hand coordination and persistence.",
+      "nextStep": "Use the skill on the child’s own clothing.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Fasten and unfasten buttons using coordinated hands."
+    },
+    {
+      "id": "L009",
+      "area": "practical",
+      "title": "Zipping frame",
+      "stage": "Developing",
+      "materials": "Separating zipper frame",
+      "readiness": "Can stabilize one side while moving the other.",
+      "steps": [
+        "Show the bottom pieces meeting.",
+        "Insert the pin fully while holding the slider steady.",
+        "Pull the slider upward, then reverse and separate."
+      ],
+      "interest": "Seating the pin before pulling.",
+      "control": "The zipper will not close smoothly if it is not seated.",
+      "observe": "Whether the child needs help starting or only pulling.",
+      "nextStep": "Practice on a coat with permission.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Join and separate a zipper with controlled two-hand movement."
+    },
+    {
+      "id": "L010",
+      "area": "practical",
+      "title": "Washing a table",
+      "stage": "Developing",
+      "materials": "Small basin; water; cloth; mild approved soap; drying cloth",
+      "readiness": "Can carry water with support and follow a short sequence.",
+      "steps": [
+        "Prepare the table and wet the cloth.",
+        "Wash in an orderly pattern, rinse and wipe.",
+        "Dry the surface and restore all materials."
+      ],
+      "interest": "Seeing where the cloth has already traveled.",
+      "control": "Visible wet or soapy patches guide another wipe.",
+      "observe": "Order, coordination and restoring the workspace.",
+      "nextStep": "Invite a child to care for a shared snack table.",
+      "safety": "Use approved products and safe water amounts. Adults handle disinfectants and required sanitation.",
+      "custom": false,
+      "aim": "Care for a table through a complete orderly cleaning sequence."
+    },
+    {
+      "id": "L011",
+      "area": "practical",
+      "title": "Sweeping a small spill",
+      "stage": "Developing",
+      "materials": "Child-sized broom; dustpan; large safe debris",
+      "readiness": "Can manage a broom without hitting others.",
+      "steps": [
+        "Mark or notice the small area to gather.",
+        "Sweep inward with controlled strokes.",
+        "Hold the pan, collect debris and return tools."
+      ],
+      "interest": "Bringing scattered pieces to one place.",
+      "control": "Pieces left on the floor remain visible.",
+      "observe": "Tool control and checking the area afterward.",
+      "nextStep": "Sweep a larger defined area.",
+      "safety": "Keep others clear. Adults handle broken glass, bodily fluids and hazardous spills.",
+      "custom": false,
+      "aim": "Gather a small safe spill using a broom and dustpan."
+    },
+    {
+      "id": "L012",
+      "area": "practical",
+      "title": "Preparing a simple snack",
+      "stage": "Developing",
+      "materials": "Washed soft fruit; safe spreading tool; plate; handwashing access",
+      "readiness": "Can follow food hygiene routines with supervision.",
+      "steps": [
+        "Wash hands and prepare a clean work area.",
+        "Demonstrate one safe preparation action slowly.",
+        "Serve an appropriate portion and clean the workspace."
+      ],
+      "interest": "A careful, useful action that produces food to share.",
+      "control": "Uneven portions can be compared; food safety needs adult oversight.",
+      "observe": "Hygiene, tool use, portion awareness and cleanup.",
+      "nextStep": "Prepare a snack with a peer.",
+      "safety": "Check allergies and choking risks. An adult supervises tools and follows food safety rules; never use a tasting activity as an allergy test.",
+      "custom": false,
+      "aim": "Prepare and serve a simple snack using safe routines."
+    },
+    {
+      "id": "L013",
+      "area": "practical",
+      "title": "Inviting someone and respecting “no”",
+      "stage": "Exploring",
+      "materials": "Two willing participants; optional role-play puppets",
+      "readiness": "Can communicate through words, signs or another supported method.",
+      "steps": [
+        "Approach without touching another person’s work.",
+        "Offer a simple invitation and wait.",
+        "Model accepting either answer calmly and choosing another activity."
+      ],
+      "interest": "Waiting for the other person’s choice.",
+      "control": "The other person’s response provides feedback; an adult supports interpretation.",
+      "observe": "Consent, waiting and alternate communication.",
+      "nextStep": "Practice joining play at a natural pause.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Offer an invitation and respect another person’s decision."
+    },
+    {
+      "id": "L014",
+      "area": "practical",
+      "title": "Resolving a disagreement",
+      "stage": "Extending",
+      "materials": "Quiet space; optional feeling cards",
+      "readiness": "Can take a short turn with adult support; feels safe.",
+      "steps": [
+        "Describe what happened without blame and ensure safety.",
+        "Invite each child’s account without forcing speech or an apology.",
+        "Offer workable choices, agree on a next step and check back."
+      ],
+      "interest": "Listening to different accounts.",
+      "control": "The agreed solution is checked in real use; adult guidance remains necessary.",
+      "observe": "Words used, adult support and whether the solution worked.",
+      "nextStep": "Practice a calm request before a conflict escalates.",
+      "safety": "Stop aggression and protect children first. Do not require a child to mediate bullying or unsafe behavior.",
+      "custom": false,
+      "aim": "Take part in a supported, respectful solution to a disagreement."
+    },
+    {
+      "id": "L015",
+      "area": "sensorial",
+      "title": "Pink tower",
+      "stage": "Exploring",
+      "materials": "Ten graded cubes; work rug",
+      "readiness": "Can carry a cube safely and compare noticeably different sizes.",
+      "steps": [
+        "Carry cubes one at a time and spread them on the rug.",
+        "Build from largest to smallest with deliberate placement.",
+        "Compare the completed tower and return cubes in order."
+      ],
+      "interest": "Centering each smaller cube.",
+      "control": "The visual sequence and stability reveal many size errors.",
+      "observe": "Compares size, carries carefully and notices changes.",
+      "nextStep": "Grade three cubes with a larger contrast first.",
+      "safety": "Never stack above a safe working height or allow cubes to be thrown.",
+      "custom": false,
+      "aim": "Visually grade cubes by changing size."
+    },
+    {
+      "id": "L016",
+      "area": "sensorial",
+      "title": "Brown stair",
+      "stage": "Developing",
+      "materials": "Ten graded prisms; rug",
+      "readiness": "Has compared size; can lift the larger prisms safely.",
+      "steps": [
+        "Lay prisms apart where all can be seen.",
+        "Arrange thickest to thinnest with ends aligned.",
+        "Look along the stair and restore the set."
+      ],
+      "interest": "Equal length with changing thickness.",
+      "control": "An uneven progression is visible.",
+      "observe": "Discriminates thickness rather than overall length.",
+      "nextStep": "Compare thick and thin using two contrasting prisms.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Visually grade prisms by thickness."
+    },
+    {
+      "id": "L017",
+      "area": "sensorial",
+      "title": "Red rods",
+      "stage": "Developing",
+      "materials": "Graded length rods; large clear rug",
+      "readiness": "Can carry a long object safely and has space to work.",
+      "steps": [
+        "Carry one rod horizontally with awareness of others.",
+        "Arrange longest to shortest with one end aligned.",
+        "Trace the changing lengths and return rods carefully."
+      ],
+      "interest": "Finding the next length.",
+      "control": "Misordered ends interrupt the visible progression.",
+      "observe": "Length comparison and safe spatial awareness.",
+      "nextStep": "Build a sequence with fewer widely different rods.",
+      "safety": "Keep a generous clear space; adult help may be needed with long rods.",
+      "custom": false,
+      "aim": "Visually grade rods by length."
+    },
+    {
+      "id": "L018",
+      "area": "sensorial",
+      "title": "Cylinder blocks",
+      "stage": "Exploring",
+      "materials": "One cylinder block; stable table",
+      "readiness": "Can use the knob comfortably.",
+      "steps": [
+        "Remove cylinders with a light grasp and place them randomly.",
+        "Choose one, compare its size with a hole and lower it gently.",
+        "Continue, then invite repetition."
+      ],
+      "interest": "A cylinder fitting flush in its opening.",
+      "control": "A cylinder may not fit, or another is left without its matching opening.",
+      "observe": "Visual comparison, grip and gentle handling.",
+      "nextStep": "Introduce a second block after sustained interest.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Match cylinder dimensions with corresponding openings."
+    },
+    {
+      "id": "L019",
+      "area": "sensorial",
+      "title": "Color matching",
+      "stage": "Exploring",
+      "materials": "A small set of contrasting paired color tablets",
+      "readiness": "Can attend to a two-object comparison.",
+      "steps": [
+        "Handle tablets by their edges.",
+        "Place one tablet and find its matching color.",
+        "Lay pairs together, name colors after matching and restore."
+      ],
+      "interest": "Finding the same color.",
+      "control": "A mismatched pair can be visually compared.",
+      "observe": "Matches before naming; note lighting and access needs.",
+      "nextStep": "Add more color pairs.",
+      "safety": "Offer accessible alternatives for visual differences; do not treat color naming as an intelligence measure.",
+      "custom": false,
+      "aim": "Match identical colors before emphasizing color names."
+    },
+    {
+      "id": "L020",
+      "area": "sensorial",
+      "title": "Color grading",
+      "stage": "Extending",
+      "materials": "One family of graded color tablets",
+      "readiness": "Can match similar colors and enjoys fine comparison.",
+      "steps": [
+        "Place the darkest and lightest shades apart.",
+        "Select the next shade and make a continuous series.",
+        "Review the transitions and adjust if needed."
+      ],
+      "interest": "Very small changes in shade.",
+      "control": "An abrupt shade change invites comparison.",
+      "observe": "Compares adjacent shades and revises choices.",
+      "nextStep": "Grade a second color family in good natural light.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Order related colors by small differences in shade."
+    },
+    {
+      "id": "L021",
+      "area": "sensorial",
+      "title": "Geometric cabinet: matching shapes",
+      "stage": "Developing",
+      "materials": "A few inset shapes with matching frames",
+      "readiness": "Can manage knobs and compare outlines.",
+      "steps": [
+        "Remove one inset and trace its edge with two fingers.",
+        "Trace the matching frame and fit the inset gently.",
+        "Repeat with two or three contrasting shapes."
+      ],
+      "interest": "The edge and the space share an outline.",
+      "control": "The inset fits its matching frame.",
+      "observe": "Tracks an edge and compares shape without forcing.",
+      "nextStep": "Match insets to outline cards.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Compare and match geometric outlines."
+    },
+    {
+      "id": "L022",
+      "area": "sensorial",
+      "title": "Touch tablets",
+      "stage": "Developing",
+      "materials": "Paired texture tablets; handwashing access",
+      "readiness": "Can choose to touch materials and communicate comfort.",
+      "steps": [
+        "Explore two textures lightly with fingertips.",
+        "Compare another tablet and find the matching texture.",
+        "Pair tablets, then offer language such as rough and smooth."
+      ],
+      "interest": "A light touch reveals texture.",
+      "control": "Paired textures can be checked again by touch; some comparisons need adult discussion.",
+      "observe": "Touch preference and ability to compare.",
+      "nextStep": "Order a small series from smoother to rougher.",
+      "safety": "Do not require blindfolding or touch. Respect sensory boundaries; check for skin irritation.",
+      "custom": false,
+      "aim": "Compare textures through a comfortable tactile experience."
+    },
+    {
+      "id": "L023",
+      "area": "sensorial",
+      "title": "Sound cylinders",
+      "stage": "Developing",
+      "materials": "Paired sealed sound cylinders",
+      "readiness": "Can handle materials gently and tolerate the sounds.",
+      "steps": [
+        "Shake one cylinder gently near the body, away from ears.",
+        "Listen to another and compare.",
+        "Place matching pairs together and use the set’s check marks afterward."
+      ],
+      "interest": "Listening to one sound at a time.",
+      "control": "Matching marks, if provided, check the pairing after listening.",
+      "observe": "Auditory comparison and volume regulation.",
+      "nextStep": "Compare louder and softer sounds.",
+      "safety": "Keep containers securely sealed and volume comfortable. Offer visual or vibration alternatives for hearing access.",
+      "custom": false,
+      "aim": "Match sounds through careful listening."
+    },
+    {
+      "id": "L024",
+      "area": "sensorial",
+      "title": "Geometric solids",
+      "stage": "Developing",
+      "materials": "Sphere, cube and cylinder; mat",
+      "readiness": "Interested in handling and comparing shapes.",
+      "steps": [
+        "Explore one solid with hands and eyes.",
+        "Compare how another rests or rolls.",
+        "Name a small set through a three-period language lesson."
+      ],
+      "interest": "Flat and curved surfaces behave differently.",
+      "control": "The object’s movement gives feedback; names need a supportive adult check.",
+      "observe": "Uses sensory descriptions and notices differences.",
+      "nextStep": "Find a corresponding shape in the room.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Recognize and describe familiar geometric solids."
+    },
+    {
+      "id": "L025",
+      "area": "language",
+      "title": "Conversation and precise naming",
+      "stage": "Exploring",
+      "materials": "Real objects or clear photographs related to the child’s life",
+      "readiness": "Any spoken, signed or supported communication level.",
+      "steps": [
+        "Invite the child to notice a real object.",
+        "Offer its precise name and pause for a response.",
+        "Expand one idea without demanding repetition."
+      ],
+      "interest": "A familiar object has a useful name.",
+      "control": "Meaningful conversation provides feedback; naming is not self-correcting.",
+      "observe": "Initiation, vocabulary, home-language strengths and communication supports.",
+      "nextStep": "Make a small vocabulary basket from an interest.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Build meaningful vocabulary through real conversation."
+    },
+    {
+      "id": "L026",
+      "area": "language",
+      "title": "Three-period vocabulary lesson",
+      "stage": "Exploring",
+      "materials": "Two or three already explored objects",
+      "readiness": "Attends to short interactions and can indicate a choice.",
+      "steps": [
+        "Name each object simply: this is a sphere.",
+        "Ask the child to show or move a named object in varied ways.",
+        "Only when recognition is secure, invite the child to name it."
+      ],
+      "interest": "Moving and finding known objects.",
+      "control": "Adult observation guides a return to naming; do not quiz through repeated errors.",
+      "observe": "Recognition separately from recall.",
+      "nextStep": "Repeat with another small vocabulary set.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Connect a small set of words with familiar objects."
+    },
+    {
+      "id": "L027",
+      "area": "language",
+      "title": "Sound game: beginning sounds",
+      "stage": "Exploring",
+      "materials": "Two or three familiar objects with clear starting sounds",
+      "readiness": "Understands the object names; can attend to sound play.",
+      "steps": [
+        "Name the objects naturally.",
+        "Say a starting sound without adding a vowel and invite a match.",
+        "Play briefly, then use the sound in another familiar word."
+      ],
+      "interest": "Hearing a sound inside a spoken word.",
+      "control": "An adult models the sound and supports comparison.",
+      "observe": "Sound awareness separately from letter knowledge.",
+      "nextStep": "Notice ending sounds after beginning sounds are secure.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Identify a beginning sound in a familiar spoken word."
+    },
+    {
+      "id": "L028",
+      "area": "language",
+      "title": "Sound game: segmenting words",
+      "stage": "Developing",
+      "materials": "A few familiar short words; optional counters",
+      "readiness": "Can identify some individual spoken sounds.",
+      "steps": [
+        "Say a short word slowly without distorting it.",
+        "Help the child listen for each sound in order.",
+        "Use one counter per heard sound and blend the word again."
+      ],
+      "interest": "A word can be taken apart and joined again.",
+      "control": "An adult checks spoken sound order; do not use letter count as a substitute.",
+      "observe": "Sounds heard and support required.",
+      "nextStep": "Build the same word with a movable alphabet.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Hear and sequence individual sounds in a short spoken word."
+    },
+    {
+      "id": "L029",
+      "area": "language",
+      "title": "Sandpaper letters",
+      "stage": "Developing",
+      "materials": "Two or three contrasting sandpaper letters",
+      "readiness": "Shows sound awareness and tolerates the texture.",
+      "steps": [
+        "Trace in the direction used for writing while saying the sound.",
+        "Invite tracing with the child’s preferred hand.",
+        "Use a brief three-period lesson to revisit the sound-symbol link."
+      ],
+      "interest": "The movement and sound happen together.",
+      "control": "Texture guides tracing; an adult supports direction and sound accuracy.",
+      "observe": "Sound-symbol link, movement and comfort.",
+      "nextStep": "Find a matching sound in a familiar object name.",
+      "safety": "Offer a smooth or visual alternative if the texture is uncomfortable. Letter forms and sounds should suit the language being taught.",
+      "custom": false,
+      "aim": "Connect a speech sound with its written form and tracing movement."
+    },
+    {
+      "id": "L030",
+      "area": "language",
+      "title": "Metal insets",
+      "stage": "Developing",
+      "materials": "Inset frame; colored pencils; paper",
+      "readiness": "Can hold a drawing tool comfortably with support if needed.",
+      "steps": [
+        "Stabilize a frame and trace inside its boundary.",
+        "Trace the matching inset to compare the outlines.",
+        "Fill with controlled lines, adapting length to endurance."
+      ],
+      "interest": "An outline closes and lines stay within a chosen shape.",
+      "control": "Visible lines provide feedback; comfort and movement need adult observation.",
+      "observe": "Light pressure, bilateral coordination and endurance.",
+      "nextStep": "Combine two outlines for a design.",
+      "safety": "Avoid forced pencil grips or long repetitive tracing sessions.",
+      "custom": false,
+      "aim": "Explore controlled lines and outlines with a comfortable drawing movement."
+    },
+    {
+      "id": "L031",
+      "area": "language",
+      "title": "Movable alphabet: encoding words",
+      "stage": "Developing",
+      "materials": "Movable alphabet; familiar objects or ideas",
+      "readiness": "Can hear several sounds and recognizes corresponding symbols.",
+      "steps": [
+        "Choose a meaningful spoken word.",
+        "Say its sounds slowly and select corresponding letters.",
+        "Read the sounds together and discuss the intended word."
+      ],
+      "interest": "Writing an idea before pencil control is fully developed.",
+      "control": "The spoken word can be compared with the letters; an adult supports conventional spelling.",
+      "observe": "Sound representation, confidence and intended meaning.",
+      "nextStep": "Build a phrase from a child’s own idea.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Represent a meaningful word through selected sound symbols."
+    },
+    {
+      "id": "L032",
+      "area": "language",
+      "title": "Phonetic word reading",
+      "stage": "Developing",
+      "materials": "Decodable words using known sound-symbol patterns; objects",
+      "readiness": "Can blend sounds and knows the symbols used.",
+      "steps": [
+        "Show one short word without a picture clue.",
+        "Invite sound blending, allowing processing time.",
+        "Match the decoded word to the object and discuss its meaning."
+      ],
+      "interest": "The printed word carries a message.",
+      "control": "Object matching supports meaning; an adult checks accurate decoding.",
+      "observe": "Decoding separately from guessing from pictures.",
+      "nextStep": "Read a short meaningful phrase with known patterns.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Decode a familiar-pattern word and connect it with meaning."
+    },
+    {
+      "id": "L033",
+      "area": "language",
+      "title": "Phonograms and common spelling patterns",
+      "stage": "Extending",
+      "materials": "A small matched set of phonogram cards and decodable words",
+      "readiness": "Can read simple words with known correspondences.",
+      "steps": [
+        "Introduce one spelling pattern with its sound.",
+        "Read a few words using that pattern.",
+        "Sort or build words and use one in a meaningful sentence."
+      ],
+      "interest": "More than one letter can represent a sound.",
+      "control": "A checked word set and adult modeling support accuracy.",
+      "observe": "Pattern recognition, blending and transfer.",
+      "nextStep": "Revisit the pattern in an appropriate decodable text.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Read and apply a new sound-spelling pattern."
+    },
+    {
+      "id": "L034",
+      "area": "language",
+      "title": "Puzzle words / high-frequency words",
+      "stage": "Extending",
+      "materials": "A few useful words with untaught or unusual spellings",
+      "readiness": "Has a developing decoding foundation.",
+      "steps": [
+        "Say and discuss one useful word.",
+        "Identify regular sound-spelling parts and point out the unexpected part.",
+        "Read and use it in a short phrase, then revisit later."
+      ],
+      "interest": "Noticing the part that needs special attention.",
+      "control": "A model card and adult feedback support checking.",
+      "observe": "Recognition in a phrase, not only on an isolated card.",
+      "nextStep": "Find the word in a short appropriate text.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Read a useful word while attending to its unusual spelling part."
+    },
+    {
+      "id": "L035",
+      "area": "language",
+      "title": "Reading action commands",
+      "stage": "Extending",
+      "materials": "Simple action slips using readable words",
+      "readiness": "Can decode the words and understands the actions.",
+      "steps": [
+        "Offer one short printed action privately.",
+        "Invite the child to read and carry out the safe action.",
+        "Discuss meaning, then let the child choose another slip."
+      ],
+      "interest": "Print can invite an action without spoken directions.",
+      "control": "The action can be compared with the message by child and adult.",
+      "observe": "Comprehension beyond word pronunciation.",
+      "nextStep": "Write a command for a willing peer.",
+      "safety": "Avoid unsafe movement, food commands or actions that require unwanted touch.",
+      "custom": false,
+      "aim": "Read a short message and demonstrate its meaning through a safe action."
+    },
+    {
+      "id": "L036",
+      "area": "language",
+      "title": "Noun and article exploration",
+      "stage": "Extending",
+      "materials": "Familiar objects; phrase slips; grammar symbols if used",
+      "readiness": "Reads simple phrases and can discuss familiar objects.",
+      "steps": [
+        "Read a phrase naming an object.",
+        "Explore which word names the thing and which small word helps introduce it.",
+        "Match phrases to objects and discuss the words’ jobs."
+      ],
+      "interest": "A word has a job in a meaningful phrase.",
+      "control": "Object matching and adult discussion check meaning.",
+      "observe": "Meaningful word-function awareness rather than memorized labels.",
+      "nextStep": "Explore an adjective that changes which object is meant.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Explore the naming function of words within meaningful phrases."
+    },
+    {
+      "id": "L037",
+      "area": "language",
+      "title": "Sentence reading and comprehension",
+      "stage": "Extending",
+      "materials": "Short child-relevant sentences with accessible spelling patterns",
+      "readiness": "Can read phrases with growing ease.",
+      "steps": [
+        "Read a short sentence together or independently.",
+        "Ask what happened, allowing spoken, drawn or acted responses.",
+        "Return to the sentence to find evidence for the response."
+      ],
+      "interest": "The whole message matters.",
+      "control": "The text and adult discussion support checking.",
+      "observe": "Accuracy, fluency, comprehension and enjoyment separately.",
+      "nextStep": "Read a short connected text.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Read a sentence and communicate its meaning."
+    },
+    {
+      "id": "L038",
+      "area": "language",
+      "title": "Storytelling and making a book",
+      "stage": "Extending",
+      "materials": "Paper; drawing tools; optional adult scribe",
+      "readiness": "Has an idea to communicate by speech, signs, drawing or print.",
+      "steps": [
+        "Invite a real or imagined event.",
+        "Help arrange a beginning, a development and an ending without taking over.",
+        "Record the child’s words with permission and share the finished book."
+      ],
+      "interest": "An idea becomes a book another person can understand.",
+      "control": "The child checks whether the record expresses the intended story.",
+      "observe": "Sequence, vocabulary, authorship and preferred communication.",
+      "nextStep": "Add a page or reread to a chosen listener.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Organize and record an original story in an accessible form."
+    },
+    {
+      "id": "L039",
+      "area": "math",
+      "title": "Number rods",
+      "stage": "Exploring",
+      "materials": "Ten alternating-color number rods; rug",
+      "readiness": "Can grade lengths and is interested in counting.",
+      "steps": [
+        "Build the length series with ends aligned.",
+        "Touch and count each section of a selected rod once.",
+        "Name its whole quantity and compare with another rod."
+      ],
+      "interest": "A quantity stays together as one rod.",
+      "control": "Length and colored sections support counting checks.",
+      "observe": "One-to-one counting and quantity recognition.",
+      "nextStep": "Match known rods to number symbols.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Connect counted sections with a whole quantity."
+    },
+    {
+      "id": "L040",
+      "area": "math",
+      "title": "Sandpaper numerals",
+      "stage": "Exploring",
+      "materials": "Two or three sandpaper numerals",
+      "readiness": "Understands some spoken quantities and enjoys symbol exploration.",
+      "steps": [
+        "Trace one numeral in its writing direction while naming it.",
+        "Invite the child to trace or observe.",
+        "Use a short three-period lesson with contrasting numerals."
+      ],
+      "interest": "Movement is connected to a number name.",
+      "control": "Texture guides movement; adult observation checks name and direction.",
+      "observe": "Symbol recognition separately from counting.",
+      "nextStep": "Match numerals to counted quantities.",
+      "safety": "Provide a nontextured alternative when needed.",
+      "custom": false,
+      "aim": "Recognize and trace familiar numeral symbols."
+    },
+    {
+      "id": "L041",
+      "area": "math",
+      "title": "Number rods and numerals",
+      "stage": "Developing",
+      "materials": "Number rods; corresponding numeral cards",
+      "readiness": "Knows several rod quantities and numeral names.",
+      "steps": [
+        "Choose a rod and count its sections.",
+        "Find its matching numeral and place it beside the rod.",
+        "Check by recounting and compare another pair."
+      ],
+      "interest": "A written symbol stands for a quantity.",
+      "control": "Recounting sections supports a check; an adult confirms symbols.",
+      "observe": "Quantity-symbol correspondence and self-checking.",
+      "nextStep": "Mix a small set of numerals and rods.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Match a known quantity with its numeral."
+    },
+    {
+      "id": "L042",
+      "area": "math",
+      "title": "Spindle boxes and zero",
+      "stage": "Developing",
+      "materials": "Spindle boxes labeled zero through nine; complete spindle set",
+      "readiness": "Counts small quantities and recognizes numerals zero to nine.",
+      "steps": [
+        "Read a compartment’s numeral.",
+        "Count that many spindles into a group and place them inside.",
+        "Leave zero empty and notice whether any spindles remain."
+      ],
+      "interest": "Zero means no items in that compartment.",
+      "control": "The exact set total reveals many counting errors.",
+      "observe": "One-to-one counting, grouping and meaning of zero.",
+      "nextStep": "Recheck any remaining spindles together.",
+      "safety": "Assess small-part safety and supervise materials appropriately.",
+      "custom": false,
+      "aim": "Build separate quantities and explore zero as no objects."
+    },
+    {
+      "id": "L043",
+      "area": "math",
+      "title": "Cards and counters: odd and even",
+      "stage": "Developing",
+      "materials": "Numerals one to ten; complete counter set",
+      "readiness": "Can count to ten and match quantities to symbols.",
+      "steps": [
+        "Order the numerals and count counters beneath each.",
+        "Arrange counters in pairs, placing an unmatched one below.",
+        "Compare groups with and without an unmatched counter."
+      ],
+      "interest": "Some quantities pair completely.",
+      "control": "The counter arrangement makes an unmatched one visible.",
+      "observe": "Accurate quantity and recognition of pairing.",
+      "nextStep": "Discuss odd and even using the arrangement.",
+      "safety": "Use counters suitable for the child and assess choking risk.",
+      "custom": false,
+      "aim": "Represent quantities in pairs and notice odd/even arrangements."
+    },
+    {
+      "id": "L044",
+      "area": "math",
+      "title": "Golden beads: decimal quantities",
+      "stage": "Developing",
+      "materials": "Unit bead; ten bar; hundred square; thousand cube",
+      "readiness": "Understands counting to ten and can compare quantities.",
+      "steps": [
+        "Explore each quantity category one at a time.",
+        "Count or compare ten of one category with one of the next.",
+        "Name the categories and invite the child to bring one."
+      ],
+      "interest": "Ten of a category makes one of the next.",
+      "control": "Material structure and guided counting support checking.",
+      "observe": "Quantity language and comparisons before symbol demands.",
+      "nextStep": "Associate large number cards with the quantities.",
+      "safety": "Assess small-part risk. Use robust materials and close supervision as needed.",
+      "custom": false,
+      "aim": "Explore units, tens, hundreds and thousands as related quantities."
+    },
+    {
+      "id": "L045",
+      "area": "math",
+      "title": "Decimal symbols and composition",
+      "stage": "Developing",
+      "materials": "Large number cards; golden bead quantities",
+      "readiness": "Recognizes the decimal quantity categories.",
+      "steps": [
+        "Introduce category cards in a small set.",
+        "Build a quantity and choose the matching cards.",
+        "Overlay cards to form the number, then separate them to show place value."
+      ],
+      "interest": "A number is made from separate quantity categories.",
+      "control": "Comparing the bead categories with the cards supports checking.",
+      "observe": "Place value rather than naming a long number by rote.",
+      "nextStep": "Read and build a different number with a zero category.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Connect decimal quantities with written place-value symbols."
+    },
+    {
+      "id": "L046",
+      "area": "math",
+      "title": "Golden bead static addition",
+      "stage": "Extending",
+      "materials": "Golden beads; number cards; trays; prepared quantities",
+      "readiness": "Can compose decimal quantities and combine small sets.",
+      "steps": [
+        "Build two quantities that do not require exchanging.",
+        "Bring like categories together and count each total.",
+        "Choose result cards and describe joining the quantities."
+      ],
+      "interest": "Two collections become one total.",
+      "control": "Rebuilding and recounting check the result; an adult verifies the setup.",
+      "observe": "Combining, category order and result explanation.",
+      "nextStep": "Repeat independently before introducing exchanges.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Combine two concrete quantities without exchanges."
+    },
+    {
+      "id": "L047",
+      "area": "math",
+      "title": "Golden bead exchange and dynamic addition",
+      "stage": "Extending",
+      "materials": "Golden beads; cards; exchange supply",
+      "readiness": "Understands static addition and ten-to-one relationships.",
+      "steps": [
+        "Combine two prepared quantities.",
+        "When ten of a category accumulate, exchange them for one of the next.",
+        "Recount and represent the total with cards."
+      ],
+      "interest": "An exchange changes the form, not the amount.",
+      "control": "Compare the total before and after exchanging with adult support.",
+      "observe": "Exchange reasoning and keeping categories aligned.",
+      "nextStep": "Compose another total needing one exchange.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Combine quantities and preserve value through decimal exchanges."
+    },
+    {
+      "id": "L048",
+      "area": "math",
+      "title": "Golden bead subtraction",
+      "stage": "Extending",
+      "materials": "Golden beads; cards; a prepared whole and amount to remove",
+      "readiness": "Understands taking away and can compose the starting quantity.",
+      "steps": [
+        "Build the starting whole.",
+        "Remove the requested quantity into another space.",
+        "Count what remains and explain the change."
+      ],
+      "interest": "The remaining collection represents the difference.",
+      "control": "Put the removed amount back to check the starting whole.",
+      "observe": "Meaning of subtraction and accurate removal.",
+      "nextStep": "Introduce a needed exchange only after a clear concrete foundation.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Represent taking away and identify what remains."
+    },
+    {
+      "id": "L049",
+      "area": "math",
+      "title": "Golden bead multiplication",
+      "stage": "Extending",
+      "materials": "Golden beads; identical quantity trays; cards",
+      "readiness": "Can combine quantities and recognize equal groups.",
+      "steps": [
+        "Prepare a small number of equal groups.",
+        "Combine like categories and find the total.",
+        "Describe the repeated equal quantity using the appropriate language."
+      ],
+      "interest": "Each group starts with the same amount.",
+      "control": "Reconstruct equal groups to check the total.",
+      "observe": "Equal groups separately from a memorized fact.",
+      "nextStep": "Use another small equal-group example.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Explore multiplication through combining equal groups."
+    },
+    {
+      "id": "L050",
+      "area": "math",
+      "title": "Golden bead sharing / division",
+      "stage": "Extending",
+      "materials": "Golden beads; a divisible total; recipient markers",
+      "readiness": "Understands equal sharing and concrete quantities.",
+      "steps": [
+        "Set out the recipients and the whole collection.",
+        "Share one category fairly, exchanging only with guidance if appropriate.",
+        "Compare shares and state how much each receives."
+      ],
+      "interest": "Each recipient receives the same amount.",
+      "control": "Compare shares and recombine them to check the whole.",
+      "observe": "Fair sharing, tracking recipients and remainder awareness.",
+      "nextStep": "Try another exactly divisible quantity first.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Explore division through sharing a quantity equally."
+    },
+    {
+      "id": "L051",
+      "area": "math",
+      "title": "Teen quantities and symbols",
+      "stage": "Developing",
+      "materials": "Teen boards or cards; ten bars; unit beads",
+      "readiness": "Understands ten and one-to-one counting beyond ten.",
+      "steps": [
+        "Build ten and add one or more units.",
+        "Match the quantity to its teen symbol.",
+        "Count the whole and name the number without losing the group of ten."
+      ],
+      "interest": "A teen number contains one ten and some units.",
+      "control": "Compare the bar and units with the symbol; an adult checks naming.",
+      "observe": "Teen naming, quantity and symbol as separate observations.",
+      "nextStep": "Compare two teen numbers.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Connect a group of ten and extra units with a teen symbol."
+    },
+    {
+      "id": "L052",
+      "area": "math",
+      "title": "Tens quantities and symbols",
+      "stage": "Developing",
+      "materials": "Tens boards or cards; ten bars; units",
+      "readiness": "Understands a ten bar and some teen quantities.",
+      "steps": [
+        "Count ten bars as tens.",
+        "Match the quantity to the appropriate tens symbol.",
+        "Add units and compose a two-digit number."
+      ],
+      "interest": "Tens stay grouped while units change.",
+      "control": "Count bars and units against the cards.",
+      "observe": "Counting by tens and composing without rote guessing.",
+      "nextStep": "Build and read a child-chosen two-digit number.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Connect groups of tens and additional units with two-digit symbols."
+    },
+    {
+      "id": "L053",
+      "area": "math",
+      "title": "Bead chains and skip counting",
+      "stage": "Extending",
+      "materials": "A suitable bead chain; matching labels; long safe work space",
+      "readiness": "Counts accurately and can sustain a longer sequence.",
+      "steps": [
+        "Lay out a short chain and count each bead.",
+        "Place labels at repeated group boundaries.",
+        "Review the repeating group size and connect it with equal groups."
+      ],
+      "interest": "A regular numerical pattern appears.",
+      "control": "Count back along the chain and compare labels; guided checks may be needed.",
+      "observe": "Accurate tracking, sequence and recognition of equal groups.",
+      "nextStep": "Choose a longer chain when endurance and interest support it.",
+      "safety": "Keep walkways clear and assess bead safety.",
+      "custom": false,
+      "aim": "Explore counting sequences and repeated equal groups."
+    },
+    {
+      "id": "L054",
+      "area": "math",
+      "title": "Fraction insets: whole and equal parts",
+      "stage": "Extending",
+      "materials": "Fraction circles or equal-part insets",
+      "readiness": "Can compare shapes and discuss a whole.",
+      "steps": [
+        "Explore a whole circle, then replace it with two equal parts.",
+        "Compare equal parts with other equal divisions.",
+        "Name simple fractions in relation to the same whole."
+      ],
+      "interest": "Equal parts recombine into the whole.",
+      "control": "Insets fill the same frame without gaps or overlaps.",
+      "observe": "Equal partitioning and the relationship to the whole.",
+      "nextStep": "Compare one-half and one-fourth of the same-sized whole.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Explore a whole divided into equal parts."
+    },
+    {
+      "id": "L055",
+      "area": "culture",
+      "title": "Land, water and globe exploration",
+      "stage": "Exploring",
+      "materials": "Land-and-water globe; plain map; small land/water photos",
+      "readiness": "Interested in the world and can explore a model.",
+      "steps": [
+        "Explore the globe’s land and water surfaces.",
+        "Find examples in photographs and compare them.",
+        "Explain that the globe is a small model of Earth."
+      ],
+      "interest": "A model represents a much larger place.",
+      "control": "Model and photos support comparison; adult dialogue checks meaning.",
+      "observe": "Model understanding and land/water language.",
+      "nextStep": "Explore a continent globe.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Recognize a globe as a model of Earth’s land and water."
+    },
+    {
+      "id": "L056",
+      "area": "culture",
+      "title": "Continents: shapes and names",
+      "stage": "Developing",
+      "materials": "Continent globe; puzzle map; diverse place photographs",
+      "readiness": "Understands globe as a model of Earth.",
+      "steps": [
+        "Relate the flat map to the globe.",
+        "Explore and name a small number of continents.",
+        "Connect a continent to real places and varied communities."
+      ],
+      "interest": "A shape on the map represents real places.",
+      "control": "Puzzle outlines support placement; names require guided checking.",
+      "observe": "Location, model awareness and respectful questions.",
+      "nextStep": "Investigate one place connected to a child’s family.",
+      "safety": "Present political and cultural information thoughtfully; do not equate one continent with one language or culture.",
+      "custom": false,
+      "aim": "Relate continent shapes on a globe and a flat map to real places."
+    },
+    {
+      "id": "L057",
+      "area": "culture",
+      "title": "Landforms: island and lake",
+      "stage": "Developing",
+      "materials": "Safe landform trays; small amount of water; photos",
+      "readiness": "Can pour with support and compare land with water.",
+      "steps": [
+        "Add a little water to an island model.",
+        "Compare a lake model and notice what surrounds what.",
+        "Match each model to a real photograph and name it."
+      ],
+      "interest": "The surrounding material changes the landform.",
+      "control": "Models and photographs support checking with an adult.",
+      "observe": "Explains what surrounds land or water.",
+      "nextStep": "Explore another contrasting landform pair.",
+      "safety": "Use shallow water under supervision and empty trays after use.",
+      "custom": false,
+      "aim": "Compare island and lake models with real landforms."
+    },
+    {
+      "id": "L058",
+      "area": "culture",
+      "title": "Living and nonliving inquiry",
+      "stage": "Exploring",
+      "materials": "Photos or safely observed examples; sorting spaces",
+      "readiness": "Interested in plants, animals and everyday objects.",
+      "steps": [
+        "Observe a few clear examples of living things.",
+        "Discuss growth and needs across time, not movement alone.",
+        "Sort clear examples and keep uncertain cases for inquiry."
+      ],
+      "interest": "Living things have needs and change over time.",
+      "control": "Adult-supported evidence checks the sort; a moving object is not necessarily living.",
+      "observe": "Reasoning and questions rather than a memorized answer.",
+      "nextStep": "Observe a plant’s changes over several days.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Use observations to explore characteristics of living things."
+    },
+    {
+      "id": "L059",
+      "area": "culture",
+      "title": "Parts and care of a plant",
+      "stage": "Developing",
+      "materials": "Healthy non-toxic plant; plant diagram; care tools",
+      "readiness": "Can handle a plant gently.",
+      "steps": [
+        "Observe roots if visible, stem and leaves without damaging them.",
+        "Name parts and connect each with a simple function.",
+        "Provide the plant’s actual care and record what changes."
+      ],
+      "interest": "The parts work together in a real plant.",
+      "control": "A diagram supports names; the plant’s condition informs care over time.",
+      "observe": "Care decisions, vocabulary and close observation.",
+      "nextStep": "Draw and label the observed plant.",
+      "safety": "Select non-toxic species; check allergies and avoid unknown plants or soil ingestion.",
+      "custom": false,
+      "aim": "Connect plant parts with their functions and care."
+    },
+    {
+      "id": "L060",
+      "area": "culture",
+      "title": "Seed germination observation",
+      "stage": "Developing",
+      "materials": "Safe seeds; clear container; suitable growing medium; observation sheets",
+      "readiness": "Can follow a simple care routine.",
+      "steps": [
+        "Prepare a few seeds using suitable growing conditions.",
+        "Observe regularly and draw what is actually visible.",
+        "Compare changes without inventing a result or fixed growth date."
+      ],
+      "interest": "A change can be recorded before it can be explained.",
+      "control": "Dated observations allow comparisons; a seed may not germinate.",
+      "observe": "Descriptive language, patience and evidence.",
+      "nextStep": "Compare one carefully changed growing condition with adult guidance.",
+      "safety": "Do not eat experimental seeds. Check mold, allergies and small-part risks; wash hands.",
+      "custom": false,
+      "aim": "Record actual changes in a growing seed over time."
+    },
+    {
+      "id": "L061",
+      "area": "culture",
+      "title": "Animal classification and needs",
+      "stage": "Developing",
+      "materials": "Accurate animal pictures; small classification set",
+      "readiness": "Recognizes several animals and enjoys comparison.",
+      "steps": [
+        "Compare a few animals by an observable feature.",
+        "Introduce a limited, accurate grouping and relevant vocabulary.",
+        "Discuss varied needs and habitats without treating all members as identical."
+      ],
+      "interest": "A grouping helps us notice shared features.",
+      "control": "Reliable reference pictures and adult review check the grouping.",
+      "observe": "Uses evidence and recognizes exceptions when introduced.",
+      "nextStep": "Investigate one animal in more detail.",
+      "safety": "Do not bring unknown wildlife into the classroom or require animal handling.",
+      "custom": false,
+      "aim": "Compare animals using a limited, accurate set of shared features."
+    },
+    {
+      "id": "L062",
+      "area": "culture",
+      "title": "Magnetic and nonmagnetic materials",
+      "stage": "Developing",
+      "materials": "Large encased magnet; safe test objects; two trays",
+      "readiness": "Can follow handling limits and make a prediction.",
+      "steps": [
+        "Predict whether one object will be attracted.",
+        "Test it slowly and observe without changing the claim afterward.",
+        "Group results and try another object of a different material."
+      ],
+      "interest": "A prediction may differ from the result.",
+      "control": "The test outcome is observable; repeat to confirm.",
+      "observe": "Prediction, actual result and descriptive language.",
+      "nextStep": "Compare different safe metal objects.",
+      "safety": "Use a large, intact encased magnet under direct supervision. Never use loose high-powered magnets or objects that can be swallowed.",
+      "custom": false,
+      "aim": "Make and test predictions about magnetic attraction."
+    },
+    {
+      "id": "L063",
+      "area": "culture",
+      "title": "Weather journal",
+      "stage": "Exploring",
+      "materials": "Window or safe outdoor space; weather symbols; dated journal",
+      "readiness": "Can make a brief daily observation.",
+      "steps": [
+        "Look at the actual sky and surroundings.",
+        "Record what is observed using a drawing, symbol or dictated note.",
+        "Compare records after several days without predicting a fixed pattern."
+      ],
+      "interest": "A record helps remember yesterday accurately.",
+      "control": "The journal can be compared with current observations; past entries are evidence, not forecasts.",
+      "observe": "Observation separate from prediction.",
+      "nextStep": "Compare clothing choices with the actual conditions.",
+      "safety": "Follow outdoor weather, air quality and sun-safety procedures.",
+      "custom": false,
+      "aim": "Record and compare daily observations of local weather."
+    },
+    {
+      "id": "L064",
+      "area": "culture",
+      "title": "Personal timeline and change",
+      "stage": "Developing",
+      "materials": "Optional family-approved photos or child drawings; timeline strip",
+      "readiness": "Interested in personal history; comfortable sharing.",
+      "steps": [
+        "Invite the child to select events they want to share.",
+        "Arrange a few events in meaningful order.",
+        "Discuss what has changed and what remains important."
+      ],
+      "interest": "A sequence represents the passage of time.",
+      "control": "Family information and the child’s account support checking.",
+      "observe": "Temporal words and respect for different family stories.",
+      "nextStep": "Make a timeline of a classroom project.",
+      "safety": "Participation and family photos are optional. Respect adoption, loss, privacy and varied family structures.",
+      "custom": false,
+      "aim": "Arrange personally meaningful events in a sequence."
+    },
+    {
+      "id": "L065",
+      "area": "culture",
+      "title": "Community helpers and real roles",
+      "stage": "Exploring",
+      "materials": "Local photographs; books; optional invited visitor",
+      "readiness": "Interested in how people help a community.",
+      "steps": [
+        "Ask what the child has noticed people doing.",
+        "Explore several real roles using inclusive examples.",
+        "Connect a role with tools, choices and ways children can ask for help."
+      ],
+      "interest": "Work has a purpose in the community.",
+      "control": "Authentic accounts and reliable books support checking.",
+      "observe": "Questions, vocabulary and avoiding stereotypes.",
+      "nextStep": "Prepare respectful questions for a visitor.",
+      "safety": "Follow visitor and safeguarding procedures; do not imply every uniformed person is automatically a safe contact.",
+      "custom": false,
+      "aim": "Explore real community roles without stereotypes."
+    },
+    {
+      "id": "L066",
+      "area": "culture",
+      "title": "Cultural inquiry with families",
+      "stage": "Developing",
+      "materials": "Family-volunteered stories, music, objects or books",
+      "readiness": "Shows interest; families choose what and whether to share.",
+      "steps": [
+        "Invite a specific contribution without asking one family to represent a whole culture.",
+        "Explore the item and its meaning in that family’s own words.",
+        "Record questions and similarities without ranking traditions."
+      ],
+      "interest": "People within the same culture can have different experiences.",
+      "control": "The contributing family’s account and reliable sources guide interpretation.",
+      "observe": "Respectful questions and language about similarities and differences.",
+      "nextStep": "Explore another family’s perspective with consent.",
+      "safety": "Do not use sacred items as dress-up props, require cultural disclosure or assign a child the role of cultural spokesperson.",
+      "custom": false,
+      "aim": "Explore a family’s shared experience with respect and curiosity."
+    },
+    {
+      "id": "L067",
+      "area": "expression",
+      "title": "Open-ended drawing",
+      "stage": "Exploring",
+      "materials": "Accessible drawing tools; paper; workspace",
+      "readiness": "Interested in making marks.",
+      "steps": [
+        "Show safe care of one drawing tool.",
+        "Invite the child to choose marks, colors and subject.",
+        "Offer descriptive feedback and let the child decide whether to keep or share."
+      ],
+      "interest": "The child makes meaningful choices.",
+      "control": "The child’s intention guides revision; there is no model to copy exactly.",
+      "observe": "Choices, movement and the child’s own account.",
+      "nextStep": "Offer a different drawing medium.",
+      "safety": "Use intact, child-sized materials. Supervise according to the child and the activity.",
+      "custom": false,
+      "aim": "Make and communicate original drawing choices."
+    },
+    {
+      "id": "L068",
+      "area": "expression",
+      "title": "Cutting and collage",
+      "stage": "Developing",
+      "materials": "Child-sized scissors; paper strips; paste; backing paper",
+      "readiness": "Can follow scissor safety with appropriate support.",
+      "steps": [
+        "Show how to carry, hold and close scissors safely.",
+        "Offer short strips to cut and a choice of placement.",
+        "Demonstrate a small amount of paste and invite an original composition."
+      ],
+      "interest": "Cut pieces can be arranged in many ways.",
+      "control": "The child decides the design; adult feedback supports safe tool use.",
+      "observe": "Two-hand coordination, safe handling and artistic choices.",
+      "nextStep": "Offer wider strips or a chosen simple line.",
+      "safety": "Supervise scissors; use adaptive tools as needed and check paste ingredients.",
+      "custom": false,
+      "aim": "Use safe cutting and joining techniques in an original composition."
+    },
+    {
+      "id": "L069",
+      "area": "expression",
+      "title": "Clay and modeling",
+      "stage": "Exploring",
+      "materials": "Non-toxic modeling material; mat; simple blunt tools",
+      "readiness": "Can handle material safely and does not mouth it.",
+      "steps": [
+        "Show pressing, rolling and pinching as options.",
+        "Invite the child to explore and create without a required product.",
+        "Clean tools and hands and store the material correctly."
+      ],
+      "interest": "Hands change the material’s form.",
+      "control": "The child compares the form with their intention.",
+      "observe": "Hand strength, sensory preference and chosen techniques.",
+      "nextStep": "Make a form from an observation or story.",
+      "safety": "Check ingredients and allergies; do not use food-based dough where it creates a risk. Supervise small pieces.",
+      "custom": false,
+      "aim": "Explore and shape a modeling material with chosen techniques."
+    },
+    {
+      "id": "L070",
+      "area": "expression",
+      "title": "Rhythm echo and choice",
+      "stage": "Exploring",
+      "materials": "Voice, clapping or a safe quiet percussion instrument",
+      "readiness": "Can participate comfortably through movement, sound or observation.",
+      "steps": [
+        "Offer a short comfortable rhythm.",
+        "Invite an echo or an alternative accessible response.",
+        "Let the child offer a pattern for a willing adult or peer."
+      ],
+      "interest": "A pattern can be heard, felt or seen.",
+      "control": "Listen or watch together; participation is not scored for perfection.",
+      "observe": "Pattern noticing, turn taking and sound comfort.",
+      "nextStep": "Combine a rhythm with a familiar song.",
+      "safety": "Keep sound levels comfortable and offer a quiet opt-out.",
+      "custom": false,
+      "aim": "Notice, repeat or create a short rhythmic pattern."
+    },
+    {
+      "id": "L071",
+      "area": "expression",
+      "title": "Pitch comparison and singing",
+      "stage": "Developing",
+      "materials": "Voice or tuned child-appropriate instrument; two contrasting pitches",
+      "readiness": "Enjoys listening and can choose whether to join.",
+      "steps": [
+        "Offer two comfortable contrasting pitches.",
+        "Invite listening, gesture or vocal exploration.",
+        "Sing a short familiar phrase and let the child choose a way to respond."
+      ],
+      "interest": "Sounds can be higher or lower.",
+      "control": "Comparison and adult modeling support listening; singing accuracy is not a judgment of musical worth.",
+      "observe": "Listening, preference and willing participation.",
+      "nextStep": "Explore another short melody.",
+      "safety": "Avoid loud or strained singing; respect hearing and communication differences.",
+      "custom": false,
+      "aim": "Explore contrasting pitches and musical response."
+    },
+    {
+      "id": "L072",
+      "area": "expression",
+      "title": "Walking the line and expressive movement",
+      "stage": "Developing",
+      "materials": "Clear floor line; optional gentle music",
+      "readiness": "Can move in the space with safe support.",
+      "steps": [
+        "Demonstrate careful walking with awareness of the space.",
+        "Invite chosen movement at a comfortable pace without requiring heel-to-toe perfection.",
+        "Offer a pause, notice others and return the space to order."
+      ],
+      "interest": "Movement can be controlled and expressive.",
+      "control": "Balance and spatial feedback guide adjustments.",
+      "observe": "Coordination, self-regulation and participation choices.",
+      "nextStep": "Offer a simple movement pattern or accessible seated alternative.",
+      "safety": "Clear the floor, avoid slippery surfaces and provide mobility adaptations without penalty.",
+      "custom": false,
+      "aim": "Practice safe controlled and expressive movement with appropriate access."
+    }
+  ]
+}

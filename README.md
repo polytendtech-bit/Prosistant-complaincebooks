@@ -1,5 +1,11 @@
 # Prosistant child-care staff practice books
 
+## Montessori planning and records — ages 3–6
+
+[Download the complete system](tools/Montessori_Planning_and_Records_System.zip) · [Quick-start guide](tools/montessori-3-6/README.md) · [Printable planning packet](tools/montessori-3-6/Printable_Planning_and_Record_Packet.pdf)
+
+A self-contained browser application with 72 starter lessons, child profiles, individual/small-group weekly planning, dated observations, progress histories, printable reports and JSON backup/restore. Extract the ZIP and open `Montessori_Planning_and_Records.html`. Records remain on the local device; this version has no shared staff accounts or cloud synchronization.
+
 ## 48 states — bilingual daily-training style
 
 The 48 uploaded books have been rewritten using the supplied Washington daily-training DOCX as the model for bilingual incidents, role-based questions and structured answers. Each retains 1,000 exercises, 25 topics, original IDs, CSS, JavaScript, filters, answer controls and printing.
