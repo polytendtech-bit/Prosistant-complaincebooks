@@ -1,0 +1,91 @@
+{
+  "photos": [
+    {
+      "file": "IMG_3849.HEIC",
+      "sha256": "0b8a301d104b495e2467c41f0272dc5de27c344b99d28a5339d69c380a5a5b1f",
+      "rows": 51,
+      "trackable_items": 52,
+      "review": "read visually; OCR was not used as the authoritative transcription"
+    },
+    {
+      "file": "IMG_3850.HEIC",
+      "sha256": "eb3c473cdcad0102e851bfc04aab93c71fc231b72ab41f0e50151c0aa265b97d",
+      "rows": 45,
+      "trackable_items": 46,
+      "review": "read visually; OCR was not used as the authoritative transcription"
+    },
+    {
+      "file": "IMG_3851.HEIC",
+      "sha256": "47c7a9d856d3e1867b1b30684330d8cb5ae52f361776b24d931eaa56e7b775ba",
+      "rows": 31,
+      "trackable_items": 77,
+      "review": "read visually; OCR was not used as the authoritative transcription"
+    },
+    {
+      "file": "IMG_3852.HEIC",
+      "sha256": "0ce41d875fd881c0d51000823b5eaf214b56df1e18a44bc30b242e821f476729",
+      "rows": 36,
+      "trackable_items": 114,
+      "review": "read visually; OCR was not used as the authoritative transcription"
+    },
+    {
+      "file": "IMG_3853.HEIC",
+      "sha256": "cd1bcbf5f61aaaeb61c43af0bd05936e12dbda909742ee0e249b4383f3c9413e",
+      "rows": 27,
+      "trackable_items": 48,
+      "review": "read visually; OCR was not used as the authoritative transcription"
+    },
+    {
+      "file": "IMG_3854.HEIC",
+      "sha256": "abfb3dd9a099ad5aa26dc5387a39bd7c555355d10924cda6f826cce15598cba0",
+      "rows": 23,
+      "trackable_items": 27,
+      "review": "read visually; OCR was not used as the authoritative transcription"
+    },
+    {
+      "file": "IMG_3855.HEIC",
+      "sha256": "8bd9cbee70ebf01664ed03a7f99ef901893cb1a2ddb65aa0c28b09403bbc61db",
+      "rows": 35,
+      "trackable_items": 127,
+      "review": "read visually; OCR was not used as the authoritative transcription"
+    },
+    {
+      "file": "IMG_3856.HEIC",
+      "sha256": "e5048fec473c2ea22ce43c5c951600882b0a4768eee493637e05bd97a707b1b2",
+      "rows": 42,
+      "trackable_items": 83,
+      "review": "read visually; OCR was not used as the authoritative transcription"
+    },
+    {
+      "file": "IMG_3857.HEIC",
+      "sha256": "f9f2a416d6c8ba2cb75f44a5ccc63f608bbe786c9e5214be10c21f60a434dee5",
+      "rows": 34,
+      "trackable_items": 106,
+      "review": "read visually; OCR was not used as the authoritative transcription"
+    },
+    {
+      "file": "IMG_3858.HEIC",
+      "sha256": "fc4f0dabd630702a920b23575159d37ceaeff24d7ce3128777e665a0e382b084",
+      "rows": 33,
+      "trackable_items": 72,
+      "review": "read visually; OCR was not used as the authoritative transcription"
+    },
+    {
+      "file": "IMG_3859.HEIC",
+      "sha256": "3495d51653e775b12dc49e44c0dd0aae933fa7ff372e50d3412da255d09bb4f4",
+      "rows": 8,
+      "trackable_items": 14,
+      "review": "read visually; OCR was not used as the authoritative transcription"
+    }
+  ],
+  "source_child_records_created": 0,
+  "blank_rows": "not filled with invented book titles or requirements; use custom lessons",
+  "source_images_in_distribution": false,
+  "tracking_item_origins": {
+    "Normalized source entry": 753,
+    "Source wording interpreted": 4,
+    "Guide-added material practice": 7,
+    "Guide-added alphabet completion": 2
+  },
+  "normalization_note": "766 derived tracking items are not 766 verbatim printed lines. Explicit variations are expanded; guide additions and interpretation are identified per item."
+}

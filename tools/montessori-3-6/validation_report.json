@@ -1,8 +1,8 @@
 {
-  "application_sha256": "d95aa7eb399c2c46461ba9661d3641141626455355db5df8f96bface3a675aeb",
+  "application_sha256": "30150c9bf21e0be1352a1868dccd21d8f486c13f5b64d0b585258aefce1ee319",
   "functional_checks_passed": 18,
   "checks": [
-    "Fresh startup with 72 lessons and no invented child records",
+    "Fresh startup with 126 lessons and no invented child records",
     "Child profile creation and persistence",
     "Library search, lesson detail and linked plan without invented progress",
     "Individual outcome records evidence without changing group status",
@@ -25,6 +25,7 @@
   "browser": "Chromium / Playwright",
   "direct_file_url_check": "not executed: environment browser policy blocks file URLs; functional tests used local HTTP and an intercepted offline document",
   "legal_or_professional_endorsement": false,
-  "print_packet_pages": 12,
-  "curriculum_csv_and_embedded_json": "matched 72 complete lesson records"
+  "original_72_lesson_records": "unchanged",
+  "printable_packet_pages": 6,
+  "three_year_record_book_pages": 45
 }

@@ -3,18 +3,18 @@ from pathlib import Path
 import json,tempfile,os,hashlib
 R=Path(__file__).resolve().parents[1]
 T=Path(tempfile.mkdtemp(prefix='montessori-tests-'))
-TEST_URL=os.environ.get('MONTESSORI_TEST_URL','http://127.0.0.1:8771/Montessori_Planning_and_Records.html')
+TEST_URL=os.environ.get('MONTESSORI_TEST_URL','http://127.0.0.1:8791/Montessori_Planning_and_Records.html')
 results=[]
 def ok(name):results.append(name);print('PASS',name,flush=True)
 with sync_playwright() as w:
  b=w.chromium.launch(executable_path='/usr/bin/chromium',headless=True,args=['--no-sandbox'])
  p=b.new_page(viewport={'width':1440,'height':1000},accept_downloads=True);errors=[];p.on('pageerror',lambda e:errors.append(str(e)))
- p.goto(TEST_URL);expect(p.get_by_role('heading',name='Room to grow')).to_be_visible();assert p.evaluate('BASE.length')==72
- ok('Fresh startup with 72 lessons and no invented child records')
+ p.goto(TEST_URL);expect(p.get_by_role('heading',name='Room to grow')).to_be_visible();assert p.evaluate('BASE.length')==126
+ ok('Fresh startup with 126 lessons and no invented child records')
  p.get_by_role('button',name='Add a child',exact=True).click()
  f=p.locator('#childForm');f.locator('[name=name]').fill('Sam Test');f.locator('[name=dob]').fill('2022-05-12');f.locator('[name=teacher]').fill('Guide One');f.locator('[name=interests]').fill('Water, plants and stories');f.locator('[name=strengths]').fill('Careful observer');f.get_by_role('button',name='Save',exact=True).click();assert p.evaluate('state.children.length')==1
  cid=p.evaluate('state.children[0].id');ok('Child profile creation and persistence')
- p.get_by_role('button',name='Lesson library',exact=True).click();assert p.locator('article.card').count()==72
+ p.get_by_role('button',name='Lesson library',exact=True).click();assert p.locator('article.card').count()==126
  p.locator('#lessonSearch').fill('Pouring water');assert p.locator('article.card').count()==1;p.get_by_role('button',name='Lesson details',exact=True).click();expect(p.locator('#dialog')).to_contain_text('Flow control, stopping and cleanup');p.get_by_role('button',name='Plan this lesson',exact=True).click()
  f=p.locator('#planForm');f.locator('input[name=childIds]').check();f.locator('[name=focus]').fill('Revisit the pouring work after watching interest yesterday.');f.get_by_role('button',name='Save',exact=True).click();assert p.evaluate('state.plans.length')==1;assert p.evaluate('state.observations.length')==0
  ok('Library search, lesson detail and linked plan without invented progress')
@@ -23,7 +23,7 @@ with sync_playwright() as w:
  # A factual earlier record must not replace the latest record.
  p.get_by_role('button',name='Observations',exact=True).click();p.get_by_role('button',name='Record observation',exact=True).click();f=p.locator('#observationForm');f.locator('[name=lessonId]').select_option('L004');old=p.evaluate('dayAdd(today(),-2)');f.locator('[name=date]').fill(old);f.locator('[name=status]').select_option('presented');f.locator('[name=objective]').fill('Watched the first presentation.');f.get_by_role('button',name='Save observation',exact=True).click();assert p.evaluate(f"latest('{cid}','L004').status")=='practicing';ok('Backdated observations retain chronological progress')
  # Add and edit a custom lesson.
- p.get_by_role('button',name='Lesson library',exact=True).click();p.get_by_role('button',name='Add a custom lesson',exact=True).click();f=p.locator('#lessonForm');f.locator('[name=title]').fill('Care of classroom herb');f.locator('[name=aim]').fill('Care for a living classroom plant.');f.locator('[name=materials]').fill('Basil plant, small pitcher, cloth');f.locator('[name=readiness]').fill('Interest in plant care');f.locator('[name=steps]').fill('Observe the soil.\nAsk if water is needed.\nProvide a small amount and restore.');f.locator('[name=observe]').fill('Checks before watering.');f.get_by_role('button',name='Save',exact=True).click();assert p.evaluate('state.customLessons.length')==1;assert p.evaluate('lessons().length')==73;ok('Custom curriculum lesson creation')
+ p.get_by_role('button',name='Lesson library',exact=True).click();p.get_by_role('button',name='Add a custom lesson',exact=True).click();f=p.locator('#lessonForm');f.locator('[name=title]').fill('Care of classroom herb');f.locator('[name=aim]').fill('Care for a living classroom plant.');f.locator('[name=materials]').fill('Basil plant, small pitcher, cloth');f.locator('[name=readiness]').fill('Interest in plant care');f.locator('[name=steps]').fill('Observe the soil.\nAsk if water is needed.\nProvide a small amount and restore.');f.locator('[name=observe]').fill('Checks before watering.');f.get_by_role('button',name='Save',exact=True).click();assert p.evaluate('state.customLessons.length')==1;assert p.evaluate('lessons().length')==127;ok('Custom curriculum lesson creation')
  # Text stays text even with HTML content and spreadsheet formulas.
  assert p.evaluate("esc('<img src=x onerror=alert(1)>')")== '&lt;img src=x onerror=alert(1)&gt;'
  assert p.evaluate("csvCell('=1+1')")== '"\'=1+1"';assert p.evaluate("csvCell(' @SUM(1)')").startswith('"\'')
@@ -50,7 +50,7 @@ with sync_playwright() as w:
   p.get_by_role('button',name=name,exact=True).click();assert p.evaluate('document.documentElement.scrollWidth<=innerWidth+2'),name
  p.get_by_role('button',name='Overview',exact=True).click();p.screenshot(path=str(T/'Montessori_Mobile.png'),full_page=True);ok('All eight views usable at 390px without page overflow')
  # Verify no external dependency is needed, even with network access disabled.
- q=b.new_page();q.context.set_offline(True);q.route('**/*',lambda r:r.fulfill(path=str(R/'Montessori_Planning_and_Records.html'),content_type='text/html'));q.goto('https://offline-test.invalid/');expect(q.get_by_role('heading',name='Room to grow')).to_be_visible();assert q.evaluate('BASE.length')==72;q.close();ok('Self-contained application renders with network access disabled')
+ q=b.new_page();q.context.set_offline(True);q.route('**/*',lambda r:r.fulfill(path=str(R/'Montessori_Planning_and_Records.html'),content_type='text/html'));q.goto('https://offline-test.invalid/');expect(q.get_by_role('heading',name='Room to grow')).to_be_visible();assert q.evaluate('BASE.length')==126;q.close();ok('Self-contained application renders with network access disabled')
  # A future observation must be rejected and preserve state.
  future=p.evaluate('JSON.parse(JSON.stringify(state))');future['observations'][0]['date']=p.evaluate('dayAdd(today(),1)');assert p.evaluate('(d)=>{try{validate(d);return false}catch(e){return true}}',future);ok('Future observations rejected')
  # Device write failure must not silently update the displayed or saved state.

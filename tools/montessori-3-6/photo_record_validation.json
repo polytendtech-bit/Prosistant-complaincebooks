@@ -1,0 +1,26 @@
+{
+  "application_sha256": "30150c9bf21e0be1352a1868dccd21d8f486c13f5b64d0b585258aefce1ee319",
+  "functional_checks_passed": 14,
+  "checks": [
+    "Legacy storage migrated in memory with all record IDs and notes intact, without fabricated skill links or tags",
+    "Existing broad independent record does not fill specific exercise cells",
+    "Explicit school-year boundaries saved alongside migrated records",
+    "Boundary dates place independent P/A/I events in correct years without filling other tags or related variations",
+    "Unsupported assistance claims and inconsistent P/A/I statuses rejected",
+    "Date cells open the full specific-skill observation history",
+    "Plans and outcomes carry the exact source variation rather than only a broad lesson",
+    "Filtered three-year CSV contains the correct specific item and dated evidence",
+    "Changing year boundaries redisplays evidence without rewriting observation dates",
+    "Filtered child record prints with year and P/A/I headings",
+    "Follow-up reminders use the latest evidence for each exact target",
+    "Version 2 backup round-trip preserves boundaries, tags, source links and legacy notes",
+    "All 11 photos are filterable, including separately recorded letter variations",
+    "Wide record table and detailed observation form stay within a 390px page"
+  ],
+  "javascript_errors": [],
+  "test_evidence": "synthetic child and historical dated observations only",
+  "visual_samples": "Inspected test-only screenshots and child-record printout; temporary artifacts are not classroom data.",
+  "original_72_lesson_records": "unchanged",
+  "printable_packet_pages": 6,
+  "three_year_record_book_pages": 45
+}

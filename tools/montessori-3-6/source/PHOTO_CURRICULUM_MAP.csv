@@ -1,0 +1,767 @@
+Skill ID,Source photo,Source row ID,Area,Section,Source row label,Tracked variation,Display title,Linked lesson ID,Origin / normalization,Clarification
+S0001,IMG_3849.HEIC,R001,practical,Preliminary exercises,Unrolling / rolling a mat,,Unrolling / rolling a mat,L002,Normalized source entry,
+S0002,IMG_3849.HEIC,R002,practical,Preliminary exercises,Carrying a tray,,Carrying a tray,L001,Normalized source entry,
+S0003,IMG_3849.HEIC,R003,practical,Preliminary exercises,Closing a door quietly,,Closing a door quietly,L073,Normalized source entry,
+S0004,IMG_3849.HEIC,R004,practical,Preliminary exercises,Spooning beans,,Spooning beans,L005,Normalized source entry,
+S0005,IMG_3849.HEIC,R005,practical,Preliminary exercises,Pouring rice,,Pouring rice,L003,Normalized source entry,
+S0006,IMG_3849.HEIC,R006,practical,Preliminary exercises,Pouring water: Jug to jug,,Pouring water: Jug to jug,L004,Normalized source entry,Room-temperature water only; use a stable child-sized setup.
+S0007,IMG_3849.HEIC,R007,practical,Preliminary exercises,Pouring water: Jug to small cup,,Pouring water: Jug to small cup,L004,Normalized source entry,Room-temperature water only; use a stable child-sized setup.
+S0008,IMG_3849.HEIC,R008,practical,Preliminary exercises,Pouring water: Jug to three cups,,Pouring water: Jug to three cups,L004,Normalized source entry,Room-temperature water only; use a stable child-sized setup.
+S0009,IMG_3849.HEIC,R009,practical,Preliminary exercises,Pouring water: Jug to measured levels,,Pouring water: Jug to measured levels,L004,Normalized source entry,Room-temperature water only; use a stable child-sized setup.
+S0010,IMG_3849.HEIC,R010,practical,Preliminary exercises,Pouring water: Teapot to teacup,,Pouring water: Teapot to teacup,L004,Normalized source entry,Room-temperature water only; use a stable child-sized setup.
+S0011,IMG_3849.HEIC,R011,practical,Preliminary exercises,Threading beads,,Threading beads,L074,Normalized source entry,
+S0012,IMG_3849.HEIC,R012,practical,Preliminary exercises,Boxes and bottles,,Boxes and bottles,L075,Normalized source entry,
+S0013,IMG_3849.HEIC,R013,practical,Preliminary exercises,Folding cloths,,Folding cloths,L076,Normalized source entry,
+S0014,IMG_3849.HEIC,R014,practical,Preliminary exercises,Tongs: large objects,,Tongs: large objects,L006,Normalized source entry,
+S0015,IMG_3849.HEIC,R015,practical,Preliminary exercises,Tweezers: small objects,,Tweezers: small objects,L006,Normalized source entry,
+S0016,IMG_3849.HEIC,R016,practical,Preliminary exercises,Nuts and bolts,,Nuts and bolts,L075,Normalized source entry,"Row is crossed out in the source photo; retained as an optional item, not a required assignment."
+S0017,IMG_3849.HEIC,R017,practical,Preliminary exercises,Screwdriver,,Screwdriver,L075,Normalized source entry,
+S0018,IMG_3849.HEIC,R018,practical,Preliminary exercises,Locks and keys,,Locks and keys,L075,Normalized source entry,
+S0019,IMG_3849.HEIC,R019,practical,Preliminary exercises,Squeezing a sponge,,Squeezing a sponge,L077,Normalized source entry,
+S0020,IMG_3849.HEIC,R020,practical,Preliminary exercises,Wringing a cloth,,Wringing a cloth,L077,Normalized source entry,
+S0021,IMG_3849.HEIC,R021,practical,Care of self,Large-button dressing frame,,Large-button dressing frame,L008,Normalized source entry,
+S0022,IMG_3849.HEIC,R022,practical,Care of self,Small-button dressing frame,,Small-button dressing frame,L008,Normalized source entry,
+S0023,IMG_3849.HEIC,R023,practical,Care of self,Velcro dressing frame,,Velcro dressing frame,L078,Normalized source entry,
+S0024,IMG_3849.HEIC,R024,practical,Care of self,Snap dressing frame,,Snap dressing frame,L078,Normalized source entry,
+S0025,IMG_3849.HEIC,R025,practical,Care of self,Zipper dressing frame,,Zipper dressing frame,L009,Normalized source entry,
+S0026,IMG_3849.HEIC,R026,practical,Care of self,Buckle dressing frame,,Buckle dressing frame,L078,Normalized source entry,
+S0027,IMG_3849.HEIC,R027,practical,Care of self,Hook-and-eye dressing frame,,Hook-and-eye dressing frame,L078,Normalized source entry,
+S0028,IMG_3849.HEIC,R028,practical,Care of self,Bow dressing frame,,Bow dressing frame,L078,Normalized source entry,
+S0029,IMG_3849.HEIC,R029,practical,Care of self,Shoe-lacing dressing frame,,Shoe-lacing dressing frame,L074,Normalized source entry,
+S0030,IMG_3849.HEIC,R030,practical,Care of self,Skate-lacing dressing frame,,Skate-lacing dressing frame,L074,Normalized source entry,
+S0031,IMG_3849.HEIC,R031,practical,Care of self,Washing hands and nails,,Washing hands and nails,L007,Normalized source entry,
+S0032,IMG_3849.HEIC,R032,practical,Care of self,Polishing shoes,,Polishing shoes,L080,Normalized source entry,
+S0033,IMG_3849.HEIC,R033,practical,Care of self,Sewing a button,,Sewing a button,L079,Normalized source entry,
+S0034,IMG_3849.HEIC,R034,practical,Care of self,Folding cloths,,Folding cloths,L076,Normalized source entry,
+S0035,IMG_3849.HEIC,R035,practical,Care of self,Braiding,,Braiding,L079,Normalized source entry,
+S0036,IMG_3849.HEIC,R036,practical,Care of self,Washing hands,,Washing hands,L007,Normalized source entry,
+S0037,IMG_3849.HEIC,R037,practical,Care of self,Brushing / combing hair,,Brushing / combing hair,L080,Normalized source entry,
+S0038,IMG_3849.HEIC,R038,practical,Care of self,Brushing teeth,,Brushing teeth,L080,Normalized source entry,
+S0039,IMG_3849.HEIC,R039,practical,Care of self,Folding laundry,,Folding laundry,L076,Normalized source entry,
+S0040,IMG_3849.HEIC,R040,practical,Control of movement / physical skills,Walking on the line,,Walking on the line,L072,Normalized source entry,"Voluntary and adapted to mobility, hearing and regulation needs; not a compliance or silence test."
+S0041,IMG_3849.HEIC,R041,practical,Control of movement / physical skills,Walking heel to toe,,Walking heel to toe,L072,Normalized source entry,"Voluntary and adapted to mobility, hearing and regulation needs; not a compliance or silence test."
+S0042,IMG_3849.HEIC,R042,practical,Control of movement / physical skills,Walking on tiptoe,,Walking on tiptoe,L072,Normalized source entry,"Voluntary and adapted to mobility, hearing and regulation needs; not a compliance or silence test."
+S0043,IMG_3849.HEIC,R043,practical,Control of movement / physical skills,Marching,,Marching,L072,Normalized source entry,"Voluntary and adapted to mobility, hearing and regulation needs; not a compliance or silence test."
+S0044,IMG_3849.HEIC,R044,practical,Control of movement / physical skills,Skipping,,Skipping,L072,Normalized source entry,"Voluntary and adapted to mobility, hearing and regulation needs; not a compliance or silence test."
+S0045,IMG_3849.HEIC,R045,practical,Control of movement / physical skills,Balance on one foot,,Balance on one foot,L072,Normalized source entry,"Voluntary and adapted to mobility, hearing and regulation needs; not a compliance or silence test."
+S0046,IMG_3849.HEIC,R046,practical,Control of movement / physical skills,Running,,Running,L072,Normalized source entry,"Voluntary and adapted to mobility, hearing and regulation needs; not a compliance or silence test."
+S0047,IMG_3849.HEIC,R047,practical,Control of movement / physical skills,Walking and carrying an object,,Walking and carrying an object,L072,Normalized source entry,"Voluntary and adapted to mobility, hearing and regulation needs; not a compliance or silence test."
+S0048,IMG_3849.HEIC,R048,practical,Control of movement / physical skills,Sitting in a group circle,,Sitting in a group circle,L072,Normalized source entry,"Voluntary and adapted to mobility, hearing and regulation needs; not a compliance or silence test."
+S0049,IMG_3849.HEIC,R049,practical,Control of movement / physical skills,The silence experience,,The silence experience,L072,Normalized source entry,"Voluntary and adapted to mobility, hearing and regulation needs; not a compliance or silence test."
+S0050,IMG_3849.HEIC,R050,practical,Control of movement / physical skills,Stopping at the sound of a bell,,Stopping at the sound of a bell,L072,Normalized source entry,"Voluntary and adapted to mobility, hearing and regulation needs; not a compliance or silence test."
+S0051,IMG_3849.HEIC,R051,practical,Control of movement / physical skills,Hopping,Two feet,Hopping — Two feet,L072,Normalized source entry,Photo labels two-foot and one-foot hopping; retain the variations with accessible movement choices.
+S0052,IMG_3849.HEIC,R051,practical,Control of movement / physical skills,Hopping,One foot,Hopping — One foot,L072,Normalized source entry,Photo labels two-foot and one-foot hopping; retain the variations with accessible movement choices.
+S0053,IMG_3850.HEIC,R052,practical,Care of inside environment,Polishing,Glass,Polishing — Glass,L081,Normalized source entry,
+S0054,IMG_3850.HEIC,R053,practical,Care of inside environment,Polishing,Wood,Polishing — Wood,L081,Normalized source entry,
+S0055,IMG_3850.HEIC,R054,practical,Care of inside environment,Polishing,Silver,Polishing — Silver,L081,Normalized source entry,
+S0056,IMG_3850.HEIC,R055,practical,Care of inside environment,Polishing,Brass,Polishing — Brass,L081,Normalized source entry,
+S0057,IMG_3850.HEIC,R056,practical,Care of inside environment,Washing a table,,Washing a table,L010,Normalized source entry,
+S0058,IMG_3850.HEIC,R057,practical,Care of inside environment,Washing a chair,,Washing a chair,L082,Normalized source entry,
+S0059,IMG_3850.HEIC,R058,practical,Care of inside environment,Washing linen,,Washing linen,L082,Normalized source entry,
+S0060,IMG_3850.HEIC,R059,practical,Care of inside environment,Washing a window,,Washing a window,L082,Normalized source entry,
+S0061,IMG_3850.HEIC,R060,practical,Care of inside environment,Sweeping with a broom,,Sweeping with a broom,L011,Normalized source entry,
+S0062,IMG_3850.HEIC,R061,practical,Care of inside environment,Dustpan and brush,,Dustpan and brush,L011,Normalized source entry,
+S0063,IMG_3850.HEIC,R062,practical,Care of inside environment,Dusting,,Dusting,L082,Normalized source entry,
+S0064,IMG_3850.HEIC,R063,practical,Care of inside environment,Tidying work shelves,,Tidying work shelves,L082,Normalized source entry,
+S0065,IMG_3850.HEIC,R064,practical,Grace and courtesy,Pulling out a chair,,Pulling out a chair,L083,Normalized source entry,"Offer consent-based and culturally appropriate words, signs or gestures; a handshake is optional."
+S0066,IMG_3850.HEIC,R065,practical,Grace and courtesy,Tucking in a chair,,Tucking in a chair,L083,Normalized source entry,"Offer consent-based and culturally appropriate words, signs or gestures; a handshake is optional."
+S0067,IMG_3850.HEIC,R066,practical,Grace and courtesy,Sitting in a chair,,Sitting in a chair,L083,Normalized source entry,"Offer consent-based and culturally appropriate words, signs or gestures; a handshake is optional."
+S0068,IMG_3850.HEIC,R067,practical,Grace and courtesy,Preparing a snack table,,Preparing a snack table,L083,Normalized source entry,"Offer consent-based and culturally appropriate words, signs or gestures; a handshake is optional."
+S0069,IMG_3850.HEIC,R068,practical,Grace and courtesy,Table setting,,Table setting,L083,Normalized source entry,"Offer consent-based and culturally appropriate words, signs or gestures; a handshake is optional."
+S0070,IMG_3850.HEIC,R069,practical,Grace and courtesy,Serving a guest,,Serving a guest,L083,Normalized source entry,"Offer consent-based and culturally appropriate words, signs or gestures; a handshake is optional."
+S0071,IMG_3850.HEIC,R070,practical,Grace and courtesy,Greeting someone,,Greeting someone,L083,Normalized source entry,"Offer consent-based and culturally appropriate words, signs or gestures; a handshake is optional."
+S0072,IMG_3850.HEIC,R071,practical,Grace and courtesy,Shaking hands,,Shaking hands,L083,Normalized source entry,"Offer consent-based and culturally appropriate words, signs or gestures; a handshake is optional."
+S0073,IMG_3850.HEIC,R072,practical,Grace and courtesy,Introducing,,Introducing,L083,Normalized source entry,"Offer consent-based and culturally appropriate words, signs or gestures; a handshake is optional."
+S0074,IMG_3850.HEIC,R073,practical,Grace and courtesy,Interrupting respectfully,,Interrupting respectfully,L083,Normalized source entry,"Offer consent-based and culturally appropriate words, signs or gestures; a handshake is optional."
+S0075,IMG_3850.HEIC,R074,practical,Grace and courtesy,Please,,Please,L083,Normalized source entry,"Offer consent-based and culturally appropriate words, signs or gestures; a handshake is optional."
+S0076,IMG_3850.HEIC,R075,practical,Grace and courtesy,"Sneezing, coughing and yawning",,"Sneezing, coughing and yawning",L083,Normalized source entry,"Offer consent-based and culturally appropriate words, signs or gestures; a handshake is optional."
+S0077,IMG_3850.HEIC,R076,practical,Grace and courtesy,Thank you,,Thank you,L083,Normalized source entry,"Offer consent-based and culturally appropriate words, signs or gestures; a handshake is optional."
+S0078,IMG_3850.HEIC,R077,practical,Grace and courtesy,Excuse me,,Excuse me,L083,Normalized source entry,"Offer consent-based and culturally appropriate words, signs or gestures; a handshake is optional."
+S0079,IMG_3850.HEIC,R078,practical,Grace and courtesy,Carrying a tray,,Carrying a tray,L001,Normalized source entry,
+S0080,IMG_3850.HEIC,R079,practical,Preparation of food,Preparing daily snack,,Preparing daily snack,L012,Normalized source entry,"Individual allergy, choking and tool-risk review; direct supervision of preparation tools."
+S0081,IMG_3850.HEIC,R080,practical,Preparation of food,Peeling carrots,,Peeling carrots,L012,Normalized source entry,"Individual allergy, choking and tool-risk review; direct supervision of preparation tools."
+S0082,IMG_3850.HEIC,R081,practical,Preparation of food,Squeezing oranges,,Squeezing oranges,L012,Normalized source entry,"Individual allergy, choking and tool-risk review; direct supervision of preparation tools."
+S0083,IMG_3850.HEIC,R082,practical,Preparation of food,Cutting apples,,Cutting apples,L012,Normalized source entry,"Individual allergy, choking and tool-risk review; direct supervision of preparation tools."
+S0084,IMG_3850.HEIC,R083,practical,Artistic skills,Pasting,,Pasting,L068,Normalized source entry,
+S0085,IMG_3850.HEIC,R084,practical,Artistic skills,Painting,,Painting,L124,Normalized source entry,
+S0086,IMG_3850.HEIC,R085,practical,Artistic skills,Pin punch,,Pin punch,L126,Normalized source entry,
+S0087,IMG_3850.HEIC,R086,practical,Artistic skills,Cutting paper: straight lines,,Cutting paper: straight lines,L068,Normalized source entry,
+S0088,IMG_3850.HEIC,R087,practical,Artistic skills,Cutting paper: zigzag lines,,Cutting paper: zigzag lines,L068,Normalized source entry,
+S0089,IMG_3850.HEIC,R088,practical,Artistic skills,Cutting paper: serpentine lines,,Cutting paper: serpentine lines,L068,Normalized source entry,
+S0090,IMG_3850.HEIC,R089,practical,Artistic skills,Cord making,,Cord making,L079,Normalized source entry,
+S0091,IMG_3850.HEIC,R090,practical,Artistic skills,Needlepoint,,Needlepoint,L079,Normalized source entry,
+S0092,IMG_3850.HEIC,R091,practical,Artistic skills,Cutting paper,Geometric shapes,Cutting paper — Geometric shapes,L068,Normalized source entry,
+S0093,IMG_3850.HEIC,R091,practical,Artistic skills,Cutting paper,Irregular shapes,Cutting paper — Irregular shapes,L068,Normalized source entry,
+S0094,IMG_3850.HEIC,R092,practical,Care of outside environment,Planting,,Planting,L084,Normalized source entry,
+S0095,IMG_3850.HEIC,R093,practical,Care of outside environment,Watering plants,,Watering plants,L084,Normalized source entry,
+S0096,IMG_3850.HEIC,R094,practical,Care of outside environment,Trimming plants,,Trimming plants,L084,Normalized source entry,
+S0097,IMG_3850.HEIC,R095,practical,Care of outside environment,Sweeping,,Sweeping,L084,Normalized source entry,
+S0098,IMG_3850.HEIC,R096,practical,Care of outside environment,Collection of garbage,,Collection of garbage,L084,Normalized source entry,
+S0099,IMG_3851.HEIC,R097,sensorial,Discrimination of dimension,Cylinder blocks,A,Cylinder blocks — A,L018,Normalized source entry,
+S0100,IMG_3851.HEIC,R097,sensorial,Discrimination of dimension,Cylinder blocks,B,Cylinder blocks — B,L018,Normalized source entry,
+S0101,IMG_3851.HEIC,R097,sensorial,Discrimination of dimension,Cylinder blocks,C,Cylinder blocks — C,L018,Normalized source entry,
+S0102,IMG_3851.HEIC,R097,sensorial,Discrimination of dimension,Cylinder blocks,D,Cylinder blocks — D,L018,Normalized source entry,
+S0103,IMG_3851.HEIC,R098,sensorial,Discrimination of dimension,Pink tower: big / small,,Pink tower: big / small,L015,Normalized source entry,
+S0104,IMG_3851.HEIC,R099,sensorial,Discrimination of dimension,Broad stair: broad / narrow,,Broad stair: broad / narrow,L016,Normalized source entry,
+S0105,IMG_3851.HEIC,R100,sensorial,Discrimination of dimension,Long rods: long / short,,Long rods: long / short,L017,Normalized source entry,
+S0106,IMG_3851.HEIC,R101,sensorial,Discrimination of dimension,Knobless cylinders,Red,Knobless cylinders — Red,L085,Normalized source entry,
+S0107,IMG_3851.HEIC,R101,sensorial,Discrimination of dimension,Knobless cylinders,Green,Knobless cylinders — Green,L085,Normalized source entry,
+S0108,IMG_3851.HEIC,R101,sensorial,Discrimination of dimension,Knobless cylinders,Yellow,Knobless cylinders — Yellow,L085,Normalized source entry,
+S0109,IMG_3851.HEIC,R101,sensorial,Discrimination of dimension,Knobless cylinders,Blue,Knobless cylinders — Blue,L085,Normalized source entry,
+S0110,IMG_3851.HEIC,R101,sensorial,Discrimination of dimension,Knobless cylinders,Pattern cards,Knobless cylinders — Pattern cards,L085,Normalized source entry,
+S0111,IMG_3851.HEIC,R102,sensorial,Discrimination of shape,Superimposed geometric figures,,Superimposed geometric figures,L088,Normalized source entry,
+S0112,IMG_3851.HEIC,R103,sensorial,Discrimination of shape,Binomial cube,Build in,Binomial cube — Build in,L086,Normalized source entry,Variation names are supplied; confirm the exact procedure with the program’s training album.
+S0113,IMG_3851.HEIC,R103,sensorial,Discrimination of shape,Binomial cube,Build out,Binomial cube — Build out,L086,Normalized source entry,Variation names are supplied; confirm the exact procedure with the program’s training album.
+S0114,IMG_3851.HEIC,R103,sensorial,Discrimination of shape,Binomial cube,Slice,Binomial cube — Slice,L086,Source wording interpreted,The source prints “slice parade” without a separator. These planning labels are provisional; confirm whether the program treats them as one combined extension or separate variations.
+S0115,IMG_3851.HEIC,R103,sensorial,Discrimination of shape,Binomial cube,Parade,Binomial cube — Parade,L086,Source wording interpreted,The source prints “slice parade” without a separator. These planning labels are provisional; confirm whether the program treats them as one combined extension or separate variations.
+S0116,IMG_3851.HEIC,R104,sensorial,Discrimination of shape,Trinomial cube,Build in,Trinomial cube — Build in,L086,Normalized source entry,Variation names are supplied; confirm the exact procedure with the program’s training album.
+S0117,IMG_3851.HEIC,R104,sensorial,Discrimination of shape,Trinomial cube,Build out,Trinomial cube — Build out,L086,Normalized source entry,Variation names are supplied; confirm the exact procedure with the program’s training album.
+S0118,IMG_3851.HEIC,R104,sensorial,Discrimination of shape,Trinomial cube,Slice,Trinomial cube — Slice,L086,Source wording interpreted,The source prints “slice parade” without a separator. These planning labels are provisional; confirm whether the program treats them as one combined extension or separate variations.
+S0119,IMG_3851.HEIC,R104,sensorial,Discrimination of shape,Trinomial cube,Parade,Trinomial cube — Parade,L086,Source wording interpreted,The source prints “slice parade” without a separator. These planning labels are provisional; confirm whether the program treats them as one combined extension or separate variations.
+S0120,IMG_3851.HEIC,R105,sensorial,Discrimination of shape,Decanomial square,Squares,Decanomial square — Squares,L087,Normalized source entry,
+S0121,IMG_3851.HEIC,R105,sensorial,Discrimination of shape,Decanomial square,Binomials,Decanomial square — Binomials,L087,Normalized source entry,
+S0122,IMG_3851.HEIC,R105,sensorial,Discrimination of shape,Decanomial square,Trinomials,Decanomial square — Trinomials,L087,Normalized source entry,
+S0123,IMG_3851.HEIC,R106,sensorial,Discrimination of shape,Geometry cabinet trays,1,Geometry cabinet trays — 1,L021,Normalized source entry,
+S0124,IMG_3851.HEIC,R106,sensorial,Discrimination of shape,Geometry cabinet trays,2,Geometry cabinet trays — 2,L021,Normalized source entry,
+S0125,IMG_3851.HEIC,R106,sensorial,Discrimination of shape,Geometry cabinet trays,3,Geometry cabinet trays — 3,L021,Normalized source entry,
+S0126,IMG_3851.HEIC,R106,sensorial,Discrimination of shape,Geometry cabinet trays,4,Geometry cabinet trays — 4,L021,Normalized source entry,
+S0127,IMG_3851.HEIC,R107,sensorial,Discrimination of shape,Geometry cabinet cards,Filled-in,Geometry cabinet cards — Filled-in,L021,Normalized source entry,
+S0128,IMG_3851.HEIC,R107,sensorial,Discrimination of shape,Geometry cabinet cards,Thick outline,Geometry cabinet cards — Thick outline,L021,Normalized source entry,
+S0129,IMG_3851.HEIC,R107,sensorial,Discrimination of shape,Geometry cabinet cards,Thin outline,Geometry cabinet cards — Thin outline,L021,Normalized source entry,
+S0130,IMG_3851.HEIC,R108,sensorial,Discrimination of shape,Geometry cabinet games,Tracing,Geometry cabinet games — Tracing,L021,Normalized source entry,
+S0131,IMG_3851.HEIC,R108,sensorial,Discrimination of shape,Geometry cabinet games,Labeling,Geometry cabinet games — Labeling,L021,Normalized source entry,
+S0132,IMG_3851.HEIC,R109,sensorial,Discrimination of shape,Constructive triangles: Rectangular box A,Construction,Constructive triangles: Rectangular box A — Construction,L088,Guide-added material practice,The photograph names the material and its language work. This separate hands-on practice entry is a guide-added planning distinction.
+S0133,IMG_3851.HEIC,R109,sensorial,Discrimination of shape,Constructive triangles: Rectangular box A,Language,Constructive triangles: Rectangular box A — Language,L088,Normalized source entry,
+S0134,IMG_3851.HEIC,R110,sensorial,Discrimination of shape,Constructive triangles: Triangular box,Construction,Constructive triangles: Triangular box — Construction,L088,Guide-added material practice,The photograph names the material and its language work. This separate hands-on practice entry is a guide-added planning distinction.
+S0135,IMG_3851.HEIC,R110,sensorial,Discrimination of shape,Constructive triangles: Triangular box,Language,Constructive triangles: Triangular box — Language,L088,Normalized source entry,
+S0136,IMG_3851.HEIC,R111,sensorial,Discrimination of shape,Constructive triangles: Small hexagonal box,Construction,Constructive triangles: Small hexagonal box — Construction,L088,Guide-added material practice,The photograph names the material and its language work. This separate hands-on practice entry is a guide-added planning distinction.
+S0137,IMG_3851.HEIC,R111,sensorial,Discrimination of shape,Constructive triangles: Small hexagonal box,Language,Constructive triangles: Small hexagonal box — Language,L088,Normalized source entry,
+S0138,IMG_3851.HEIC,R112,sensorial,Discrimination of shape,Constructive triangles: Large hexagonal box,Construction,Constructive triangles: Large hexagonal box — Construction,L088,Guide-added material practice,The photograph names the material and its language work. This separate hands-on practice entry is a guide-added planning distinction.
+S0139,IMG_3851.HEIC,R112,sensorial,Discrimination of shape,Constructive triangles: Large hexagonal box,Language,Constructive triangles: Large hexagonal box — Language,L088,Normalized source entry,
+S0140,IMG_3851.HEIC,R113,sensorial,Discrimination of shape,Constructive triangles: Rectangular box B,Construction,Constructive triangles: Rectangular box B — Construction,L088,Guide-added material practice,The photograph names the material and its language work. This separate hands-on practice entry is a guide-added planning distinction.
+S0141,IMG_3851.HEIC,R113,sensorial,Discrimination of shape,Constructive triangles: Rectangular box B,Language,Constructive triangles: Rectangular box B — Language,L088,Normalized source entry,
+S0142,IMG_3851.HEIC,R114,sensorial,Discrimination of color,Color box 1,Matching,Color box 1 — Matching,L019,Guide-added material practice,The photograph names the material and its language work. This separate hands-on practice entry is a guide-added planning distinction.
+S0143,IMG_3851.HEIC,R114,sensorial,Discrimination of color,Color box 1,Language,Color box 1 — Language,L019,Normalized source entry,
+S0144,IMG_3851.HEIC,R115,sensorial,Discrimination of color,Color box 2,Language,Color box 2 — Language,L019,Normalized source entry,
+S0145,IMG_3851.HEIC,R115,sensorial,Discrimination of color,Color box 2,Match objects,Color box 2 — Match objects,L019,Normalized source entry,
+S0146,IMG_3851.HEIC,R116,sensorial,Discrimination of color,Color box 3,Create sun,Color box 3 — Create sun,L020,Normalized source entry,
+S0147,IMG_3851.HEIC,R116,sensorial,Discrimination of color,Color box 3,Design,Color box 3 — Design,L020,Normalized source entry,
+S0148,IMG_3851.HEIC,R117,sensorial,Discrimination of touch,Touch boards,Exploration,Touch boards — Exploration,L022,Guide-added material practice,The photograph names the material and its language work. This separate hands-on practice entry is a guide-added planning distinction.
+S0149,IMG_3851.HEIC,R117,sensorial,Discrimination of touch,Touch boards,Language,Touch boards — Language,L022,Normalized source entry,
+S0150,IMG_3851.HEIC,R118,sensorial,Discrimination of touch,Touch tablets,Language,Touch tablets — Language,L022,Normalized source entry,
+S0151,IMG_3851.HEIC,R118,sensorial,Discrimination of touch,Touch tablets,Matching,Touch tablets — Matching,L022,Normalized source entry,
+S0152,IMG_3851.HEIC,R118,sensorial,Discrimination of touch,Touch tablets,Grading,Touch tablets — Grading,L022,Normalized source entry,
+S0153,IMG_3851.HEIC,R119,sensorial,Discrimination of touch,Fabrics,Language,Fabrics — Language,L022,Normalized source entry,
+S0154,IMG_3851.HEIC,R119,sensorial,Discrimination of touch,Fabrics,Matching,Fabrics — Matching,L022,Normalized source entry,
+S0155,IMG_3851.HEIC,R120,sensorial,Stereognostic sense,Geometric solids,Touch,Geometric solids — Touch,L024,Normalized source entry,
+S0156,IMG_3851.HEIC,R120,sensorial,Stereognostic sense,Geometric solids,Sort,Geometric solids — Sort,L024,Normalized source entry,
+S0157,IMG_3851.HEIC,R120,sensorial,Stereognostic sense,Geometric solids,Bases,Geometric solids — Bases,L024,Normalized source entry,
+S0158,IMG_3851.HEIC,R120,sensorial,Stereognostic sense,Geometric solids,Language,Geometric solids — Language,L024,Normalized source entry,
+S0159,IMG_3851.HEIC,R121,sensorial,Stereognostic sense,Mystery bag,,Mystery bag,L089,Normalized source entry,
+S0160,IMG_3851.HEIC,R122,sensorial,Stereognostic sense,Progressing sorting exercises,,Progressing sorting exercises,L089,Normalized source entry,
+S0161,IMG_3851.HEIC,R123,sensorial,Discrimination of taste,Tasting jars,Sweet,Tasting jars — Sweet,L090,Normalized source entry,"Optional, only with approved safe samples; never require tasting or use as an allergy test."
+S0162,IMG_3851.HEIC,R123,sensorial,Discrimination of taste,Tasting jars,Sour,Tasting jars — Sour,L090,Normalized source entry,"Optional, only with approved safe samples; never require tasting or use as an allergy test."
+S0163,IMG_3851.HEIC,R123,sensorial,Discrimination of taste,Tasting jars,Salty,Tasting jars — Salty,L090,Normalized source entry,"Optional, only with approved safe samples; never require tasting or use as an allergy test."
+S0164,IMG_3851.HEIC,R123,sensorial,Discrimination of taste,Tasting jars,Bitter,Tasting jars — Bitter,L090,Normalized source entry,"Optional, only with approved safe samples; never require tasting or use as an allergy test."
+S0165,IMG_3851.HEIC,R123,sensorial,Discrimination of taste,Tasting jars,Umami,Tasting jars — Umami,L090,Normalized source entry,"Optional, only with approved safe samples; never require tasting or use as an allergy test."
+S0166,IMG_3851.HEIC,R124,sensorial,Discrimination of temperature,Thermic tablets,Matching,Thermic tablets — Matching,L091,Normalized source entry,
+S0167,IMG_3851.HEIC,R124,sensorial,Discrimination of temperature,Thermic tablets,Grading,Thermic tablets — Grading,L091,Normalized source entry,
+S0168,IMG_3851.HEIC,R125,sensorial,Discrimination of weight,Baric tablets,Matching,Baric tablets — Matching,L092,Normalized source entry,
+S0169,IMG_3851.HEIC,R125,sensorial,Discrimination of weight,Baric tablets,Grading,Baric tablets — Grading,L092,Normalized source entry,
+S0170,IMG_3851.HEIC,R126,sensorial,Discrimination of sound,Sound boxes,Matching,Sound boxes — Matching,L023,Normalized source entry,
+S0171,IMG_3851.HEIC,R126,sensorial,Discrimination of sound,Sound boxes,Grading,Sound boxes — Grading,L023,Normalized source entry,
+S0172,IMG_3851.HEIC,R127,sensorial,Discrimination of sound,Bells,Match 3,Bells — Match 3,L071,Normalized source entry,
+S0173,IMG_3851.HEIC,R127,sensorial,Discrimination of sound,Bells,Match 5,Bells — Match 5,L071,Normalized source entry,
+S0174,IMG_3851.HEIC,R127,sensorial,Discrimination of sound,Bells,Match 8,Bells — Match 8,L071,Normalized source entry,
+S0175,IMG_3851.HEIC,R127,sensorial,Discrimination of sound,Bells,Grading,Bells — Grading,L071,Normalized source entry,
+S0176,IMG_3852.HEIC,R128,language,Enrichment of language,Vocabulary enrichment: oral,,Vocabulary enrichment: oral,L025,Normalized source entry,
+S0177,IMG_3852.HEIC,R129,language,Enrichment of language,Language training: oral,,Language training: oral,L026,Normalized source entry,
+S0178,IMG_3852.HEIC,R130,language,Enrichment of language,Sound games: oral,,Sound games: oral,L027,Normalized source entry,
+S0179,IMG_3852.HEIC,R131,language,Enrichment of language,Classified cards,,Classified cards,L095,Normalized source entry,
+S0180,IMG_3852.HEIC,R132,language,Enrichment of language,Sequence cards,,Sequence cards,L093,Normalized source entry,
+S0181,IMG_3852.HEIC,R133,language,Enrichment of language,Songs,,Songs,L094,Normalized source entry,
+S0182,IMG_3852.HEIC,R134,language,Enrichment of language,Rhymes,,Rhymes,L094,Normalized source entry,
+S0183,IMG_3852.HEIC,R135,language,Enrichment of language,Poetry: oral,,Poetry: oral,L094,Normalized source entry,
+S0184,IMG_3852.HEIC,R136,language,Enrichment of language,Finger plays,,Finger plays,L094,Normalized source entry,
+S0185,IMG_3852.HEIC,R137,language,Enrichment of language,Oral discussions,,Oral discussions,L094,Normalized source entry,
+S0186,IMG_3852.HEIC,R138,language,Enrichment of language,General knowledge questions,,General knowledge questions,L094,Normalized source entry,
+S0187,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,a,Sandpaper letters — a,L029,Normalized source entry,
+S0188,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,b,Sandpaper letters — b,L029,Normalized source entry,
+S0189,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,c,Sandpaper letters — c,L029,Normalized source entry,
+S0190,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,d,Sandpaper letters — d,L029,Normalized source entry,
+S0191,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,e,Sandpaper letters — e,L029,Normalized source entry,
+S0192,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,f,Sandpaper letters — f,L029,Normalized source entry,
+S0193,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,g,Sandpaper letters — g,L029,Normalized source entry,
+S0194,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,h,Sandpaper letters — h,L029,Normalized source entry,
+S0195,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,i,Sandpaper letters — i,L029,Normalized source entry,
+S0196,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,j,Sandpaper letters — j,L029,Normalized source entry,
+S0197,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,k,Sandpaper letters — k,L029,Normalized source entry,
+S0198,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,l,Sandpaper letters — l,L029,Normalized source entry,
+S0199,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,m,Sandpaper letters — m,L029,Normalized source entry,
+S0200,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,n,Sandpaper letters — n,L029,Normalized source entry,
+S0201,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,o,Sandpaper letters — o,L029,Normalized source entry,
+S0202,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,p,Sandpaper letters — p,L029,Normalized source entry,
+S0203,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,q,Sandpaper letters — q,L029,Guide-added alphabet completion,"The photographed letter list omits q and x. This entry completes the English alphabet; it is a disclosed guide addition, not a printed source item."
+S0204,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,r,Sandpaper letters — r,L029,Normalized source entry,
+S0205,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,s,Sandpaper letters — s,L029,Normalized source entry,
+S0206,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,t,Sandpaper letters — t,L029,Normalized source entry,
+S0207,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,u,Sandpaper letters — u,L029,Normalized source entry,
+S0208,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,v,Sandpaper letters — v,L029,Normalized source entry,
+S0209,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,w,Sandpaper letters — w,L029,Normalized source entry,
+S0210,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,x,Sandpaper letters — x,L029,Guide-added alphabet completion,"The photographed letter list omits q and x. This entry completes the English alphabet; it is a disclosed guide addition, not a printed source item."
+S0211,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,y,Sandpaper letters — y,L029,Normalized source entry,
+S0212,IMG_3852.HEIC,R139,language,Phonetic language,Sandpaper letters,z,Sandpaper letters — z,L029,Normalized source entry,
+S0213,IMG_3852.HEIC,R140,language,Phonetic language,Sand tray,,Sand tray,L096,Normalized source entry,
+S0214,IMG_3852.HEIC,R141,language,Large movable alphabet,Phonetic letter recognition,,Phonetic letter recognition,L031,Normalized source entry,
+S0215,IMG_3852.HEIC,R142,language,Large movable alphabet,Form three-letter phonetic words,,Form three-letter phonetic words,L031,Normalized source entry,
+S0216,IMG_3852.HEIC,R143,language,Large movable alphabet,Form four-letter phonetic words,,Form four-letter phonetic words,L031,Normalized source entry,
+S0217,IMG_3852.HEIC,R144,language,Large movable alphabet,Use objects with movable alphabet,,Use objects with movable alphabet,L031,Normalized source entry,
+S0218,IMG_3852.HEIC,R145,language,Decoding / reading: phonics,Matching objects to phonetic labels,,Matching objects to phonetic labels,L032,Normalized source entry,
+S0219,IMG_3852.HEIC,R146,language,Decoding / reading: phonics,Matching pictures to phonetic labels,,Matching pictures to phonetic labels,L032,Normalized source entry,
+S0220,IMG_3852.HEIC,R147,language,Decoding / reading: phonics,Phonetic cards,a,Phonetic cards — a,L097,Normalized source entry,
+S0221,IMG_3852.HEIC,R147,language,Decoding / reading: phonics,Phonetic cards,e,Phonetic cards — e,L097,Normalized source entry,
+S0222,IMG_3852.HEIC,R147,language,Decoding / reading: phonics,Phonetic cards,i,Phonetic cards — i,L097,Normalized source entry,
+S0223,IMG_3852.HEIC,R147,language,Decoding / reading: phonics,Phonetic cards,o,Phonetic cards — o,L097,Normalized source entry,
+S0224,IMG_3852.HEIC,R147,language,Decoding / reading: phonics,Phonetic cards,u,Phonetic cards — u,L097,Normalized source entry,
+S0225,IMG_3852.HEIC,R148,language,Pink phonetic series,Word and picture cards,1,Word and picture cards — 1,L097,Normalized source entry,Set numbers are visible but their words are not supplied; inspect the actual classroom set before planning.
+S0226,IMG_3852.HEIC,R148,language,Pink phonetic series,Word and picture cards,2,Word and picture cards — 2,L097,Normalized source entry,Set numbers are visible but their words are not supplied; inspect the actual classroom set before planning.
+S0227,IMG_3852.HEIC,R148,language,Pink phonetic series,Word and picture cards,3,Word and picture cards — 3,L097,Normalized source entry,Set numbers are visible but their words are not supplied; inspect the actual classroom set before planning.
+S0228,IMG_3852.HEIC,R148,language,Pink phonetic series,Word and picture cards,4,Word and picture cards — 4,L097,Normalized source entry,Set numbers are visible but their words are not supplied; inspect the actual classroom set before planning.
+S0229,IMG_3852.HEIC,R148,language,Pink phonetic series,Word and picture cards,5,Word and picture cards — 5,L097,Normalized source entry,Set numbers are visible but their words are not supplied; inspect the actual classroom set before planning.
+S0230,IMG_3852.HEIC,R148,language,Pink phonetic series,Word and picture cards,6,Word and picture cards — 6,L097,Normalized source entry,Set numbers are visible but their words are not supplied; inspect the actual classroom set before planning.
+S0231,IMG_3852.HEIC,R148,language,Pink phonetic series,Word and picture cards,7,Word and picture cards — 7,L097,Normalized source entry,Set numbers are visible but their words are not supplied; inspect the actual classroom set before planning.
+S0232,IMG_3852.HEIC,R149,language,Pink phonetic series,Sheets and word cards,1,Sheets and word cards — 1,L097,Normalized source entry,
+S0233,IMG_3852.HEIC,R149,language,Pink phonetic series,Sheets and word cards,2,Sheets and word cards — 2,L097,Normalized source entry,
+S0234,IMG_3852.HEIC,R149,language,Pink phonetic series,Sheets and word cards,3,Sheets and word cards — 3,L097,Normalized source entry,
+S0235,IMG_3852.HEIC,R150,language,Pink phonetic series,Word lists,1,Word lists — 1,L097,Normalized source entry,
+S0236,IMG_3852.HEIC,R150,language,Pink phonetic series,Word lists,2,Word lists — 2,L097,Normalized source entry,
+S0237,IMG_3852.HEIC,R150,language,Pink phonetic series,Word lists,3,Word lists — 3,L097,Normalized source entry,
+S0238,IMG_3852.HEIC,R151,language,Pink phonetic series,Phonetic readers: Simple,,Phonetic readers: Simple,L097,Normalized source entry,
+S0239,IMG_3852.HEIC,R152,language,Blue phonetic series,Word and picture cards,1,Word and picture cards — 1,L097,Normalized source entry,Set numbers are visible but their words are not supplied; inspect the actual classroom set before planning.
+S0240,IMG_3852.HEIC,R152,language,Blue phonetic series,Word and picture cards,2,Word and picture cards — 2,L097,Normalized source entry,Set numbers are visible but their words are not supplied; inspect the actual classroom set before planning.
+S0241,IMG_3852.HEIC,R152,language,Blue phonetic series,Word and picture cards,3,Word and picture cards — 3,L097,Normalized source entry,Set numbers are visible but their words are not supplied; inspect the actual classroom set before planning.
+S0242,IMG_3852.HEIC,R152,language,Blue phonetic series,Word and picture cards,4,Word and picture cards — 4,L097,Normalized source entry,Set numbers are visible but their words are not supplied; inspect the actual classroom set before planning.
+S0243,IMG_3852.HEIC,R152,language,Blue phonetic series,Word and picture cards,5,Word and picture cards — 5,L097,Normalized source entry,Set numbers are visible but their words are not supplied; inspect the actual classroom set before planning.
+S0244,IMG_3852.HEIC,R152,language,Blue phonetic series,Word and picture cards,6,Word and picture cards — 6,L097,Normalized source entry,Set numbers are visible but their words are not supplied; inspect the actual classroom set before planning.
+S0245,IMG_3852.HEIC,R152,language,Blue phonetic series,Word and picture cards,7,Word and picture cards — 7,L097,Normalized source entry,Set numbers are visible but their words are not supplied; inspect the actual classroom set before planning.
+S0246,IMG_3852.HEIC,R152,language,Blue phonetic series,Word and picture cards,8,Word and picture cards — 8,L097,Normalized source entry,Set numbers are visible but their words are not supplied; inspect the actual classroom set before planning.
+S0247,IMG_3852.HEIC,R153,language,Blue phonetic series,Sentence cards,,Sentence cards,L097,Normalized source entry,
+S0248,IMG_3852.HEIC,R154,language,Blue phonetic series,Word lists,1,Word lists — 1,L097,Normalized source entry,
+S0249,IMG_3852.HEIC,R154,language,Blue phonetic series,Word lists,2,Word lists — 2,L097,Normalized source entry,
+S0250,IMG_3852.HEIC,R154,language,Blue phonetic series,Word lists,3,Word lists — 3,L097,Normalized source entry,
+S0251,IMG_3852.HEIC,R155,language,Blue phonetic series,Phonetic readers: Complex,,Phonetic readers: Complex,L097,Normalized source entry,
+S0252,IMG_3852.HEIC,R156,language,Decoding / reading: phonograms,Matching objects to phonogram labels,,Matching objects to phonogram labels,L033,Normalized source entry,Source uses “phonetic labels” within the phonogram section; target label is clarified here.
+S0253,IMG_3852.HEIC,R157,language,Decoding / reading: phonograms,Matching pictures to phonogram labels,,Matching pictures to phonogram labels,L033,Normalized source entry,Source uses “phonetic labels” within the phonogram section; target label is clarified here.
+S0254,IMG_3852.HEIC,R158,language,Decoding / reading: phonograms,Phonogram cards,,Phonogram cards,L033,Normalized source entry,Source uses “phonetic labels” within the phonogram section; target label is clarified here.
+S0255,IMG_3852.HEIC,R159,language,Decoding / reading: phonograms,Phonogram booklets,,Phonogram booklets,L033,Normalized source entry,Source uses “phonetic labels” within the phonogram section; target label is clarified here.
+S0256,IMG_3852.HEIC,R160,language,Decoding / reading: phonograms,Phonogram readers,,Phonogram readers,L033,Normalized source entry,Source uses “phonetic labels” within the phonogram section; target label is clarified here.
+S0257,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,ie,Word and picture cards — ie,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0258,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,ai,Word and picture cards — ai,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0259,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,ay,Word and picture cards — ay,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0260,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,oi,Word and picture cards — oi,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0261,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,or,Word and picture cards — or,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0262,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,ir,Word and picture cards — ir,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0263,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,ur,Word and picture cards — ur,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0264,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,er,Word and picture cards — er,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0265,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,ow,Word and picture cards — ow,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0266,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,u-e,Word and picture cards — u-e,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0267,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,sh,Word and picture cards — sh,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0268,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,ch,Word and picture cards — ch,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0269,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,oa,Word and picture cards — oa,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0270,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,e,Word and picture cards — e,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0271,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,o,Word and picture cards — o,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0272,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,oo/oo,Word and picture cards — oo/oo,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0273,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,aw,Word and picture cards — aw,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0274,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,ar,Word and picture cards — ar,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0275,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,ea/ea,Word and picture cards — ea/ea,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0276,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,dge,Word and picture cards — dge,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0277,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,th,Word and picture cards — th,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0278,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,tch,Word and picture cards — tch,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0279,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,a-e,Word and picture cards — a-e,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0280,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,tion,Word and picture cards — tion,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0281,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,ph,Word and picture cards — ph,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0282,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,o-e,Word and picture cards — o-e,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0283,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,ow (second printed position),Word and picture cards — ow (second printed position),L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0284,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,ey,Word and picture cards — ey,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0285,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,y/y,Word and picture cards — y/y,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0286,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,ee,Word and picture cards — ee,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0287,IMG_3852.HEIC,R161,language,Green phonogram series,Word and picture cards,i-e,Word and picture cards — i-e,L033,Normalized source entry,"Printed spellings are identifiers, not a pronunciation key. Duplicate ow positions are retained; check actual cards and the language/dialect taught."
+S0288,IMG_3852.HEIC,R162,language,Green phonogram series,Sentence cards,,Sentence cards,L033,Normalized source entry,
+S0289,IMG_3852.HEIC,R163,language,Green phonogram series,Phonogram cards,,Phonogram cards,L033,Normalized source entry,
+S0290,IMG_3853.HEIC,R164,language,Reading,Puzzle words,,Puzzle words,L034,Normalized source entry,
+S0291,IMG_3853.HEIC,R165,language,Reading,Labels for the environment,,Labels for the environment,L095,Normalized source entry,
+S0292,IMG_3853.HEIC,R166,language,Reading,Classified cards and labels,,Classified cards and labels,L095,Normalized source entry,
+S0293,IMG_3853.HEIC,R167,language,Reading,Poetry: reading,,Poetry: reading,L102,Normalized source entry,
+S0294,IMG_3853.HEIC,R168,language,Reading,Short stories,,Short stories,L102,Normalized source entry,
+S0295,IMG_3853.HEIC,R169,language,Reading,Early chapter books,,Early chapter books,L102,Normalized source entry,
+S0296,IMG_3853.HEIC,R170,language,Preparation of the hand,Sandpaper letter: two-finger tracing,,Sandpaper letter: two-finger tracing,L029,Normalized source entry,
+S0297,IMG_3853.HEIC,R171,language,Preparation of the hand,Metal insets: fine-motor preparation,,Metal insets: fine-motor preparation,L030,Normalized source entry,
+S0298,IMG_3853.HEIC,R172,language,Preparation of the hand,Metal insets: simple to complex shading,1,Metal insets: simple to complex shading — 1,L030,Normalized source entry,"Numbers 1–7 appear below the shading row; they are retained as set identifiers, not invented design descriptions."
+S0299,IMG_3853.HEIC,R172,language,Preparation of the hand,Metal insets: simple to complex shading,2,Metal insets: simple to complex shading — 2,L030,Normalized source entry,"Numbers 1–7 appear below the shading row; they are retained as set identifiers, not invented design descriptions."
+S0300,IMG_3853.HEIC,R172,language,Preparation of the hand,Metal insets: simple to complex shading,3,Metal insets: simple to complex shading — 3,L030,Normalized source entry,"Numbers 1–7 appear below the shading row; they are retained as set identifiers, not invented design descriptions."
+S0301,IMG_3853.HEIC,R172,language,Preparation of the hand,Metal insets: simple to complex shading,4,Metal insets: simple to complex shading — 4,L030,Normalized source entry,"Numbers 1–7 appear below the shading row; they are retained as set identifiers, not invented design descriptions."
+S0302,IMG_3853.HEIC,R172,language,Preparation of the hand,Metal insets: simple to complex shading,5,Metal insets: simple to complex shading — 5,L030,Normalized source entry,"Numbers 1–7 appear below the shading row; they are retained as set identifiers, not invented design descriptions."
+S0303,IMG_3853.HEIC,R172,language,Preparation of the hand,Metal insets: simple to complex shading,6,Metal insets: simple to complex shading — 6,L030,Normalized source entry,"Numbers 1–7 appear below the shading row; they are retained as set identifiers, not invented design descriptions."
+S0304,IMG_3853.HEIC,R172,language,Preparation of the hand,Metal insets: simple to complex shading,7,Metal insets: simple to complex shading — 7,L030,Normalized source entry,"Numbers 1–7 appear below the shading row; they are retained as set identifiers, not invented design descriptions."
+S0305,IMG_3853.HEIC,R173,language,Printing on chalkboard,Printing on chalkboard,Blank board,Printing on chalkboard — Blank board,L098,Normalized source entry,
+S0306,IMG_3853.HEIC,R173,language,Printing on chalkboard,Printing on chalkboard,Grid board,Printing on chalkboard — Grid board,L098,Normalized source entry,
+S0307,IMG_3853.HEIC,R173,language,Printing on chalkboard,Printing on chalkboard,Wide-lined board,Printing on chalkboard — Wide-lined board,L098,Normalized source entry,
+S0308,IMG_3853.HEIC,R173,language,Printing on chalkboard,Printing on chalkboard,Narrow-lined board,Printing on chalkboard — Narrow-lined board,L098,Normalized source entry,
+S0309,IMG_3853.HEIC,R174,language,Printing on paper,Lowercase letters,Pink-shaded / wide spacing,Lowercase letters — Pink-shaded / wide spacing,L098,Normalized source entry,Paper color and ruling descriptions come from the supplied inventory; adapt to the actual child and paper.
+S0310,IMG_3853.HEIC,R174,language,Printing on paper,Lowercase letters,Blue-shaded / narrow spacing,Lowercase letters — Blue-shaded / narrow spacing,L098,Normalized source entry,Paper color and ruling descriptions come from the supplied inventory; adapt to the actual child and paper.
+S0311,IMG_3853.HEIC,R175,language,Printing on paper,Uppercase letters,Pink-shaded / wide spacing,Uppercase letters — Pink-shaded / wide spacing,L098,Normalized source entry,Paper color and ruling descriptions come from the supplied inventory; adapt to the actual child and paper.
+S0312,IMG_3853.HEIC,R175,language,Printing on paper,Uppercase letters,Blue-shaded / narrow spacing,Uppercase letters — Blue-shaded / narrow spacing,L098,Normalized source entry,Paper color and ruling descriptions come from the supplied inventory; adapt to the actual child and paper.
+S0313,IMG_3853.HEIC,R176,language,Printing on paper,Words,Pink-shaded / wide spacing,Words — Pink-shaded / wide spacing,L098,Normalized source entry,Paper color and ruling descriptions come from the supplied inventory; adapt to the actual child and paper.
+S0314,IMG_3853.HEIC,R176,language,Printing on paper,Words,Blue-shaded / narrow spacing,Words — Blue-shaded / narrow spacing,L098,Normalized source entry,Paper color and ruling descriptions come from the supplied inventory; adapt to the actual child and paper.
+S0315,IMG_3853.HEIC,R177,language,Printing on paper,Sentences,Pink-shaded / wide spacing,Sentences — Pink-shaded / wide spacing,L098,Normalized source entry,Paper color and ruling descriptions come from the supplied inventory; adapt to the actual child and paper.
+S0316,IMG_3853.HEIC,R177,language,Printing on paper,Sentences,Blue-shaded / narrow spacing,Sentences — Blue-shaded / narrow spacing,L098,Normalized source entry,Paper color and ruling descriptions come from the supplied inventory; adapt to the actual child and paper.
+S0317,IMG_3853.HEIC,R178,language,Cursive writing on chalkboard,Cursive writing on chalkboard,Blank board,Cursive writing on chalkboard — Blank board,L098,Normalized source entry,
+S0318,IMG_3853.HEIC,R178,language,Cursive writing on chalkboard,Cursive writing on chalkboard,Grid board,Cursive writing on chalkboard — Grid board,L098,Normalized source entry,
+S0319,IMG_3853.HEIC,R178,language,Cursive writing on chalkboard,Cursive writing on chalkboard,Wide-lined board,Cursive writing on chalkboard — Wide-lined board,L098,Normalized source entry,
+S0320,IMG_3853.HEIC,R178,language,Cursive writing on chalkboard,Cursive writing on chalkboard,Narrow-lined board,Cursive writing on chalkboard — Narrow-lined board,L098,Normalized source entry,
+S0321,IMG_3853.HEIC,R179,language,Cursive writing on paper,Lowercase letters,Pink-shaded / wide spacing,Lowercase letters — Pink-shaded / wide spacing,L098,Normalized source entry,Paper color and ruling descriptions come from the supplied inventory; adapt to the actual child and paper.
+S0322,IMG_3853.HEIC,R179,language,Cursive writing on paper,Lowercase letters,Blue-shaded / narrow spacing,Lowercase letters — Blue-shaded / narrow spacing,L098,Normalized source entry,Paper color and ruling descriptions come from the supplied inventory; adapt to the actual child and paper.
+S0323,IMG_3853.HEIC,R180,language,Cursive writing on paper,Uppercase letters,Pink-shaded / wide spacing,Uppercase letters — Pink-shaded / wide spacing,L098,Normalized source entry,Paper color and ruling descriptions come from the supplied inventory; adapt to the actual child and paper.
+S0324,IMG_3853.HEIC,R180,language,Cursive writing on paper,Uppercase letters,Blue-shaded / narrow spacing,Uppercase letters — Blue-shaded / narrow spacing,L098,Normalized source entry,Paper color and ruling descriptions come from the supplied inventory; adapt to the actual child and paper.
+S0325,IMG_3853.HEIC,R181,language,Cursive writing on paper,Words,Pink-shaded / wide spacing,Words — Pink-shaded / wide spacing,L098,Normalized source entry,Paper color and ruling descriptions come from the supplied inventory; adapt to the actual child and paper.
+S0326,IMG_3853.HEIC,R181,language,Cursive writing on paper,Words,Blue-shaded / narrow spacing,Words — Blue-shaded / narrow spacing,L098,Normalized source entry,Paper color and ruling descriptions come from the supplied inventory; adapt to the actual child and paper.
+S0327,IMG_3853.HEIC,R182,language,Cursive writing on paper,Sentences,Pink-shaded / wide spacing,Sentences — Pink-shaded / wide spacing,L098,Normalized source entry,Paper color and ruling descriptions come from the supplied inventory; adapt to the actual child and paper.
+S0328,IMG_3853.HEIC,R182,language,Cursive writing on paper,Sentences,Blue-shaded / narrow spacing,Sentences — Blue-shaded / narrow spacing,L098,Normalized source entry,Paper color and ruling descriptions come from the supplied inventory; adapt to the actual child and paper.
+S0329,IMG_3853.HEIC,R183,language,Grammar: function of words,Action game: noun / verb classification,,Action game: noun / verb classification,L099,Normalized source entry,
+S0330,IMG_3853.HEIC,R184,language,Grammar: function of words,Article,,Article,L099,Normalized source entry,
+S0331,IMG_3853.HEIC,R185,language,Grammar: function of words,Verb command exercises,,Verb command exercises,L099,Normalized source entry,
+S0332,IMG_3853.HEIC,R186,language,Grammar: function of words,Logical adjective game,,Logical adjective game,L099,Normalized source entry,
+S0333,IMG_3853.HEIC,R187,language,Grammar: function of words,Detective adjective game,,Detective adjective game,L099,Normalized source entry,
+S0334,IMG_3853.HEIC,R188,language,Grammar: function of words,Conjunction,,Conjunction,L099,Normalized source entry,
+S0335,IMG_3853.HEIC,R189,language,Grammar: function of words,Preposition,,Preposition,L099,Normalized source entry,
+S0336,IMG_3853.HEIC,R190,language,Grammar: function of words,Adjective farm game,Phonetic,Adjective farm game — Phonetic,L099,Normalized source entry,
+S0337,IMG_3853.HEIC,R190,language,Grammar: function of words,Adjective farm game,Nonphonetic,Adjective farm game — Nonphonetic,L099,Normalized source entry,
+S0338,IMG_3854.HEIC,R191,language,"Grammar: function of words, continued",Adverb,,Adverb,L099,Normalized source entry,
+S0339,IMG_3854.HEIC,R192,language,"Grammar: function of words, continued",Logical adverb game,,Logical adverb game,L099,Normalized source entry,
+S0340,IMG_3854.HEIC,R193,language,"Grammar: function of words, continued",Symbolizing with Montessori symbols,,Symbolizing with Montessori symbols,L099,Normalized source entry,
+S0341,IMG_3854.HEIC,R194,language,"Grammar: function of words, continued",Simple sentences,I,Simple sentences — I,L099,Normalized source entry,
+S0342,IMG_3854.HEIC,R194,language,"Grammar: function of words, continued",Simple sentences,II,Simple sentences — II,L099,Normalized source entry,
+S0343,IMG_3854.HEIC,R195,language,Word study,Alphabetical order,,Alphabetical order,L100,Normalized source entry,
+S0344,IMG_3854.HEIC,R196,language,Word study,Synonyms,,Synonyms,L100,Normalized source entry,
+S0345,IMG_3854.HEIC,R197,language,Word study,Homonyms,,Homonyms,L100,Normalized source entry,
+S0346,IMG_3854.HEIC,R198,language,Word study,Antonyms,,Antonyms,L100,Normalized source entry,
+S0347,IMG_3854.HEIC,R199,language,Word study,Masculine / feminine word forms,,Masculine / feminine word forms,L100,Normalized source entry,
+S0348,IMG_3854.HEIC,R200,language,Word study,Prefixes / suffixes,,Prefixes / suffixes,L100,Normalized source entry,
+S0349,IMG_3854.HEIC,R201,language,Word study,Compound words,,Compound words,L100,Normalized source entry,
+S0350,IMG_3854.HEIC,R202,language,Word study,Comparatives / superlatives,,Comparatives / superlatives,L100,Normalized source entry,
+S0351,IMG_3854.HEIC,R203,language,Word study,Singular / plural rules,s,Singular / plural rules — s,L100,Normalized source entry,
+S0352,IMG_3854.HEIC,R203,language,Word study,Singular / plural rules,es,Singular / plural rules — es,L100,Normalized source entry,
+S0353,IMG_3854.HEIC,R203,language,Word study,Singular / plural rules,ies,Singular / plural rules — ies,L100,Normalized source entry,
+S0354,IMG_3854.HEIC,R203,language,Word study,Singular / plural rules,Irregular,Singular / plural rules — Irregular,L100,Normalized source entry,
+S0355,IMG_3854.HEIC,R204,language,Punctuation,Capitalization,,Capitalization,L101,Normalized source entry,
+S0356,IMG_3854.HEIC,R205,language,Punctuation,Period,,Period,L101,Normalized source entry,
+S0357,IMG_3854.HEIC,R206,language,Punctuation,Comma,,Comma,L101,Normalized source entry,
+S0358,IMG_3854.HEIC,R207,language,Punctuation,Question mark,,Question mark,L101,Normalized source entry,
+S0359,IMG_3854.HEIC,R208,language,Punctuation,Exclamation mark,,Exclamation mark,L101,Normalized source entry,
+S0360,IMG_3854.HEIC,R209,language,Writing,Using story / table alphabet,,Using story / table alphabet,L031,Normalized source entry,
+S0361,IMG_3854.HEIC,R210,language,Writing,"Story writing: beginning, middle and end",,"Story writing: beginning, middle and end",L038,Normalized source entry,
+S0362,IMG_3854.HEIC,R211,language,Writing,Copying story onto paper,,Copying story onto paper,L098,Normalized source entry,
+S0363,IMG_3854.HEIC,R212,language,Writing,Journal writing,,Journal writing,L103,Normalized source entry,
+S0364,IMG_3854.HEIC,R213,language,Writing,Written projects,,Written projects,L103,Normalized source entry,
+S0365,IMG_3855.HEIC,R214,math,Numbers to ten,Sandpaper numerals,1,Sandpaper numerals — 1,L040,Normalized source entry,"Photo lists 1–10. Many sandpaper numeral sets have 0–9; do not invent a single 10 tile. Compose 10 appropriately, and retain the existing zero lesson."
+S0366,IMG_3855.HEIC,R214,math,Numbers to ten,Sandpaper numerals,2,Sandpaper numerals — 2,L040,Normalized source entry,"Photo lists 1–10. Many sandpaper numeral sets have 0–9; do not invent a single 10 tile. Compose 10 appropriately, and retain the existing zero lesson."
+S0367,IMG_3855.HEIC,R214,math,Numbers to ten,Sandpaper numerals,3,Sandpaper numerals — 3,L040,Normalized source entry,"Photo lists 1–10. Many sandpaper numeral sets have 0–9; do not invent a single 10 tile. Compose 10 appropriately, and retain the existing zero lesson."
+S0368,IMG_3855.HEIC,R214,math,Numbers to ten,Sandpaper numerals,4,Sandpaper numerals — 4,L040,Normalized source entry,"Photo lists 1–10. Many sandpaper numeral sets have 0–9; do not invent a single 10 tile. Compose 10 appropriately, and retain the existing zero lesson."
+S0369,IMG_3855.HEIC,R214,math,Numbers to ten,Sandpaper numerals,5,Sandpaper numerals — 5,L040,Normalized source entry,"Photo lists 1–10. Many sandpaper numeral sets have 0–9; do not invent a single 10 tile. Compose 10 appropriately, and retain the existing zero lesson."
+S0370,IMG_3855.HEIC,R214,math,Numbers to ten,Sandpaper numerals,6,Sandpaper numerals — 6,L040,Normalized source entry,"Photo lists 1–10. Many sandpaper numeral sets have 0–9; do not invent a single 10 tile. Compose 10 appropriately, and retain the existing zero lesson."
+S0371,IMG_3855.HEIC,R214,math,Numbers to ten,Sandpaper numerals,7,Sandpaper numerals — 7,L040,Normalized source entry,"Photo lists 1–10. Many sandpaper numeral sets have 0–9; do not invent a single 10 tile. Compose 10 appropriately, and retain the existing zero lesson."
+S0372,IMG_3855.HEIC,R214,math,Numbers to ten,Sandpaper numerals,8,Sandpaper numerals — 8,L040,Normalized source entry,"Photo lists 1–10. Many sandpaper numeral sets have 0–9; do not invent a single 10 tile. Compose 10 appropriately, and retain the existing zero lesson."
+S0373,IMG_3855.HEIC,R214,math,Numbers to ten,Sandpaper numerals,9,Sandpaper numerals — 9,L040,Normalized source entry,"Photo lists 1–10. Many sandpaper numeral sets have 0–9; do not invent a single 10 tile. Compose 10 appropriately, and retain the existing zero lesson."
+S0374,IMG_3855.HEIC,R214,math,Numbers to ten,Sandpaper numerals,10,Sandpaper numerals — 10,L040,Normalized source entry,"Photo lists 1–10. Many sandpaper numeral sets have 0–9; do not invent a single 10 tile. Compose 10 appropriately, and retain the existing zero lesson."
+S0375,IMG_3855.HEIC,R215,math,Numbers to ten,Number rods,,Number rods,L039,Normalized source entry,
+S0376,IMG_3855.HEIC,R216,math,Numbers to ten,Number rods with cards,,Number rods with cards,L041,Normalized source entry,
+S0377,IMG_3855.HEIC,R217,math,Numbers to ten,Spindle boxes,,Spindle boxes,L042,Normalized source entry,
+S0378,IMG_3855.HEIC,R218,math,Numbers to ten,Memory game of numbers,,Memory game of numbers,L104,Normalized source entry,
+S0379,IMG_3855.HEIC,R219,math,Numbers to ten,Cards and counters,,Cards and counters,L043,Normalized source entry,
+S0380,IMG_3855.HEIC,R220,math,Decimal system: 1–9000,Presentation with golden beads,,Presentation with golden beads,L044,Normalized source entry,
+S0381,IMG_3855.HEIC,R221,math,Decimal system: 1–9000,Golden bead quantity categories,1–9 units,Golden bead quantity categories — 1–9 units,L044,Normalized source entry,
+S0382,IMG_3855.HEIC,R221,math,Decimal system: 1–9000,Golden bead quantity categories,10–90 tens,Golden bead quantity categories — 10–90 tens,L044,Normalized source entry,
+S0383,IMG_3855.HEIC,R221,math,Decimal system: 1–9000,Golden bead quantity categories,100–900 hundreds,Golden bead quantity categories — 100–900 hundreds,L044,Normalized source entry,
+S0384,IMG_3855.HEIC,R221,math,Decimal system: 1–9000,Golden bead quantity categories,1000 cube,Golden bead quantity categories — 1000 cube,L044,Normalized source entry,
+S0385,IMG_3855.HEIC,R222,math,Decimal system: 1–9000,Formation of numbers with beads only,,Formation of numbers with beads only,L045,Normalized source entry,
+S0386,IMG_3855.HEIC,R223,math,Decimal system: 1–9000,Presentation with cards,,Presentation with cards,L045,Normalized source entry,
+S0387,IMG_3855.HEIC,R224,math,Decimal system: 1–9000,Layout of cards 1–9000,,Layout of cards 1–9000,L045,Normalized source entry,
+S0388,IMG_3855.HEIC,R225,math,Decimal system: 1–9000,Formation of numbers with cards only,,Formation of numbers with cards only,L045,Normalized source entry,
+S0389,IMG_3855.HEIC,R226,math,Decimal system: 1–9000,Association of beads and cards,,Association of beads and cards,L045,Normalized source entry,
+S0390,IMG_3855.HEIC,R227,math,Decimal system: 1–9000,Formation of complex numbers,,Formation of complex numbers,L045,Normalized source entry,
+S0391,IMG_3855.HEIC,R228,math,Decimal system: 1–9000,Changing / bank game,1,Changing / bank game — 1,L047,Normalized source entry,
+S0392,IMG_3855.HEIC,R228,math,Decimal system: 1–9000,Changing / bank game,10,Changing / bank game — 10,L047,Normalized source entry,
+S0393,IMG_3855.HEIC,R228,math,Decimal system: 1–9000,Changing / bank game,100,Changing / bank game — 100,L047,Normalized source entry,
+S0394,IMG_3855.HEIC,R228,math,Decimal system: 1–9000,Changing / bank game,1000,Changing / bank game — 1000,L047,Normalized source entry,
+S0395,IMG_3855.HEIC,R229,math,Teens: 11–19,Colored beads,1,Colored beads — 1,L051,Normalized source entry,
+S0396,IMG_3855.HEIC,R229,math,Teens: 11–19,Colored beads,2,Colored beads — 2,L051,Normalized source entry,
+S0397,IMG_3855.HEIC,R229,math,Teens: 11–19,Colored beads,3,Colored beads — 3,L051,Normalized source entry,
+S0398,IMG_3855.HEIC,R229,math,Teens: 11–19,Colored beads,4,Colored beads — 4,L051,Normalized source entry,
+S0399,IMG_3855.HEIC,R229,math,Teens: 11–19,Colored beads,5,Colored beads — 5,L051,Normalized source entry,
+S0400,IMG_3855.HEIC,R229,math,Teens: 11–19,Colored beads,6,Colored beads — 6,L051,Normalized source entry,
+S0401,IMG_3855.HEIC,R229,math,Teens: 11–19,Colored beads,7,Colored beads — 7,L051,Normalized source entry,
+S0402,IMG_3855.HEIC,R229,math,Teens: 11–19,Colored beads,8,Colored beads — 8,L051,Normalized source entry,
+S0403,IMG_3855.HEIC,R229,math,Teens: 11–19,Colored beads,9,Colored beads — 9,L051,Normalized source entry,
+S0404,IMG_3855.HEIC,R230,math,Teens: 11–19,Colored bead stair: formation of teens,11,Colored bead stair: formation of teens — 11,L051,Normalized source entry,
+S0405,IMG_3855.HEIC,R230,math,Teens: 11–19,Colored bead stair: formation of teens,12,Colored bead stair: formation of teens — 12,L051,Normalized source entry,
+S0406,IMG_3855.HEIC,R230,math,Teens: 11–19,Colored bead stair: formation of teens,13,Colored bead stair: formation of teens — 13,L051,Normalized source entry,
+S0407,IMG_3855.HEIC,R230,math,Teens: 11–19,Colored bead stair: formation of teens,14,Colored bead stair: formation of teens — 14,L051,Normalized source entry,
+S0408,IMG_3855.HEIC,R230,math,Teens: 11–19,Colored bead stair: formation of teens,15,Colored bead stair: formation of teens — 15,L051,Normalized source entry,
+S0409,IMG_3855.HEIC,R230,math,Teens: 11–19,Colored bead stair: formation of teens,16,Colored bead stair: formation of teens — 16,L051,Normalized source entry,
+S0410,IMG_3855.HEIC,R230,math,Teens: 11–19,Colored bead stair: formation of teens,17,Colored bead stair: formation of teens — 17,L051,Normalized source entry,
+S0411,IMG_3855.HEIC,R230,math,Teens: 11–19,Colored bead stair: formation of teens,18,Colored bead stair: formation of teens — 18,L051,Normalized source entry,
+S0412,IMG_3855.HEIC,R230,math,Teens: 11–19,Colored bead stair: formation of teens,19,Colored bead stair: formation of teens — 19,L051,Normalized source entry,
+S0413,IMG_3855.HEIC,R231,math,Teens: 11–19,Teen boards,11,Teen boards — 11,L051,Normalized source entry,
+S0414,IMG_3855.HEIC,R231,math,Teens: 11–19,Teen boards,12,Teen boards — 12,L051,Normalized source entry,
+S0415,IMG_3855.HEIC,R231,math,Teens: 11–19,Teen boards,13,Teen boards — 13,L051,Normalized source entry,
+S0416,IMG_3855.HEIC,R231,math,Teens: 11–19,Teen boards,14,Teen boards — 14,L051,Normalized source entry,
+S0417,IMG_3855.HEIC,R231,math,Teens: 11–19,Teen boards,15,Teen boards — 15,L051,Normalized source entry,
+S0418,IMG_3855.HEIC,R231,math,Teens: 11–19,Teen boards,16,Teen boards — 16,L051,Normalized source entry,
+S0419,IMG_3855.HEIC,R231,math,Teens: 11–19,Teen boards,17,Teen boards — 17,L051,Normalized source entry,
+S0420,IMG_3855.HEIC,R231,math,Teens: 11–19,Teen boards,18,Teen boards — 18,L051,Normalized source entry,
+S0421,IMG_3855.HEIC,R231,math,Teens: 11–19,Teen boards,19,Teen boards — 19,L051,Normalized source entry,
+S0422,IMG_3855.HEIC,R232,math,Teens: 11–19,Teen boards and beads,11,Teen boards and beads — 11,L051,Normalized source entry,
+S0423,IMG_3855.HEIC,R232,math,Teens: 11–19,Teen boards and beads,12,Teen boards and beads — 12,L051,Normalized source entry,
+S0424,IMG_3855.HEIC,R232,math,Teens: 11–19,Teen boards and beads,13,Teen boards and beads — 13,L051,Normalized source entry,
+S0425,IMG_3855.HEIC,R232,math,Teens: 11–19,Teen boards and beads,14,Teen boards and beads — 14,L051,Normalized source entry,
+S0426,IMG_3855.HEIC,R232,math,Teens: 11–19,Teen boards and beads,15,Teen boards and beads — 15,L051,Normalized source entry,
+S0427,IMG_3855.HEIC,R232,math,Teens: 11–19,Teen boards and beads,16,Teen boards and beads — 16,L051,Normalized source entry,
+S0428,IMG_3855.HEIC,R232,math,Teens: 11–19,Teen boards and beads,17,Teen boards and beads — 17,L051,Normalized source entry,
+S0429,IMG_3855.HEIC,R232,math,Teens: 11–19,Teen boards and beads,18,Teen boards and beads — 18,L051,Normalized source entry,
+S0430,IMG_3855.HEIC,R232,math,Teens: 11–19,Teen boards and beads,19,Teen boards and beads — 19,L051,Normalized source entry,
+S0431,IMG_3855.HEIC,R233,math,Tens: 10–90,Formation of tens with beads,10,Formation of tens with beads — 10,L052,Normalized source entry,
+S0432,IMG_3855.HEIC,R233,math,Tens: 10–90,Formation of tens with beads,20,Formation of tens with beads — 20,L052,Normalized source entry,
+S0433,IMG_3855.HEIC,R233,math,Tens: 10–90,Formation of tens with beads,30,Formation of tens with beads — 30,L052,Normalized source entry,
+S0434,IMG_3855.HEIC,R233,math,Tens: 10–90,Formation of tens with beads,40,Formation of tens with beads — 40,L052,Normalized source entry,
+S0435,IMG_3855.HEIC,R233,math,Tens: 10–90,Formation of tens with beads,50,Formation of tens with beads — 50,L052,Normalized source entry,
+S0436,IMG_3855.HEIC,R233,math,Tens: 10–90,Formation of tens with beads,60,Formation of tens with beads — 60,L052,Normalized source entry,
+S0437,IMG_3855.HEIC,R233,math,Tens: 10–90,Formation of tens with beads,70,Formation of tens with beads — 70,L052,Normalized source entry,
+S0438,IMG_3855.HEIC,R233,math,Tens: 10–90,Formation of tens with beads,80,Formation of tens with beads — 80,L052,Normalized source entry,
+S0439,IMG_3855.HEIC,R233,math,Tens: 10–90,Formation of tens with beads,90,Formation of tens with beads — 90,L052,Normalized source entry,
+S0440,IMG_3855.HEIC,R234,math,Tens: 10–90,Ten boards,10,Ten boards — 10,L052,Normalized source entry,
+S0441,IMG_3855.HEIC,R234,math,Tens: 10–90,Ten boards,20,Ten boards — 20,L052,Normalized source entry,
+S0442,IMG_3855.HEIC,R234,math,Tens: 10–90,Ten boards,30,Ten boards — 30,L052,Normalized source entry,
+S0443,IMG_3855.HEIC,R234,math,Tens: 10–90,Ten boards,40,Ten boards — 40,L052,Normalized source entry,
+S0444,IMG_3855.HEIC,R234,math,Tens: 10–90,Ten boards,50,Ten boards — 50,L052,Normalized source entry,
+S0445,IMG_3855.HEIC,R234,math,Tens: 10–90,Ten boards,60,Ten boards — 60,L052,Normalized source entry,
+S0446,IMG_3855.HEIC,R234,math,Tens: 10–90,Ten boards,70,Ten boards — 70,L052,Normalized source entry,
+S0447,IMG_3855.HEIC,R234,math,Tens: 10–90,Ten boards,80,Ten boards — 80,L052,Normalized source entry,
+S0448,IMG_3855.HEIC,R234,math,Tens: 10–90,Ten boards,90,Ten boards — 90,L052,Normalized source entry,
+S0449,IMG_3855.HEIC,R235,math,Tens: 10–90,Ten boards and beads: tens,10,Ten boards and beads: tens — 10,L052,Normalized source entry,
+S0450,IMG_3855.HEIC,R235,math,Tens: 10–90,Ten boards and beads: tens,20,Ten boards and beads: tens — 20,L052,Normalized source entry,
+S0451,IMG_3855.HEIC,R235,math,Tens: 10–90,Ten boards and beads: tens,30,Ten boards and beads: tens — 30,L052,Normalized source entry,
+S0452,IMG_3855.HEIC,R235,math,Tens: 10–90,Ten boards and beads: tens,40,Ten boards and beads: tens — 40,L052,Normalized source entry,
+S0453,IMG_3855.HEIC,R235,math,Tens: 10–90,Ten boards and beads: tens,50,Ten boards and beads: tens — 50,L052,Normalized source entry,
+S0454,IMG_3855.HEIC,R235,math,Tens: 10–90,Ten boards and beads: tens,60,Ten boards and beads: tens — 60,L052,Normalized source entry,
+S0455,IMG_3855.HEIC,R235,math,Tens: 10–90,Ten boards and beads: tens,70,Ten boards and beads: tens — 70,L052,Normalized source entry,
+S0456,IMG_3855.HEIC,R235,math,Tens: 10–90,Ten boards and beads: tens,80,Ten boards and beads: tens — 80,L052,Normalized source entry,
+S0457,IMG_3855.HEIC,R235,math,Tens: 10–90,Ten boards and beads: tens,90,Ten boards and beads: tens — 90,L052,Normalized source entry,
+S0458,IMG_3855.HEIC,R236,math,Tens: 10–90,Ten boards and beads: 11–99,11–19,Ten boards and beads: 11–99 — 11–19,L052,Normalized source entry,
+S0459,IMG_3855.HEIC,R236,math,Tens: 10–90,Ten boards and beads: 11–99,20–29,Ten boards and beads: 11–99 — 20–29,L052,Normalized source entry,
+S0460,IMG_3855.HEIC,R236,math,Tens: 10–90,Ten boards and beads: 11–99,30–39,Ten boards and beads: 11–99 — 30–39,L052,Normalized source entry,
+S0461,IMG_3855.HEIC,R236,math,Tens: 10–90,Ten boards and beads: 11–99,40–49,Ten boards and beads: 11–99 — 40–49,L052,Normalized source entry,
+S0462,IMG_3855.HEIC,R236,math,Tens: 10–90,Ten boards and beads: 11–99,50–59,Ten boards and beads: 11–99 — 50–59,L052,Normalized source entry,
+S0463,IMG_3855.HEIC,R236,math,Tens: 10–90,Ten boards and beads: 11–99,60–69,Ten boards and beads: 11–99 — 60–69,L052,Normalized source entry,
+S0464,IMG_3855.HEIC,R236,math,Tens: 10–90,Ten boards and beads: 11–99,70–79,Ten boards and beads: 11–99 — 70–79,L052,Normalized source entry,
+S0465,IMG_3855.HEIC,R236,math,Tens: 10–90,Ten boards and beads: 11–99,80–89,Ten boards and beads: 11–99 — 80–89,L052,Normalized source entry,
+S0466,IMG_3855.HEIC,R236,math,Tens: 10–90,Ten boards and beads: 11–99,90–99,Ten boards and beads: 11–99 — 90–99,L052,Normalized source entry,
+S0467,IMG_3855.HEIC,R237,math,Number sequence,100 tile board,,100 tile board,L113,Normalized source entry,
+S0468,IMG_3855.HEIC,R238,math,Number sequence,Writing 1–100 on grid paper,,Writing 1–100 on grid paper,L113,Normalized source entry,
+S0469,IMG_3855.HEIC,R239,math,Addition,Golden bead addition,Static,Golden bead addition — Static,L046,Normalized source entry,
+S0470,IMG_3855.HEIC,R240,math,Addition,Golden bead addition,Dynamic,Golden bead addition — Dynamic,L047,Normalized source entry,
+S0471,IMG_3855.HEIC,R241,math,Addition,Stamp game addition,Static,Stamp game addition — Static,L105,Normalized source entry,
+S0472,IMG_3855.HEIC,R241,math,Addition,Stamp game addition,Dynamic,Stamp game addition — Dynamic,L105,Normalized source entry,
+S0473,IMG_3855.HEIC,R242,math,Addition,Dot game: addition,,Dot game: addition,L106,Normalized source entry,
+S0474,IMG_3855.HEIC,R243,math,Addition,Addition snake game,,Addition snake game,L107,Normalized source entry,
+S0475,IMG_3855.HEIC,R244,math,Addition,Addition strip board,,Addition strip board,L108,Normalized source entry,
+S0476,IMG_3855.HEIC,R245,math,Addition,Addition charts,3,Addition charts — 3,L109,Normalized source entry,
+S0477,IMG_3855.HEIC,R245,math,Addition,Addition charts,4,Addition charts — 4,L109,Normalized source entry,
+S0478,IMG_3855.HEIC,R245,math,Addition,Addition charts,5,Addition charts — 5,L109,Normalized source entry,
+S0479,IMG_3855.HEIC,R245,math,Addition,Addition charts,6,Addition charts — 6,L109,Normalized source entry,
+S0480,IMG_3855.HEIC,R246,math,Addition,Colored bead stair addition: simple 1–9,,Colored bead stair addition: simple 1–9,L109,Normalized source entry,
+S0481,IMG_3855.HEIC,R247,math,Addition,Small bead frame addition,Static,Small bead frame addition — Static,L110,Normalized source entry,
+S0482,IMG_3855.HEIC,R247,math,Addition,Small bead frame addition,Dynamic,Small bead frame addition — Dynamic,L110,Normalized source entry,
+S0483,IMG_3855.HEIC,R248,math,Addition,Addition tables,1,Addition tables — 1,L109,Normalized source entry,
+S0484,IMG_3855.HEIC,R248,math,Addition,Addition tables,2,Addition tables — 2,L109,Normalized source entry,
+S0485,IMG_3855.HEIC,R248,math,Addition,Addition tables,3,Addition tables — 3,L109,Normalized source entry,
+S0486,IMG_3855.HEIC,R248,math,Addition,Addition tables,4,Addition tables — 4,L109,Normalized source entry,
+S0487,IMG_3855.HEIC,R248,math,Addition,Addition tables,5,Addition tables — 5,L109,Normalized source entry,
+S0488,IMG_3855.HEIC,R248,math,Addition,Addition tables,6,Addition tables — 6,L109,Normalized source entry,
+S0489,IMG_3855.HEIC,R248,math,Addition,Addition tables,7,Addition tables — 7,L109,Normalized source entry,
+S0490,IMG_3855.HEIC,R248,math,Addition,Addition tables,8,Addition tables — 8,L109,Normalized source entry,
+S0491,IMG_3855.HEIC,R248,math,Addition,Addition tables,9,Addition tables — 9,L109,Normalized source entry,
+S0492,IMG_3856.HEIC,R249,math,Multiplication,Golden bead multiplication,Static,Golden bead multiplication — Static,L049,Normalized source entry,
+S0493,IMG_3856.HEIC,R249,math,Multiplication,Golden bead multiplication,Dynamic,Golden bead multiplication — Dynamic,L049,Normalized source entry,
+S0494,IMG_3856.HEIC,R250,math,Multiplication,Stamp game multiplication,Static,Stamp game multiplication — Static,L105,Normalized source entry,
+S0495,IMG_3856.HEIC,R250,math,Multiplication,Stamp game multiplication,Dynamic,Stamp game multiplication — Dynamic,L105,Normalized source entry,
+S0496,IMG_3856.HEIC,R251,math,Multiplication,Multiplication bead bars,1,Multiplication bead bars — 1,L109,Normalized source entry,
+S0497,IMG_3856.HEIC,R251,math,Multiplication,Multiplication bead bars,2,Multiplication bead bars — 2,L109,Normalized source entry,
+S0498,IMG_3856.HEIC,R251,math,Multiplication,Multiplication bead bars,3,Multiplication bead bars — 3,L109,Normalized source entry,
+S0499,IMG_3856.HEIC,R251,math,Multiplication,Multiplication bead bars,4,Multiplication bead bars — 4,L109,Normalized source entry,
+S0500,IMG_3856.HEIC,R251,math,Multiplication,Multiplication bead bars,5,Multiplication bead bars — 5,L109,Normalized source entry,
+S0501,IMG_3856.HEIC,R251,math,Multiplication,Multiplication bead bars,6,Multiplication bead bars — 6,L109,Normalized source entry,
+S0502,IMG_3856.HEIC,R251,math,Multiplication,Multiplication bead bars,7,Multiplication bead bars — 7,L109,Normalized source entry,
+S0503,IMG_3856.HEIC,R251,math,Multiplication,Multiplication bead bars,8,Multiplication bead bars — 8,L109,Normalized source entry,
+S0504,IMG_3856.HEIC,R251,math,Multiplication,Multiplication bead bars,9,Multiplication bead bars — 9,L109,Normalized source entry,
+S0505,IMG_3856.HEIC,R252,math,Multiplication,Multiplication bead board,1,Multiplication bead board — 1,L111,Normalized source entry,
+S0506,IMG_3856.HEIC,R252,math,Multiplication,Multiplication bead board,2,Multiplication bead board — 2,L111,Normalized source entry,
+S0507,IMG_3856.HEIC,R252,math,Multiplication,Multiplication bead board,3,Multiplication bead board — 3,L111,Normalized source entry,
+S0508,IMG_3856.HEIC,R252,math,Multiplication,Multiplication bead board,4,Multiplication bead board — 4,L111,Normalized source entry,
+S0509,IMG_3856.HEIC,R252,math,Multiplication,Multiplication bead board,5,Multiplication bead board — 5,L111,Normalized source entry,
+S0510,IMG_3856.HEIC,R252,math,Multiplication,Multiplication bead board,6,Multiplication bead board — 6,L111,Normalized source entry,
+S0511,IMG_3856.HEIC,R252,math,Multiplication,Multiplication bead board,7,Multiplication bead board — 7,L111,Normalized source entry,
+S0512,IMG_3856.HEIC,R252,math,Multiplication,Multiplication bead board,8,Multiplication bead board — 8,L111,Normalized source entry,
+S0513,IMG_3856.HEIC,R252,math,Multiplication,Multiplication bead board,9,Multiplication bead board — 9,L111,Normalized source entry,
+S0514,IMG_3856.HEIC,R253,math,Multiplication,Multiplication charts,1,Multiplication charts — 1,L109,Normalized source entry,
+S0515,IMG_3856.HEIC,R253,math,Multiplication,Multiplication charts,2,Multiplication charts — 2,L109,Normalized source entry,
+S0516,IMG_3856.HEIC,R253,math,Multiplication,Multiplication charts,3,Multiplication charts — 3,L109,Normalized source entry,
+S0517,IMG_3856.HEIC,R254,math,Multiplication,Multiplication tables,1,Multiplication tables — 1,L109,Normalized source entry,
+S0518,IMG_3856.HEIC,R254,math,Multiplication,Multiplication tables,2,Multiplication tables — 2,L109,Normalized source entry,
+S0519,IMG_3856.HEIC,R254,math,Multiplication,Multiplication tables,3,Multiplication tables — 3,L109,Normalized source entry,
+S0520,IMG_3856.HEIC,R254,math,Multiplication,Multiplication tables,4,Multiplication tables — 4,L109,Normalized source entry,
+S0521,IMG_3856.HEIC,R254,math,Multiplication,Multiplication tables,5,Multiplication tables — 5,L109,Normalized source entry,
+S0522,IMG_3856.HEIC,R254,math,Multiplication,Multiplication tables,6,Multiplication tables — 6,L109,Normalized source entry,
+S0523,IMG_3856.HEIC,R254,math,Multiplication,Multiplication tables,7,Multiplication tables — 7,L109,Normalized source entry,
+S0524,IMG_3856.HEIC,R254,math,Multiplication,Multiplication tables,8,Multiplication tables — 8,L109,Normalized source entry,
+S0525,IMG_3856.HEIC,R254,math,Multiplication,Multiplication tables,9,Multiplication tables — 9,L109,Normalized source entry,
+S0526,IMG_3856.HEIC,R255,math,Subtraction,Golden bead subtraction,Static,Golden bead subtraction — Static,L048,Normalized source entry,
+S0527,IMG_3856.HEIC,R255,math,Subtraction,Golden bead subtraction,Dynamic,Golden bead subtraction — Dynamic,L048,Normalized source entry,
+S0528,IMG_3856.HEIC,R256,math,Subtraction,Stamp game subtraction,Static,Stamp game subtraction — Static,L105,Normalized source entry,
+S0529,IMG_3856.HEIC,R256,math,Subtraction,Stamp game subtraction,Dynamic,Stamp game subtraction — Dynamic,L105,Normalized source entry,
+S0530,IMG_3856.HEIC,R257,math,Subtraction,Dot game: subtraction,,Dot game: subtraction,L106,Normalized source entry,Listed in source; exact procedure is not supplied and must be reviewed with the lead guide.
+S0531,IMG_3856.HEIC,R258,math,Subtraction,Small bead frame subtraction,Static,Small bead frame subtraction — Static,L110,Normalized source entry,
+S0532,IMG_3856.HEIC,R258,math,Subtraction,Small bead frame subtraction,Dynamic,Small bead frame subtraction — Dynamic,L110,Normalized source entry,
+S0533,IMG_3856.HEIC,R259,math,Subtraction,Colored bead stair subtraction: simple 1–9,,Colored bead stair subtraction: simple 1–9,L109,Normalized source entry,
+S0534,IMG_3856.HEIC,R260,math,Subtraction,Negative snake game,,Negative snake game,L107,Normalized source entry,Source wording retained; use the program’s reviewed subtraction-snake procedure. Do not infer a requirement to teach negative numbers.
+S0535,IMG_3856.HEIC,R261,math,Subtraction,Negative strip board,,Negative strip board,L108,Normalized source entry,Source wording retained for the subtraction strip board.
+S0536,IMG_3856.HEIC,R262,math,Subtraction,Subtraction charts,2,Subtraction charts — 2,L109,Normalized source entry,
+S0537,IMG_3856.HEIC,R262,math,Subtraction,Subtraction charts,3,Subtraction charts — 3,L109,Normalized source entry,
+S0538,IMG_3856.HEIC,R263,math,Division,Golden bead division,Static,Golden bead division — Static,L050,Normalized source entry,
+S0539,IMG_3856.HEIC,R263,math,Division,Golden bead division,Dynamic,Golden bead division — Dynamic,L050,Normalized source entry,
+S0540,IMG_3856.HEIC,R264,math,Division,Golden bead long division,Static,Golden bead long division — Static,L050,Normalized source entry,Advanced optional extension; a trained guide must review the actual long-division method before use.
+S0541,IMG_3856.HEIC,R264,math,Division,Golden bead long division,Dynamic,Golden bead long division — Dynamic,L050,Normalized source entry,Advanced optional extension; a trained guide must review the actual long-division method before use.
+S0542,IMG_3856.HEIC,R265,math,Division,Stamp game division,Static,Stamp game division — Static,L105,Normalized source entry,
+S0543,IMG_3856.HEIC,R265,math,Division,Stamp game division,Dynamic,Stamp game division — Dynamic,L105,Normalized source entry,
+S0544,IMG_3856.HEIC,R266,math,Division,Stamp game long division,Static,Stamp game long division — Static,L105,Normalized source entry,Advanced optional extension; not a required target for every child aged 3–6.
+S0545,IMG_3856.HEIC,R266,math,Division,Stamp game long division,Dynamic,Stamp game long division — Dynamic,L105,Normalized source entry,Advanced optional extension; not a required target for every child aged 3–6.
+S0546,IMG_3856.HEIC,R267,math,Division,Unit division board,,Unit division board,L112,Normalized source entry,
+S0547,IMG_3856.HEIC,R268,math,Division,Division charts,1,Division charts — 1,L109,Normalized source entry,
+S0548,IMG_3856.HEIC,R268,math,Division,Division charts,2,Division charts — 2,L109,Normalized source entry,
+S0549,IMG_3856.HEIC,R269,math,Skip counting with squared chains,2 up to 4,,2 up to 4,L053,Normalized source entry,
+S0550,IMG_3856.HEIC,R270,math,Skip counting with squared chains,3 up to 9,,3 up to 9,L053,Normalized source entry,
+S0551,IMG_3856.HEIC,R271,math,Skip counting with squared chains,4 up to 16,,4 up to 16,L053,Normalized source entry,
+S0552,IMG_3856.HEIC,R272,math,Skip counting with squared chains,5 up to 25,,5 up to 25,L053,Normalized source entry,
+S0553,IMG_3856.HEIC,R273,math,Skip counting with squared chains,6 up to 36,,6 up to 36,L053,Normalized source entry,
+S0554,IMG_3856.HEIC,R274,math,Skip counting with squared chains,7 up to 49,,7 up to 49,L053,Normalized source entry,
+S0555,IMG_3856.HEIC,R275,math,Skip counting with squared chains,8 up to 64,,8 up to 64,L053,Normalized source entry,
+S0556,IMG_3856.HEIC,R276,math,Skip counting with squared chains,9 up to 81,,9 up to 81,L053,Normalized source entry,
+S0557,IMG_3856.HEIC,R277,math,Skip counting with squared chains,10 up to 100,,10 up to 100,L053,Normalized source entry,
+S0558,IMG_3856.HEIC,R278,math,Skip counting with cubed chains,2 up to 8,,2 up to 8,L053,Normalized source entry,
+S0559,IMG_3856.HEIC,R279,math,Skip counting with cubed chains,3 up to 27,,3 up to 27,L053,Normalized source entry,
+S0560,IMG_3856.HEIC,R280,math,Skip counting with cubed chains,4 up to 64,,4 up to 64,L053,Normalized source entry,
+S0561,IMG_3856.HEIC,R281,math,Skip counting with cubed chains,5 up to 125,,5 up to 125,L053,Normalized source entry,
+S0562,IMG_3856.HEIC,R282,math,Skip counting with cubed chains,6 up to 216,,6 up to 216,L053,Normalized source entry,
+S0563,IMG_3856.HEIC,R283,math,Skip counting with cubed chains,7 up to 343,,7 up to 343,L053,Normalized source entry,
+S0564,IMG_3856.HEIC,R284,math,Skip counting with cubed chains,8 up to 512,,8 up to 512,L053,Normalized source entry,
+S0565,IMG_3856.HEIC,R285,math,Skip counting with cubed chains,9 up to 729,,9 up to 729,L053,Normalized source entry,
+S0566,IMG_3856.HEIC,R286,math,Skip counting with cubed chains,10 up to 1000,,10 up to 1000,L053,Normalized source entry,
+S0567,IMG_3856.HEIC,R287,math,Skip counting abstractly,Counting by two,To 50,Counting by two — To 50,L109,Normalized source entry,
+S0568,IMG_3856.HEIC,R287,math,Skip counting abstractly,Counting by two,To 100,Counting by two — To 100,L109,Normalized source entry,
+S0569,IMG_3856.HEIC,R288,math,Skip counting abstractly,Counting by five,To 50,Counting by five — To 50,L109,Normalized source entry,
+S0570,IMG_3856.HEIC,R288,math,Skip counting abstractly,Counting by five,To 100,Counting by five — To 100,L109,Normalized source entry,
+S0571,IMG_3856.HEIC,R289,math,Skip counting abstractly,Counting by ten,To 100,Counting by ten — To 100,L109,Normalized source entry,
+S0572,IMG_3856.HEIC,R290,math,Fractions,Fractions,Introduction,Fractions — Introduction,L054,Normalized source entry,
+S0573,IMG_3856.HEIC,R290,math,Fractions,Fractions,Label,Fractions — Label,L054,Normalized source entry,
+S0574,IMG_3856.HEIC,R290,math,Fractions,Fractions,Equivalence,Fractions — Equivalence,L054,Normalized source entry,
+S0575,IMG_3857.HEIC,R291,culture,Geography,Sandpaper globe,,Sandpaper globe,L055,Normalized source entry,
+S0576,IMG_3857.HEIC,R292,culture,Geography,Painted globe,,Painted globe,L056,Normalized source entry,
+S0577,IMG_3857.HEIC,R293,culture,Geography,Puzzle maps: carrying and care,,Puzzle maps: carrying and care,L115,Normalized source entry,
+S0578,IMG_3857.HEIC,R294,culture,Geography,World map,Build,World map — Build,L115,Normalized source entry,
+S0579,IMG_3857.HEIC,R294,culture,Geography,World map,Language,World map — Language,L115,Normalized source entry,
+S0580,IMG_3857.HEIC,R294,culture,Geography,World map,Color,World map — Color,L115,Normalized source entry,
+S0581,IMG_3857.HEIC,R294,culture,Geography,World map,Label,World map — Label,L115,Normalized source entry,
+S0582,IMG_3857.HEIC,R295,culture,Geography,North America map,Build,North America map — Build,L115,Normalized source entry,
+S0583,IMG_3857.HEIC,R295,culture,Geography,North America map,Language,North America map — Language,L115,Normalized source entry,
+S0584,IMG_3857.HEIC,R295,culture,Geography,North America map,Color,North America map — Color,L115,Normalized source entry,
+S0585,IMG_3857.HEIC,R295,culture,Geography,North America map,Label,North America map — Label,L115,Normalized source entry,
+S0586,IMG_3857.HEIC,R296,culture,Geography,United States map,Build,United States map — Build,L115,Normalized source entry,
+S0587,IMG_3857.HEIC,R296,culture,Geography,United States map,Language,United States map — Language,L115,Normalized source entry,
+S0588,IMG_3857.HEIC,R296,culture,Geography,United States map,Color,United States map — Color,L115,Normalized source entry,
+S0589,IMG_3857.HEIC,R296,culture,Geography,United States map,Label,United States map — Label,L115,Normalized source entry,
+S0590,IMG_3857.HEIC,R297,culture,Geography,Canada map,Build,Canada map — Build,L115,Normalized source entry,
+S0591,IMG_3857.HEIC,R297,culture,Geography,Canada map,Language,Canada map — Language,L115,Normalized source entry,
+S0592,IMG_3857.HEIC,R297,culture,Geography,Canada map,Color,Canada map — Color,L115,Normalized source entry,
+S0593,IMG_3857.HEIC,R297,culture,Geography,Canada map,Label,Canada map — Label,L115,Normalized source entry,
+S0594,IMG_3857.HEIC,R298,culture,Geography,South America map,Build,South America map — Build,L115,Normalized source entry,
+S0595,IMG_3857.HEIC,R298,culture,Geography,South America map,Language,South America map — Language,L115,Normalized source entry,
+S0596,IMG_3857.HEIC,R298,culture,Geography,South America map,Color,South America map — Color,L115,Normalized source entry,
+S0597,IMG_3857.HEIC,R298,culture,Geography,South America map,Label,South America map — Label,L115,Normalized source entry,
+S0598,IMG_3857.HEIC,R299,culture,Geography,Europe map,Build,Europe map — Build,L115,Normalized source entry,
+S0599,IMG_3857.HEIC,R299,culture,Geography,Europe map,Language,Europe map — Language,L115,Normalized source entry,
+S0600,IMG_3857.HEIC,R299,culture,Geography,Europe map,Color,Europe map — Color,L115,Normalized source entry,
+S0601,IMG_3857.HEIC,R299,culture,Geography,Europe map,Label,Europe map — Label,L115,Normalized source entry,
+S0602,IMG_3857.HEIC,R300,culture,Geography,Asia map,Build,Asia map — Build,L115,Normalized source entry,
+S0603,IMG_3857.HEIC,R300,culture,Geography,Asia map,Language,Asia map — Language,L115,Normalized source entry,
+S0604,IMG_3857.HEIC,R300,culture,Geography,Asia map,Color,Asia map — Color,L115,Normalized source entry,
+S0605,IMG_3857.HEIC,R300,culture,Geography,Asia map,Label,Asia map — Label,L115,Normalized source entry,
+S0606,IMG_3857.HEIC,R301,culture,Geography,Africa map,Build,Africa map — Build,L115,Normalized source entry,
+S0607,IMG_3857.HEIC,R301,culture,Geography,Africa map,Language,Africa map — Language,L115,Normalized source entry,
+S0608,IMG_3857.HEIC,R301,culture,Geography,Africa map,Color,Africa map — Color,L115,Normalized source entry,
+S0609,IMG_3857.HEIC,R301,culture,Geography,Africa map,Label,Africa map — Label,L115,Normalized source entry,
+S0610,IMG_3857.HEIC,R302,culture,Geography,Australia map,Build,Australia map — Build,L115,Normalized source entry,
+S0611,IMG_3857.HEIC,R302,culture,Geography,Australia map,Language,Australia map — Language,L115,Normalized source entry,
+S0612,IMG_3857.HEIC,R302,culture,Geography,Australia map,Color,Australia map — Color,L115,Normalized source entry,
+S0613,IMG_3857.HEIC,R302,culture,Geography,Australia map,Label,Australia map — Label,L115,Normalized source entry,
+S0614,IMG_3857.HEIC,R303,culture,Geography,Geography envelopes,,Geography envelopes,L115,Normalized source entry,
+S0615,IMG_3857.HEIC,R304,culture,Geography,Animals of the world: labels,,Animals of the world: labels,L115,Normalized source entry,
+S0616,IMG_3857.HEIC,R305,culture,Geography,Flags,,Flags,L115,Normalized source entry,
+S0617,IMG_3857.HEIC,R306,culture,Geography,Drawing flags,,Drawing flags,L115,Normalized source entry,
+S0618,IMG_3857.HEIC,R307,culture,Land and water forms,Lake and island,Pour,Lake and island — Pour,L057,Normalized source entry,
+S0619,IMG_3857.HEIC,R307,culture,Land and water forms,Lake and island,Language,Lake and island — Language,L057,Normalized source entry,
+S0620,IMG_3857.HEIC,R307,culture,Land and water forms,Lake and island,Picture,Lake and island — Picture,L057,Normalized source entry,
+S0621,IMG_3857.HEIC,R307,culture,Land and water forms,Lake and island,Label,Lake and island — Label,L057,Normalized source entry,
+S0622,IMG_3857.HEIC,R307,culture,Land and water forms,Lake and island,Definition,Lake and island — Definition,L057,Normalized source entry,
+S0623,IMG_3857.HEIC,R308,culture,Land and water forms,Cape and bay,Pour,Cape and bay — Pour,L057,Normalized source entry,
+S0624,IMG_3857.HEIC,R308,culture,Land and water forms,Cape and bay,Language,Cape and bay — Language,L057,Normalized source entry,
+S0625,IMG_3857.HEIC,R308,culture,Land and water forms,Cape and bay,Picture,Cape and bay — Picture,L057,Normalized source entry,
+S0626,IMG_3857.HEIC,R308,culture,Land and water forms,Cape and bay,Label,Cape and bay — Label,L057,Normalized source entry,
+S0627,IMG_3857.HEIC,R308,culture,Land and water forms,Cape and bay,Definition,Cape and bay — Definition,L057,Normalized source entry,
+S0628,IMG_3857.HEIC,R309,culture,Land and water forms,Gulf and peninsula,Pour,Gulf and peninsula — Pour,L057,Normalized source entry,
+S0629,IMG_3857.HEIC,R309,culture,Land and water forms,Gulf and peninsula,Language,Gulf and peninsula — Language,L057,Normalized source entry,
+S0630,IMG_3857.HEIC,R309,culture,Land and water forms,Gulf and peninsula,Picture,Gulf and peninsula — Picture,L057,Normalized source entry,
+S0631,IMG_3857.HEIC,R309,culture,Land and water forms,Gulf and peninsula,Label,Gulf and peninsula — Label,L057,Normalized source entry,
+S0632,IMG_3857.HEIC,R309,culture,Land and water forms,Gulf and peninsula,Definition,Gulf and peninsula — Definition,L057,Normalized source entry,
+S0633,IMG_3857.HEIC,R310,culture,Land and water forms,Isthmus and strait,Pour,Isthmus and strait — Pour,L057,Normalized source entry,
+S0634,IMG_3857.HEIC,R310,culture,Land and water forms,Isthmus and strait,Language,Isthmus and strait — Language,L057,Normalized source entry,
+S0635,IMG_3857.HEIC,R310,culture,Land and water forms,Isthmus and strait,Picture,Isthmus and strait — Picture,L057,Normalized source entry,
+S0636,IMG_3857.HEIC,R310,culture,Land and water forms,Isthmus and strait,Label,Isthmus and strait — Label,L057,Normalized source entry,
+S0637,IMG_3857.HEIC,R310,culture,Land and water forms,Isthmus and strait,Definition,Isthmus and strait — Definition,L057,Normalized source entry,
+S0638,IMG_3857.HEIC,R311,culture,Land and water forms,System of lakes and archipelago,Pour,System of lakes and archipelago — Pour,L057,Normalized source entry,
+S0639,IMG_3857.HEIC,R311,culture,Land and water forms,System of lakes and archipelago,Language,System of lakes and archipelago — Language,L057,Normalized source entry,
+S0640,IMG_3857.HEIC,R311,culture,Land and water forms,System of lakes and archipelago,Picture,System of lakes and archipelago — Picture,L057,Normalized source entry,
+S0641,IMG_3857.HEIC,R311,culture,Land and water forms,System of lakes and archipelago,Label,System of lakes and archipelago — Label,L057,Normalized source entry,
+S0642,IMG_3857.HEIC,R311,culture,Land and water forms,System of lakes and archipelago,Definition,System of lakes and archipelago — Definition,L057,Normalized source entry,
+S0643,IMG_3857.HEIC,R312,culture,Passage of time,Days of the week,,Days of the week,L114,Normalized source entry,
+S0644,IMG_3857.HEIC,R313,culture,Passage of time,Months of the year,,Months of the year,L114,Normalized source entry,
+S0645,IMG_3857.HEIC,R314,culture,Passage of time,Four seasons of the year,,Four seasons of the year,L114,Normalized source entry,
+S0646,IMG_3857.HEIC,R315,culture,Passage of time,Weather / weather calendar,,Weather / weather calendar,L063,Normalized source entry,
+S0647,IMG_3857.HEIC,R316,culture,Passage of time,Child’s timeline,,Child’s timeline,L064,Normalized source entry,
+S0648,IMG_3857.HEIC,R317,culture,Passage of time,Telling time with movable clock,Place hours 1–12 in order,Telling time with movable clock — Place hours 1–12 in order,L114,Normalized source entry,
+S0649,IMG_3857.HEIC,R317,culture,Passage of time,Telling time with movable clock,Count by fives to 60 minutes,Telling time with movable clock — Count by fives to 60 minutes,L114,Normalized source entry,
+S0650,IMG_3857.HEIC,R317,culture,Passage of time,Telling time with movable clock,Match clock faces to times,Telling time with movable clock — Match clock faces to times,L114,Normalized source entry,
+S0651,IMG_3857.HEIC,R318,culture,Science: botany,Botany cabinet leaf shapes,Tray 1,Botany cabinet leaf shapes — Tray 1,L116,Normalized source entry,
+S0652,IMG_3857.HEIC,R318,culture,Science: botany,Botany cabinet leaf shapes,Tray 2,Botany cabinet leaf shapes — Tray 2,L116,Normalized source entry,
+S0653,IMG_3857.HEIC,R318,culture,Science: botany,Botany cabinet leaf shapes,Tray 3,Botany cabinet leaf shapes — Tray 3,L116,Normalized source entry,
+S0654,IMG_3857.HEIC,R318,culture,Science: botany,Botany cabinet leaf shapes,Card set 1,Botany cabinet leaf shapes — Card set 1,L116,Normalized source entry,
+S0655,IMG_3857.HEIC,R318,culture,Science: botany,Botany cabinet leaf shapes,Card set 2,Botany cabinet leaf shapes — Card set 2,L116,Normalized source entry,
+S0656,IMG_3857.HEIC,R318,culture,Science: botany,Botany cabinet leaf shapes,Card set 3,Botany cabinet leaf shapes — Card set 3,L116,Normalized source entry,
+S0657,IMG_3857.HEIC,R319,culture,Science: botany,Parts of the Tree / plant,Language,Parts of the Tree / plant — Language,L116,Normalized source entry,
+S0658,IMG_3857.HEIC,R319,culture,Science: botany,Parts of the Tree / plant,Label,Parts of the Tree / plant — Label,L116,Normalized source entry,
+S0659,IMG_3857.HEIC,R319,culture,Science: botany,Parts of the Tree / plant,Definition,Parts of the Tree / plant — Definition,L116,Normalized source entry,
+S0660,IMG_3857.HEIC,R319,culture,Science: botany,Parts of the Tree / plant,Booklet,Parts of the Tree / plant — Booklet,L116,Normalized source entry,
+S0661,IMG_3857.HEIC,R320,culture,Science: botany,Parts of the Leaf,Language,Parts of the Leaf — Language,L116,Normalized source entry,
+S0662,IMG_3857.HEIC,R320,culture,Science: botany,Parts of the Leaf,Label,Parts of the Leaf — Label,L116,Normalized source entry,
+S0663,IMG_3857.HEIC,R320,culture,Science: botany,Parts of the Leaf,Definition,Parts of the Leaf — Definition,L116,Normalized source entry,
+S0664,IMG_3857.HEIC,R320,culture,Science: botany,Parts of the Leaf,Booklet,Parts of the Leaf — Booklet,L116,Normalized source entry,
+S0665,IMG_3857.HEIC,R321,culture,Science: botany,Parts of the Flower,Language,Parts of the Flower — Language,L116,Normalized source entry,
+S0666,IMG_3857.HEIC,R321,culture,Science: botany,Parts of the Flower,Label,Parts of the Flower — Label,L116,Normalized source entry,
+S0667,IMG_3857.HEIC,R321,culture,Science: botany,Parts of the Flower,Definition,Parts of the Flower — Definition,L116,Normalized source entry,
+S0668,IMG_3857.HEIC,R321,culture,Science: botany,Parts of the Flower,Booklet,Parts of the Flower — Booklet,L116,Normalized source entry,
+S0669,IMG_3857.HEIC,R322,culture,Science: botany,Parts of the Root,Language,Parts of the Root — Language,L116,Normalized source entry,
+S0670,IMG_3857.HEIC,R322,culture,Science: botany,Parts of the Root,Label,Parts of the Root — Label,L116,Normalized source entry,
+S0671,IMG_3857.HEIC,R322,culture,Science: botany,Parts of the Root,Definition,Parts of the Root — Definition,L116,Normalized source entry,
+S0672,IMG_3857.HEIC,R322,culture,Science: botany,Parts of the Root,Booklet,Parts of the Root — Booklet,L116,Normalized source entry,
+S0673,IMG_3857.HEIC,R323,culture,Science: botany,Parts of the Seed,Language,Parts of the Seed — Language,L116,Normalized source entry,
+S0674,IMG_3857.HEIC,R323,culture,Science: botany,Parts of the Seed,Label,Parts of the Seed — Label,L116,Normalized source entry,
+S0675,IMG_3857.HEIC,R323,culture,Science: botany,Parts of the Seed,Definition,Parts of the Seed — Definition,L116,Normalized source entry,
+S0676,IMG_3857.HEIC,R323,culture,Science: botany,Parts of the Seed,Booklet,Parts of the Seed — Booklet,L116,Normalized source entry,
+S0677,IMG_3857.HEIC,R324,culture,Science: botany,Parts of the Mushroom,Language,Parts of the Mushroom — Language,L116,Normalized source entry,"Mushroom entry is placed here in the source; teach accurately that mushrooms are fungi, not plants."
+S0678,IMG_3857.HEIC,R324,culture,Science: botany,Parts of the Mushroom,Label,Parts of the Mushroom — Label,L116,Normalized source entry,"Mushroom entry is placed here in the source; teach accurately that mushrooms are fungi, not plants."
+S0679,IMG_3857.HEIC,R324,culture,Science: botany,Parts of the Mushroom,Definition,Parts of the Mushroom — Definition,L116,Normalized source entry,"Mushroom entry is placed here in the source; teach accurately that mushrooms are fungi, not plants."
+S0680,IMG_3857.HEIC,R324,culture,Science: botany,Parts of the Mushroom,Booklet,Parts of the Mushroom — Booklet,L116,Normalized source entry,"Mushroom entry is placed here in the source; teach accurately that mushrooms are fungi, not plants."
+S0681,IMG_3858.HEIC,R325,culture,Science: zoology,Vertebrates and invertebrates,,Vertebrates and invertebrates,L117,Normalized source entry,
+S0682,IMG_3858.HEIC,R326,culture,Science: zoology,Five classes of vertebrates,,Five classes of vertebrates,L117,Normalized source entry,
+S0683,IMG_3858.HEIC,R327,culture,Science: zoology,Herbivore / omnivore / carnivore,,Herbivore / omnivore / carnivore,L117,Normalized source entry,
+S0684,IMG_3858.HEIC,R328,culture,Vertebrates: external parts,Parts of the Horse,Language,Parts of the Horse — Language,L116,Normalized source entry,
+S0685,IMG_3858.HEIC,R328,culture,Vertebrates: external parts,Parts of the Horse,Label,Parts of the Horse — Label,L116,Normalized source entry,
+S0686,IMG_3858.HEIC,R328,culture,Vertebrates: external parts,Parts of the Horse,Definition,Parts of the Horse — Definition,L116,Normalized source entry,
+S0687,IMG_3858.HEIC,R328,culture,Vertebrates: external parts,Parts of the Horse,Booklet,Parts of the Horse — Booklet,L116,Normalized source entry,
+S0688,IMG_3858.HEIC,R329,culture,Vertebrates: external parts,Parts of the Bird,Language,Parts of the Bird — Language,L116,Normalized source entry,
+S0689,IMG_3858.HEIC,R329,culture,Vertebrates: external parts,Parts of the Bird,Label,Parts of the Bird — Label,L116,Normalized source entry,
+S0690,IMG_3858.HEIC,R329,culture,Vertebrates: external parts,Parts of the Bird,Definition,Parts of the Bird — Definition,L116,Normalized source entry,
+S0691,IMG_3858.HEIC,R329,culture,Vertebrates: external parts,Parts of the Bird,Booklet,Parts of the Bird — Booklet,L116,Normalized source entry,
+S0692,IMG_3858.HEIC,R330,culture,Vertebrates: external parts,Parts of the Fish,Language,Parts of the Fish — Language,L116,Normalized source entry,
+S0693,IMG_3858.HEIC,R330,culture,Vertebrates: external parts,Parts of the Fish,Label,Parts of the Fish — Label,L116,Normalized source entry,
+S0694,IMG_3858.HEIC,R330,culture,Vertebrates: external parts,Parts of the Fish,Definition,Parts of the Fish — Definition,L116,Normalized source entry,
+S0695,IMG_3858.HEIC,R330,culture,Vertebrates: external parts,Parts of the Fish,Booklet,Parts of the Fish — Booklet,L116,Normalized source entry,
+S0696,IMG_3858.HEIC,R331,culture,Vertebrates: external parts,Parts of the Frog,Language,Parts of the Frog — Language,L116,Normalized source entry,
+S0697,IMG_3858.HEIC,R331,culture,Vertebrates: external parts,Parts of the Frog,Label,Parts of the Frog — Label,L116,Normalized source entry,
+S0698,IMG_3858.HEIC,R331,culture,Vertebrates: external parts,Parts of the Frog,Definition,Parts of the Frog — Definition,L116,Normalized source entry,
+S0699,IMG_3858.HEIC,R331,culture,Vertebrates: external parts,Parts of the Frog,Booklet,Parts of the Frog — Booklet,L116,Normalized source entry,
+S0700,IMG_3858.HEIC,R332,culture,Vertebrates: external parts,Parts of the Turtle,Language,Parts of the Turtle — Language,L116,Normalized source entry,
+S0701,IMG_3858.HEIC,R332,culture,Vertebrates: external parts,Parts of the Turtle,Label,Parts of the Turtle — Label,L116,Normalized source entry,
+S0702,IMG_3858.HEIC,R332,culture,Vertebrates: external parts,Parts of the Turtle,Definition,Parts of the Turtle — Definition,L116,Normalized source entry,
+S0703,IMG_3858.HEIC,R332,culture,Vertebrates: external parts,Parts of the Turtle,Booklet,Parts of the Turtle — Booklet,L116,Normalized source entry,
+S0704,IMG_3858.HEIC,R333,culture,Invertebrates: external parts,Parts of the Butterfly,Language,Parts of the Butterfly — Language,L116,Normalized source entry,
+S0705,IMG_3858.HEIC,R333,culture,Invertebrates: external parts,Parts of the Butterfly,Label,Parts of the Butterfly — Label,L116,Normalized source entry,
+S0706,IMG_3858.HEIC,R333,culture,Invertebrates: external parts,Parts of the Butterfly,Definition,Parts of the Butterfly — Definition,L116,Normalized source entry,
+S0707,IMG_3858.HEIC,R333,culture,Invertebrates: external parts,Parts of the Butterfly,Booklet,Parts of the Butterfly — Booklet,L116,Normalized source entry,
+S0708,IMG_3858.HEIC,R334,culture,Invertebrates: external parts,Parts of the Insect,Language,Parts of the Insect — Language,L116,Normalized source entry,
+S0709,IMG_3858.HEIC,R334,culture,Invertebrates: external parts,Parts of the Insect,Label,Parts of the Insect — Label,L116,Normalized source entry,
+S0710,IMG_3858.HEIC,R334,culture,Invertebrates: external parts,Parts of the Insect,Definition,Parts of the Insect — Definition,L116,Normalized source entry,
+S0711,IMG_3858.HEIC,R334,culture,Invertebrates: external parts,Parts of the Insect,Booklet,Parts of the Insect — Booklet,L116,Normalized source entry,
+S0712,IMG_3858.HEIC,R335,culture,Invertebrates: external parts,Parts of the Grasshopper,Language,Parts of the Grasshopper — Language,L116,Normalized source entry,
+S0713,IMG_3858.HEIC,R335,culture,Invertebrates: external parts,Parts of the Grasshopper,Label,Parts of the Grasshopper — Label,L116,Normalized source entry,
+S0714,IMG_3858.HEIC,R335,culture,Invertebrates: external parts,Parts of the Grasshopper,Definition,Parts of the Grasshopper — Definition,L116,Normalized source entry,
+S0715,IMG_3858.HEIC,R335,culture,Invertebrates: external parts,Parts of the Grasshopper,Booklet,Parts of the Grasshopper — Booklet,L116,Normalized source entry,
+S0716,IMG_3858.HEIC,R336,culture,Human biology,External parts of the human body,Language,External parts of the human body — Language,L116,Normalized source entry,
+S0717,IMG_3858.HEIC,R336,culture,Human biology,External parts of the human body,Label,External parts of the human body — Label,L116,Normalized source entry,
+S0718,IMG_3858.HEIC,R336,culture,Human biology,External parts of the human body,Definition,External parts of the human body — Definition,L116,Normalized source entry,
+S0719,IMG_3858.HEIC,R336,culture,Human biology,External parts of the human body,Booklet,External parts of the human body — Booklet,L116,Normalized source entry,
+S0720,IMG_3858.HEIC,R337,culture,Human biology,Internal organs of the human body,Language,Internal organs of the human body — Language,L116,Normalized source entry,
+S0721,IMG_3858.HEIC,R337,culture,Human biology,Internal organs of the human body,Label,Internal organs of the human body — Label,L116,Normalized source entry,
+S0722,IMG_3858.HEIC,R337,culture,Human biology,Internal organs of the human body,Definition,Internal organs of the human body — Definition,L116,Normalized source entry,
+S0723,IMG_3858.HEIC,R337,culture,Human biology,Internal organs of the human body,Booklet,Internal organs of the human body — Booklet,L116,Normalized source entry,
+S0724,IMG_3858.HEIC,R338,culture,Human biology,Parts of the tooth,Language,Parts of the tooth — Language,L116,Normalized source entry,
+S0725,IMG_3858.HEIC,R338,culture,Human biology,Parts of the tooth,Label,Parts of the tooth — Label,L116,Normalized source entry,
+S0726,IMG_3858.HEIC,R338,culture,Human biology,Parts of the tooth,Definition,Parts of the tooth — Definition,L116,Normalized source entry,
+S0727,IMG_3858.HEIC,R338,culture,Human biology,Parts of the tooth,Booklet,Parts of the tooth — Booklet,L116,Normalized source entry,
+S0728,IMG_3858.HEIC,R339,culture,Human biology,Parts of the eye,Language,Parts of the eye — Language,L116,Normalized source entry,
+S0729,IMG_3858.HEIC,R339,culture,Human biology,Parts of the eye,Label,Parts of the eye — Label,L116,Normalized source entry,
+S0730,IMG_3858.HEIC,R339,culture,Human biology,Parts of the eye,Definition,Parts of the eye — Definition,L116,Normalized source entry,
+S0731,IMG_3858.HEIC,R339,culture,Human biology,Parts of the eye,Booklet,Parts of the eye — Booklet,L116,Normalized source entry,
+S0732,IMG_3858.HEIC,R340,culture,Human biology,Five human senses,,Five human senses,L116,Normalized source entry,
+S0733,IMG_3858.HEIC,R341,culture,Science,Living and nonliving,,Living and nonliving,L058,Normalized source entry,
+S0734,IMG_3858.HEIC,R342,culture,Science,Plant or animal,,Plant or animal,L117,Normalized source entry,
+S0735,IMG_3858.HEIC,R343,culture,Science,Five senses,,Five senses,L116,Normalized source entry,
+S0736,IMG_3858.HEIC,R344,culture,Science,Sink or float,,Sink or float,L119,Normalized source entry,
+S0737,IMG_3858.HEIC,R345,culture,Science,Magnetic or nonmagnetic,,Magnetic or nonmagnetic,L062,Normalized source entry,
+S0738,IMG_3858.HEIC,R346,culture,Science,Use of magnifying glass,,Use of magnifying glass,L118,Normalized source entry,
+S0739,IMG_3858.HEIC,R347,culture,Science,Use of microscope,,Use of microscope,L118,Normalized source entry,
+S0740,IMG_3858.HEIC,R348,culture,Science,Rocks and minerals,,Rocks and minerals,L121,Normalized source entry,
+S0741,IMG_3858.HEIC,R349,culture,Science,Nature table,,Nature table,L121,Normalized source entry,
+S0742,IMG_3858.HEIC,R350,culture,Science,Dinosaurs,,Dinosaurs,L120,Normalized source entry,
+S0743,IMG_3858.HEIC,R351,culture,Science,Solar System,,Solar System,L120,Normalized source entry,
+S0744,IMG_3858.HEIC,R352,culture,Science,"Land, air and water",,"Land, air and water",L120,Normalized source entry,"Source calls land, air and water “three elements”; they are not chemical elements."
+S0745,IMG_3858.HEIC,R353,culture,Science,Parts of a volcano,Language,Parts of a volcano — Language,L120,Normalized source entry,
+S0746,IMG_3858.HEIC,R353,culture,Science,Parts of a volcano,Label,Parts of a volcano — Label,L120,Normalized source entry,
+S0747,IMG_3858.HEIC,R353,culture,Science,Parts of a volcano,Definition,Parts of a volcano — Definition,L120,Normalized source entry,
+S0748,IMG_3858.HEIC,R353,culture,Science,Parts of a volcano,Booklet,Parts of a volcano — Booklet,L120,Normalized source entry,
+S0749,IMG_3858.HEIC,R354,culture,Science,States of matter,,States of matter,L119,Normalized source entry,
+S0750,IMG_3858.HEIC,R355,culture,Science,Natural resources,,Natural resources,L120,Normalized source entry,
+S0751,IMG_3858.HEIC,R356,culture,Science,Food groups,,Food groups,L122,Normalized source entry,
+S0752,IMG_3858.HEIC,R357,culture,Science,Recycling matters,,Recycling matters,L122,Normalized source entry,
+S0753,IMG_3859.HEIC,R358,expression,Art,Mixing colors,,Mixing colors,L123,Normalized source entry,
+S0754,IMG_3859.HEIC,R359,expression,Art,Color wheel,,Color wheel,L123,Normalized source entry,
+S0755,IMG_3859.HEIC,R360,expression,Art,Artist cards,,Artist cards,L124,Normalized source entry,
+S0756,IMG_3859.HEIC,R361,expression,Art,Art media,Crayons,Art media — Crayons,L124,Normalized source entry,
+S0757,IMG_3859.HEIC,R361,expression,Art,Art media,Pencil crayons,Art media — Pencil crayons,L124,Normalized source entry,
+S0758,IMG_3859.HEIC,R361,expression,Art,Art media,Paint,Art media — Paint,L124,Normalized source entry,
+S0759,IMG_3859.HEIC,R361,expression,Art,Art media,Watercolor,Art media — Watercolor,L124,Normalized source entry,
+S0760,IMG_3859.HEIC,R361,expression,Art,Art media,Pastels,Art media — Pastels,L124,Normalized source entry,
+S0761,IMG_3859.HEIC,R361,expression,Art,Art media,Charcoal,Art media — Charcoal,L124,Normalized source entry,
+S0762,IMG_3859.HEIC,R361,expression,Art,Art media,Markers,Art media — Markers,L124,Normalized source entry,
+S0763,IMG_3859.HEIC,R362,expression,Art,Sketching,,Sketching,L067,Normalized source entry,
+S0764,IMG_3859.HEIC,R363,expression,Art,Origami,,Origami,L125,Normalized source entry,
+S0765,IMG_3859.HEIC,R364,expression,Art,Collage,,Collage,L068,Normalized source entry,
+S0766,IMG_3859.HEIC,R365,expression,Art,Sculpting,,Sculpting,L069,Normalized source entry,

@@ -1,44 +1,109 @@
 {
   "product": "Growing Together — Montessori planning and records, ages 3–6",
-  "version": "1.0",
-  "built_in_lessons": 72,
+  "version": "2.0",
+  "schema_version": 2,
+  "accepts_schema_1_backups": true,
+  "built_in_lessons": 126,
+  "original_lessons_preserved": 72,
+  "source_photographs_reviewed": 11,
+  "normalized_source_rows": 365,
+  "tracking_items": 766,
+  "tracking_sections": 59,
+  "source_additions_and_interpretation": "source/REVIEW_NOTES.md",
   "shared_accounts": false,
   "cloud_sync": false,
+  "photos_republished": false,
+  "browser_checks_passed": 32,
   "files": [
     {
-      "path": "Curriculum_Library_72.csv",
-      "bytes": 47226,
-      "sha256": "3eff11a9090796deadd5390ef93113d7f041285dfb03657d2f113165e0430852"
+      "path": ".gitattributes",
+      "bytes": 13,
+      "sha256": "547f59603028195ff9f8a87d04c4651551e8bd0d68f075257dfd549cd846b25b"
+    },
+    {
+      "path": "Curriculum_Library.csv",
+      "bytes": 102876,
+      "sha256": "7bbf81573133dc4f01f96c78b798c066b3474b04a1a9e3573fb23d5a96b856ca"
     },
     {
       "path": "Montessori_Planning_and_Records.html",
-      "bytes": 116550,
-      "sha256": "d95aa7eb399c2c46461ba9661d3641141626455355db5df8f96bface3a675aeb"
+      "bytes": 477588,
+      "sha256": "30150c9bf21e0be1352a1868dccd21d8f486c13f5b64d0b585258aefce1ee319"
     },
     {
       "path": "Printable_Planning_and_Record_Packet.pdf",
-      "bytes": 85650,
-      "sha256": "835a37d9a0dc47ce353e50c7c4540e5345653190034ae3bada84e8d50ff650c2"
+      "bytes": 74244,
+      "sha256": "6ac1e4661dc8061620c381fe7065988a27c0caa974fd79c489d28b529ab423c9"
     },
     {
       "path": "README.md",
-      "bytes": 6310,
-      "sha256": "c0135caa47226c81db12ec36268ec92935c7d7d0c3ff27e02287d9a15b792cc1"
+      "bytes": 10419,
+      "sha256": "d6867c95fe4df5340ead5d186f977d6ec751149bf8ffe2dab1b109bee72b1695"
+    },
+    {
+      "path": "Three_Year_Curriculum_Record_Book.pdf",
+      "bytes": 166241,
+      "sha256": "4c84ef93fb455be806758dae2ad6e92e1470cfe1162bef226d9b6fb1cacf8dff"
     },
     {
       "path": "curriculum.json",
-      "bytes": 70236,
-      "sha256": "72f562d0911845b805b85d2041e3593f79cd02a8934fb9a8b4fba339670873df"
+      "bytes": 529907,
+      "sha256": "c32c37b3cfc261a49d75f700eda96193992d8ef69d5219e5c65a3ee8bf296de8"
+    },
+    {
+      "path": "photo_record_validation.json",
+      "bytes": 1684,
+      "sha256": "4037fccb32a1e75f7b24ec1f5074303324b1751e6a6f88acf7745328417bfca1"
+    },
+    {
+      "path": "source/PHOTO_CURRICULUM_MAP.csv",
+      "bytes": 121159,
+      "sha256": "bca507659ba13dc4372c6e573a263cda970b452a94e370ddcba0608295aef0f4"
+    },
+    {
+      "path": "source/PHOTO_REVIEW_MANIFEST.json",
+      "bytes": 3426,
+      "sha256": "4ad5120a358b4617a4fe588bec6beb8ce2dddd55655ef72ac8312448cd1a2e4b"
+    },
+    {
+      "path": "source/REVIEW_NOTES.md",
+      "bytes": 6720,
+      "sha256": "75c2bc8c56ca09f5cabc3f068126a19b0d05e50a821f13a73121514e2a958415"
+    },
+    {
+      "path": "source/app_template.html",
+      "bytes": 79552,
+      "sha256": "81554afe3103c67c07f4a2e22432e103eeec8eedec05a4556ad139a21ff25e4b"
+    },
+    {
+      "path": "source/build_app.py",
+      "bytes": 755,
+      "sha256": "321e088b918572b524b8abced36091b2465c5cad81bc9e26b181449062b34741"
+    },
+    {
+      "path": "source/build_documents.py",
+      "bytes": 9559,
+      "sha256": "50caa4a6c597673b8594934e036704aa26379565f3b3b9ee231c7dd2e9ba779a"
+    },
+    {
+      "path": "source/build_record_book.py",
+      "bytes": 5876,
+      "sha256": "4c4fda762602b2e1eb56e33e875c31c0fdbab0eb81d43cef09d77f012858bd46"
     },
     {
       "path": "tests/test_browser.py",
-      "bytes": 10711,
-      "sha256": "fdae46fd4285c6d967b3360cf81cdefef6d7b6cc5d9b88e0841408f7728c9f90"
+      "bytes": 10716,
+      "sha256": "48771f405e8a26f3b6d894ac0f2d14b933ebae9dafcadd83011b3fc41503f7ed"
+    },
+    {
+      "path": "tests/test_photo_records.py",
+      "bytes": 10707,
+      "sha256": "29b3db4be230df0f63ab53565f68bfa01eca1b8f9e775afa8b5cdff816f944ca"
     },
     {
       "path": "validation_report.json",
-      "bytes": 1564,
-      "sha256": "dc24eeea870419c2393ee5a81cf5de78e1c853a372b9f74538655732b1c46cfb"
+      "bytes": 1575,
+      "sha256": "4d5474ed15d48157d1f8fed96d87ede434858877ee68fafbc2d1a290605af7f8"
     }
   ]
 }

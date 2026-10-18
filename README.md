@@ -2,9 +2,9 @@
 
 ## Montessori planning and records — ages 3–6
 
-[Download the complete system](tools/Montessori_Planning_and_Records_System.zip) · [Quick-start guide](tools/montessori-3-6/README.md) · [Printable planning packet](tools/montessori-3-6/Printable_Planning_and_Record_Packet.pdf)
+[Download the complete system](tools/Montessori_Planning_and_Records_System.zip) · [Quick-start guide](tools/montessori-3-6/README.md) · [Printable planning packet](tools/montessori-3-6/Printable_Planning_and_Record_Packet.pdf) · [Three-year record book](tools/montessori-3-6/Three_Year_Curriculum_Record_Book.pdf)
 
-A self-contained browser application with 72 starter lessons, child profiles, individual/small-group weekly planning, dated observations, progress histories, printable reports and JSON backup/restore. Extract the ZIP and open `Montessori_Planning_and_Records.html`. Records remain on the local device; this version has no shared staff accounts or cloud synchronization.
+Version 2 uses the eleven supplied curriculum photos: 126 planning outlines, 766 detailed tracking items, and three-year P/A/I records with editable child-specific dates. It includes individual/small-group weekly planning, linked observations, follow-up reminders, printable reports and compatible version 1 backup restore. Extract the ZIP and open `Montessori_Planning_and_Records.html`. Records remain on the local device; this version has no shared staff accounts or cloud synchronization.
 
 ## 48 states — bilingual daily-training style
 
