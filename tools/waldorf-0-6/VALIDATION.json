@@ -1,0 +1,23 @@
+{
+  "activities": 70,
+  "agePathways": 7,
+  "coverageMonths": "0\u201383 inclusive",
+  "pdfPages": {
+    "teacherGuide": 26,
+    "activityLibrary": 70,
+    "weeklyMenus": 7,
+    "storiesVerses": 8,
+    "forms": 5
+  },
+  "checks": [
+    "unique IDs",
+    "10 plans per age pathway and seven strands per pathway (author assertions)",
+    "CSV count",
+    "contiguous age ranges",
+    "three steps and required fields",
+    "DOCX parsing",
+    "PDF page text and matching activity IDs",
+    "weekly menu age mappings"
+  ],
+  "sourceRetrieval": "Three Waldorf sites blocked by CONNECT 403; no verified alignment claimed"
+}

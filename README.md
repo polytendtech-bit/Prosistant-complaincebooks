@@ -90,3 +90,7 @@ Read the report for the exact scope, implemented changes, source-access evidence
 - [Earlier preliminary review package](reviews/Prosistant_Preliminary_Review_and_Revision.zip)
 
 The earlier review is retained as history. Use edition 0.2 for the current editorial material and current source-access status.
+
+## Waldorf-inspired birth-to-six curriculum
+
+[Download the complete package](tools/Waldorf_Inspired_Curriculum_Birth_to_Six.zip) or [read the teacher guide](tools/waldorf-0-6/Waldorf_Teacher_Guide.pdf). Includes 70 age-specific plans, weekly rhythms, original stories and verses, and planning/observation forms in PDF and editable Word. [Package details](tools/waldorf-0-6/README.md).

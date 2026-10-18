@@ -1,0 +1,29 @@
+{
+  "sources": [
+    {
+      "id": "W01",
+      "organization": "Waldorf Early Childhood Association of North America",
+      "url": "https://waldorfearlychildhood.org/",
+      "attempted_at_utc": "2026-10-18T06:01:57.431539+00:00",
+      "retrieved": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "W02",
+      "organization": "Association of Waldorf Schools of North America",
+      "url": "https://www.waldorfeducation.org/",
+      "attempted_at_utc": "2026-10-18T06:01:57.433409+00:00",
+      "retrieved": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "W03",
+      "organization": "International Association for Steiner/Waldorf Early Childhood Education",
+      "url": "https://iaswece.org/",
+      "attempted_at_utc": "2026-10-18T06:01:57.434421+00:00",
+      "retrieved": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    }
+  ],
+  "official_endorsement": false
+}

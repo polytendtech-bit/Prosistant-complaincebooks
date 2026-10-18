@@ -1,0 +1,1497 @@
+{
+  "title": "Waldorf-inspired Early Childhood Curriculum",
+  "edition": "1.0 original secular and inclusive adaptation",
+  "ageScope": "Birth through age six; final pathway includes 5- and 6-year-olds through 83 months.",
+  "approach": "Warm relationships, responsive rhythm, imitation, purposeful work, imaginative play, oral storytelling, arts/handwork and nature.",
+  "officiallyEndorsed": false,
+  "areas": [
+    {
+      "id": "rhythm",
+      "title": "Relationships & daily rhythm",
+      "purpose": "Predictable, responsive care and a secure connection with familiar adults."
+    },
+    {
+      "id": "movement",
+      "title": "Movement & sensory exploration",
+      "purpose": "Voluntary movement, comfortable sensory experience and access to the environment."
+    },
+    {
+      "id": "practical",
+      "title": "Practical life & purposeful work",
+      "purpose": "Imitation and participation in useful everyday care at an accessible level."
+    },
+    {
+      "id": "oral",
+      "title": "Oral language, stories & verses",
+      "purpose": "Rich spoken/signed language, family words, gentle repetition and meaningful communication."
+    },
+    {
+      "id": "play",
+      "title": "Imagination, play & social connection",
+      "purpose": "Responsive early play, later symbolic play, construction and supported relationships."
+    },
+    {
+      "id": "arts",
+      "title": "Arts, music & handwork",
+      "purpose": "Original expression through color, sound, gesture, material and making."
+    },
+    {
+      "id": "nature",
+      "title": "Nature, seasons & community",
+      "purpose": "Respectful outdoor noticing, local change, care for living things and family/community belonging."
+    }
+  ],
+  "ageBands": [
+    {
+      "id": "B01",
+      "title": "Young infants",
+      "label": "Birth–5 months",
+      "minMonths": 0,
+      "maxMonthsExclusive": 6
+    },
+    {
+      "id": "B02",
+      "title": "Older infants",
+      "label": "6–11 months",
+      "minMonths": 6,
+      "maxMonthsExclusive": 12
+    },
+    {
+      "id": "B03",
+      "title": "Young toddlers",
+      "label": "12–23 months",
+      "minMonths": 12,
+      "maxMonthsExclusive": 24
+    },
+    {
+      "id": "B04",
+      "title": "Older toddlers",
+      "label": "24–35 months",
+      "minMonths": 24,
+      "maxMonthsExclusive": 36
+    },
+    {
+      "id": "B05",
+      "title": "Preschool",
+      "label": "3 years · 36–47 months",
+      "minMonths": 36,
+      "maxMonthsExclusive": 48
+    },
+    {
+      "id": "B06",
+      "title": "Pre-K",
+      "label": "4 years · 48–59 months",
+      "minMonths": 48,
+      "maxMonthsExclusive": 60
+    },
+    {
+      "id": "B07",
+      "title": "Kindergarten bridge",
+      "label": "5- and 6-year-olds · 60–83 months",
+      "minMonths": 60,
+      "maxMonthsExclusive": 84
+    }
+  ],
+  "activities": [
+    {
+      "id": "W001",
+      "ageBand": "B01",
+      "area": "rhythm",
+      "title": "A familiar care greeting",
+      "materials": "Familiar caregiver; the usual safe care space",
+      "purpose": "Make an everyday care transition understandable and reassuring.",
+      "steps": [
+        "Notice whether the infant is awake and available.",
+        "Use the child’s name and a familiar gentle phrase before needed care.",
+        "Pause for a cue, respond and continue care sensitively."
+      ],
+      "adultRole": "Stay responsive; the phrase supports connection rather than delaying care.",
+      "observe": "The cue, response and what seemed to support comfort.",
+      "nextOpportunity": "Use the same helpful phrase at another care moment.",
+      "safety": "Follow approved care and positioning procedures; never delay food, comfort or needed care for a lesson.",
+      "mode": "Responsive care",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W002",
+      "ageBand": "B01",
+      "area": "movement",
+      "title": "Comfortable awake floor movement",
+      "materials": "Firm clear floor mat; adult within reach",
+      "purpose": "Offer voluntary movement without a required posture.",
+      "steps": [
+        "Choose a comfortable awake moment.",
+        "Offer a safe position and room for the infant’s own movement.",
+        "Respond to cues and reposition or stop as needed."
+      ],
+      "adultRole": "Observe closely rather than placing the infant in a position they cannot manage.",
+      "observe": "Comfort, voluntary movement and support.",
+      "nextOpportunity": "Repeat a comfortable opportunity when available.",
+      "safety": "Tummy time is awake and directly supervised only. For sleep use the approved firm flat clear surface on the back, following current health procedures. No loose play materials in the sleep space.",
+      "mode": "Voluntary sensory-motor play",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W003",
+      "ageBand": "B01",
+      "area": "practical",
+      "title": "Watching a quiet useful action",
+      "materials": "Adult’s clean cloth; usual care setup",
+      "purpose": "Experience a familiar adult’s purposeful action within a warm relationship.",
+      "steps": [
+        "Fold or prepare one cloth where the awake infant can comfortably notice.",
+        "Describe the real action in a few words.",
+        "Pause and follow the infant’s interest or need for care."
+      ],
+      "adultRole": "The infant may look away; no imitation or task completion is expected.",
+      "observe": "Attention, withdrawal and adult timing.",
+      "nextOpportunity": "Revisit the same calm real routine.",
+      "safety": "Adult controls the cloth; do not place loose fabric near the face or leave it in a sleep space.",
+      "mode": "Shared everyday care",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W004",
+      "ageBand": "B01",
+      "area": "practical",
+      "title": "A narrated care sequence",
+      "materials": "Usual approved care materials",
+      "purpose": "Participate through communication in real care.",
+      "steps": [
+        "Tell the infant the next needed care action.",
+        "Pause for movement, expression or another cue.",
+        "Acknowledge the response and complete care gently."
+      ],
+      "adultRole": "Read the infant’s cues and support comfort; do not turn care into a performance.",
+      "observe": "Signals and the adult support actually used.",
+      "nextOpportunity": "Coordinate useful words and preferences with family.",
+      "safety": "Use approved hygiene and handling procedures; remain within reach and never leave an infant unattended on a raised surface.",
+      "mode": "Responsive care",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W005",
+      "ageBand": "B01",
+      "area": "oral",
+      "title": "A two-line care verse",
+      "materials": "Original verse or family-approved phrase",
+      "purpose": "Hear a predictable language pattern paired with responsive care.",
+      "steps": [
+        "Offer a short gentle phrase during an appropriate awake moment.",
+        "Pause rather than repeating without limit.",
+        "Respond to the infant’s cue and stop if needed."
+      ],
+      "adultRole": "Use a natural voice and the family’s language when possible.",
+      "observe": "Response to voice and need for quieter interaction.",
+      "nextOpportunity": "Repeat a preferred phrase later.",
+      "safety": "No required rhythmic body movement or delayed care; keep volume comfortable.",
+      "mode": "Oral language",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W006",
+      "ageBand": "B01",
+      "area": "oral",
+      "title": "Listen, answer, wait",
+      "materials": "Familiar caregiver",
+      "purpose": "Experience a back-and-forth communication exchange.",
+      "steps": [
+        "Listen for a sound, breath pattern, expression or movement.",
+        "Answer gently with a brief sound or phrase.",
+        "Wait and adapt to the next cue."
+      ],
+      "adultRole": "Do not require eye contact or vocal imitation.",
+      "observe": "The sequence of infant cue, adult response and next cue.",
+      "nextOpportunity": "Use the same responsive pattern in another routine.",
+      "safety": "Stop for fatigue or distress; unusual/persistent symptoms follow the program’s health process.",
+      "mode": "Responsive conversation",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W007",
+      "ageBand": "B01",
+      "area": "play",
+      "title": "A familiar face and gesture",
+      "materials": "Adult face and hands at a comfortable distance",
+      "purpose": "Share a small playful exchange with an available adult.",
+      "steps": [
+        "Offer one gentle visible gesture.",
+        "Wait for any comfortable response.",
+        "Repeat or change only as the infant’s cue suggests."
+      ],
+      "adultRole": "Keep the adult available; the infant need not imitate or pretend.",
+      "observe": "Interest and the child’s own form of participation.",
+      "nextOpportunity": "Revisit a preferred gesture.",
+      "safety": "Never cover the infant’s face, startle, force touch or move their limbs to create a response.",
+      "mode": "Early social play",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W008",
+      "ageBand": "B01",
+      "area": "arts",
+      "title": "A quiet humming invitation",
+      "materials": "Caregiver humming a short original or family-approved tune",
+      "purpose": "Experience sound and expression through a warm interaction.",
+      "steps": [
+        "Hum briefly at a low comfortable volume.",
+        "Pause to notice movement, expression or still attention.",
+        "Continue, change or stop responsively."
+      ],
+      "adultRole": "The infant sets the pace through cues.",
+      "observe": "Comfort, sensory preference and adult responsiveness.",
+      "nextOpportunity": "Revisit a familiar sound rather than adding many.",
+      "safety": "No loud sound, bouncing, shaking or forced movement.",
+      "mode": "Music and connection",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W009",
+      "ageBand": "B01",
+      "area": "arts",
+      "title": "One simple image together",
+      "materials": "Large sturdy infant-safe book held by an adult",
+      "purpose": "Share a visual interest without a naming test.",
+      "steps": [
+        "Offer one simple image in comfortable light.",
+        "Describe what appears to interest the infant.",
+        "Allow looking away or ending the interaction."
+      ],
+      "adultRole": "Follow attention instead of testing recognition.",
+      "observe": "Preferred viewing distance and communication.",
+      "nextOpportunity": "Return to a familiar page later.",
+      "safety": "Adult holds the book safely; no detachable pieces, glare or objects above a sleep space.",
+      "mode": "Visual exploration",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W010",
+      "ageBand": "B01",
+      "area": "nature",
+      "title": "Noticing an ordinary outdoor sound",
+      "materials": "Safe sheltered access to the outdoors or open view; adult",
+      "purpose": "Experience local surroundings within safe comfortable care.",
+      "steps": [
+        "Check conditions and the individual care plan.",
+        "Pause with the infant in a comfortable protected position.",
+        "Name a gentle sound or sight and respond to cues."
+      ],
+      "adultRole": "A brief familiar experience is enough.",
+      "observe": "Comfort and what drew attention.",
+      "nextOpportunity": "Return to the same safe place.",
+      "safety": "Follow weather, temperature, air-quality and sun guidance. No direct sun viewing, unknown plant contact or unsafe outdoor positioning.",
+      "mode": "Nature noticing",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W011",
+      "ageBand": "B02",
+      "area": "rhythm",
+      "title": "Explore and return",
+      "materials": "Safe floor space; familiar nearby adult",
+      "purpose": "Support exploration while connection remains available.",
+      "steps": [
+        "Offer an accessible familiar space.",
+        "Follow self-chosen exploration.",
+        "Respond promptly when the infant checks back or needs comfort."
+      ],
+      "adultRole": "Remain a secure available presence.",
+      "observe": "Movement, reconnecting and help used.",
+      "nextOpportunity": "Repeat in a familiar space.",
+      "safety": "No forced standing/walking, walkers, unstable supports or unsafe climbing.",
+      "mode": "Responsive exploration",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W012",
+      "ageBand": "B02",
+      "area": "movement",
+      "title": "Travel toward a chosen interest",
+      "materials": "Large inspected infant-safe object; clear floor",
+      "purpose": "Explore the infant’s own movement strategy.",
+      "steps": [
+        "Place a safe interest within an achievable range.",
+        "Wait for reaching, rolling or another voluntary action.",
+        "Adjust distance or access without demanding a milestone."
+      ],
+      "adultRole": "Support comfort and agency rather than training a standard movement.",
+      "observe": "Strategy and how the environment helped.",
+      "nextOpportunity": "Offer a similar safe route.",
+      "safety": "Do not pull the infant by the arms, force a posture or use food as a movement lure.",
+      "mode": "Voluntary movement",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W013",
+      "ageBand": "B02",
+      "area": "practical",
+      "title": "Folding nearby, noticing together",
+      "materials": "Clean cloth controlled by adult",
+      "purpose": "Share the rhythm of a real useful action.",
+      "steps": [
+        "Fold a cloth within comfortable view.",
+        "Offer a few meaningful words and a pause.",
+        "Let the infant explore through looking or a supported voluntary touch."
+      ],
+      "adultRole": "No folding ability is expected.",
+      "observe": "Interest and sensory access.",
+      "nextOpportunity": "Repeat a familiar action.",
+      "safety": "Keep cloth adult-controlled and remove it afterward; no loose fabric over the face or in sleep space.",
+      "mode": "Imitation foundation",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W014",
+      "ageBand": "B02",
+      "area": "practical",
+      "title": "An object belongs in its place",
+      "materials": "Large infant-safe object; low stable open container",
+      "purpose": "Explore placing, releasing and restoring.",
+      "steps": [
+        "Show one object going into the container.",
+        "Offer the child a turn without requiring copying.",
+        "Follow putting in, taking out or another safe action."
+      ],
+      "adultRole": "Name real actions and leave room for repetition.",
+      "observe": "Grasp/release, persistence and chosen action.",
+      "nextOpportunity": "Try a wider opening if useful.",
+      "safety": "No small parts, bags, tight lids or containers that can entrap fingers or cover the head.",
+      "mode": "Purposeful exploration",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W015",
+      "ageBand": "B02",
+      "area": "oral",
+      "title": "Names in the real moment",
+      "materials": "Familiar safe object",
+      "purpose": "Connect language with a shared interest.",
+      "steps": [
+        "Follow the infant’s interest.",
+        "Offer the object’s familiar name or sign.",
+        "Pause and answer any response."
+      ],
+      "adultRole": "Use family words and accept all communication forms.",
+      "observe": "Shared attention and response.",
+      "nextOpportunity": "Use the same name during real use.",
+      "safety": "Objects must be intact and suitable for mouthing risk; no detachable parts.",
+      "mode": "Oral language",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W016",
+      "ageBand": "B02",
+      "area": "oral",
+      "title": "A repeated gesture verse",
+      "materials": "Short original verse; adult gestures",
+      "purpose": "Enjoy a predictable language-and-gesture exchange.",
+      "steps": [
+        "Offer a brief verse with one visible gesture.",
+        "Pause at a familiar place.",
+        "Accept looking, movement, sound or no response."
+      ],
+      "adultRole": "Do not move the infant’s body to make them join.",
+      "observe": "Anticipation and participation choice.",
+      "nextOpportunity": "Repeat a favored phrase.",
+      "safety": "Keep gestures gentle and volume comfortable; no required touch or hand holding.",
+      "mode": "Gesture and language",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W017",
+      "ageBand": "B02",
+      "area": "play",
+      "title": "A partly hidden familiar object",
+      "materials": "Large safe object; small cloth held by adult",
+      "purpose": "Explore a familiar object that remains partly visible.",
+      "steps": [
+        "Show the object clearly.",
+        "Cover only part and wait.",
+        "Reveal together if wanted and allow repetition."
+      ],
+      "adultRole": "Keep the experience playful, not a memory test.",
+      "observe": "Looking, reaching and response to the reveal.",
+      "nextOpportunity": "Change how much remains visible only if comfortable.",
+      "safety": "Adult controls the cloth; never cover the child’s face or leave cloth in sleep space.",
+      "mode": "Early object play",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W018",
+      "ageBand": "B02",
+      "area": "arts",
+      "title": "Echo a sound idea",
+      "materials": "Familiar caregiver; quiet space",
+      "purpose": "Express a sound and hear it acknowledged.",
+      "steps": [
+        "Listen for a comfortable child sound.",
+        "Echo it gently.",
+        "Pause for a new response or a wish to stop."
+      ],
+      "adultRole": "Treat the exchange as expression, not pronunciation practice.",
+      "observe": "Initiation and changes in the exchange.",
+      "nextOpportunity": "Use the sound in a familiar song.",
+      "safety": "No loud repetition or pressure to vocalize.",
+      "mode": "Music and expression",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W019",
+      "ageBand": "B02",
+      "area": "arts",
+      "title": "Two large safe sensory choices",
+      "materials": "Two large inspected infant-safe objects with comfortable surfaces",
+      "purpose": "Choose a sensory experience and communicate preference.",
+      "steps": [
+        "Offer one object at a time, then a readable choice.",
+        "Notice a reach, look or other preference.",
+        "Honor the choice and allow exploration."
+      ],
+      "adultRole": "Aesthetic simplicity is not more important than access or interest.",
+      "observe": "Choice, sensory comfort and adult interpretation.",
+      "nextOpportunity": "Revisit the preferred material.",
+      "safety": "Natural materials are not automatically safe. No loose fibers, splinters, nuts, seeds, magnets, small batteries or detachable pieces.",
+      "mode": "Sensory expression",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W020",
+      "ageBand": "B02",
+      "area": "nature",
+      "title": "A familiar outdoor pause",
+      "materials": "Protected safe outdoor area; familiar adult",
+      "purpose": "Notice the local world through repeated safe visits.",
+      "steps": [
+        "Check conditions and access.",
+        "Pause near a safe familiar feature.",
+        "Follow interest in light, leaves at a distance or gentle sound."
+      ],
+      "adultRole": "Describe actual observations without requiring labels.",
+      "observe": "Comfort and the child’s noticed interest.",
+      "nextOpportunity": "Return to see what is similar.",
+      "safety": "Follow outdoor safety procedures; no direct sun, wildlife handling or unknown plant tasting.",
+      "mode": "Nature noticing",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W021",
+      "ageBand": "B03",
+      "area": "rhythm",
+      "title": "A predictable arrival invitation",
+      "materials": "Family-agreed greeting; known play choice",
+      "purpose": "Feel secure during a transition.",
+      "steps": [
+        "Receive family information.",
+        "Offer familiar connection and a known play option.",
+        "Stay responsive and note what helped."
+      ],
+      "adultRole": "Comfort remains available; calm is not a condition for entry.",
+      "observe": "Transition cues and helpful support.",
+      "nextOpportunity": "Keep the useful parts of the ritual.",
+      "safety": "Follow authorized handoff procedures; learning notes do not replace required records.",
+      "mode": "Daily rhythm",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W022",
+      "ageBand": "B03",
+      "area": "movement",
+      "title": "Carry a light useful object",
+      "materials": "Large light safe object; clear short route",
+      "purpose": "Coordinate movement for a real purpose.",
+      "steps": [
+        "Show a safe destination.",
+        "Invite carrying using an accessible method.",
+        "Support placing and returning."
+      ],
+      "adultRole": "Adjust weight, distance and grip to the child.",
+      "observe": "Balance, purpose and support.",
+      "nextOpportunity": "Offer another useful carry when wanted.",
+      "safety": "No heavy loads, stairs, fragile objects or speed pressure.",
+      "mode": "Purposeful movement",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W023",
+      "ageBand": "B03",
+      "area": "practical",
+      "title": "Wipe beside a familiar adult",
+      "materials": "Clean cloth; tiny safe spill on tray",
+      "purpose": "Participate in useful room care.",
+      "steps": [
+        "Notice the spill without blame.",
+        "Show one wiping action.",
+        "Let the child help and restore together."
+      ],
+      "adultRole": "Join real work without demanding perfection.",
+      "observe": "Chosen action and amount of help.",
+      "nextOpportunity": "Use the same routine again.",
+      "safety": "Adults handle chemicals, bodily fluids, broken glass and hazardous spills; dry floors promptly.",
+      "mode": "Imitation and work",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W024",
+      "ageBand": "B03",
+      "area": "practical",
+      "title": "Return cloths to a basket",
+      "materials": "Clean small cloths; stable open basket",
+      "purpose": "Explore a simple shared restoration sequence.",
+      "steps": [
+        "Fold or gather one cloth visibly.",
+        "Invite placing it in the basket.",
+        "Continue only while useful and welcome."
+      ],
+      "adultRole": "Accept the child’s own manageable action.",
+      "observe": "Imitation, purpose and completion with support.",
+      "nextOpportunity": "Invite one familiar care contribution.",
+      "safety": "No bags, cords, neck loops or fabric over faces; no loose cloth in infant sleep areas.",
+      "mode": "Imitation and work",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W025",
+      "ageBand": "B03",
+      "area": "oral",
+      "title": "A verse for putting away",
+      "materials": "Original short verse; familiar materials",
+      "purpose": "Make a transition readable through warm language.",
+      "steps": [
+        "Give a clear practical cue.",
+        "Offer the short phrase while putting one item away.",
+        "Pause and support one useful action."
+      ],
+      "adultRole": "The song accompanies support; it does not replace a clear request.",
+      "observe": "Comprehension and participation.",
+      "nextOpportunity": "Use the same phrase in the same situation.",
+      "safety": "No forced singing or withholding care until cleanup is complete.",
+      "mode": "Language in rhythm",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W026",
+      "ageBand": "B03",
+      "area": "oral",
+      "title": "A very short real-life story",
+      "materials": "One large safe familiar object; adult storyteller",
+      "purpose": "Share a meaningful event in simple language.",
+      "steps": [
+        "Name a familiar action, such as a cup being washed.",
+        "Tell two or three connected sentences.",
+        "Pause for the child’s gesture, sound or idea."
+      ],
+      "adultRole": "Follow meaning rather than asking recall questions.",
+      "observe": "Understanding shown in any form.",
+      "nextOpportunity": "Retell with a family word.",
+      "safety": "No small props, required sitting or forced performance.",
+      "mode": "Oral storytelling",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W027",
+      "ageBand": "B03",
+      "area": "play",
+      "title": "Caring for a simple doll",
+      "materials": "Large safe washable doll; open pretend-care space",
+      "purpose": "Represent a familiar care idea without a prescribed family role.",
+      "steps": [
+        "Offer the doll and notice the child’s action.",
+        "Join one caring action if invited.",
+        "Use family language and allow changes."
+      ],
+      "adultRole": "Children choose roles; all family structures belong.",
+      "observe": "Symbolic action, gentleness and the child’s meaning.",
+      "nextOpportunity": "Offer one safe family-suggested prop.",
+      "safety": "No detachable pieces, ties, long strings or unsafe sleep demonstrations; supervise props.",
+      "mode": "Early pretend play",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W028",
+      "ageBand": "B03",
+      "area": "arts",
+      "title": "Large crayon movements",
+      "materials": "Non-toxic large drawing tool; fixed paper",
+      "purpose": "Explore marks through voluntary movement.",
+      "steps": [
+        "Show safe tool use.",
+        "Offer a comfortable choice of marks.",
+        "Describe the process without naming a required picture."
+      ],
+      "adultRole": "The child owns the image and may stop.",
+      "observe": "Tool access and original choices.",
+      "nextOpportunity": "Offer another comfortable drawing surface.",
+      "safety": "Supervise mouthing and breakage risks; no small caps or loose pieces.",
+      "mode": "Drawing",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W029",
+      "ageBand": "B03",
+      "area": "arts",
+      "title": "A familiar song with chosen movement",
+      "materials": "Adult voice; clear safe space",
+      "purpose": "Express a musical response through comfortable movement or watching.",
+      "steps": [
+        "Sing a short familiar phrase.",
+        "Allow a self-chosen response.",
+        "Pause and follow the wish to continue or stop."
+      ],
+      "adultRole": "Offer seated, still, sign or visual participation.",
+      "observe": "Choice, engagement and comfort.",
+      "nextOpportunity": "Repeat a preferred song.",
+      "safety": "No forced standing, swinging, shaking or loud sound.",
+      "mode": "Song and movement",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W030",
+      "ageBand": "B03",
+      "area": "nature",
+      "title": "Watching one familiar plant",
+      "materials": "Safe non-toxic plant out of mouthing reach",
+      "purpose": "Notice a living thing over repeated visits.",
+      "steps": [
+        "Pause near the plant.",
+        "Describe a visible leaf or change.",
+        "Offer a real care action only if safe and appropriate."
+      ],
+      "adultRole": "Keep observation simple and concrete.",
+      "observe": "What the child notices or communicates.",
+      "nextOpportunity": "Return to the same plant.",
+      "safety": "Adult selects plants, checks allergies and controls soil/water/tools; no tasting unknown plants.",
+      "mode": "Nature care",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W031",
+      "ageBand": "B04",
+      "area": "rhythm",
+      "title": "A small repeated welcome",
+      "materials": "Familiar greeting; visual or real next-step cue",
+      "purpose": "Support a predictable but responsive start.",
+      "steps": [
+        "Welcome the child and family.",
+        "Name a familiar next choice.",
+        "Give processing time and help with transition."
+      ],
+      "adultRole": "Keep rhythm flexible when care or access needs change.",
+      "observe": "Useful cues and the child’s choice.",
+      "nextOpportunity": "Repeat what helped.",
+      "safety": "No required eye contact, hand holding, silence or immediate separation.",
+      "mode": "Daily rhythm",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W032",
+      "ageBand": "B04",
+      "area": "movement",
+      "title": "Walk a gentle imagined path",
+      "materials": "Clear accessible route; low safe markers",
+      "purpose": "Explore movement with an optional story image.",
+      "steps": [
+        "Describe a simple path around a pretend puddle.",
+        "Model an accessible safe action.",
+        "Let the child choose how to travel."
+      ],
+      "adultRole": "A seated or mobility-device route is equally valid.",
+      "observe": "Planning, enjoyment and needed support.",
+      "nextOpportunity": "Let the child move a safe marker.",
+      "safety": "No heights, speed races, blindfolding or unstable climbing.",
+      "mode": "Movement play",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W033",
+      "ageBand": "B04",
+      "area": "practical",
+      "title": "Brush crumbs into a pan",
+      "materials": "Child-sized safe brush and pan; safe dry debris",
+      "purpose": "Take part in purposeful cleanup.",
+      "steps": [
+        "Notice the real need.",
+        "Show one controlled sweep.",
+        "Help gather and restore the tools."
+      ],
+      "adultRole": "Work together without turning a mistake into shame.",
+      "observe": "Tool use, purpose and restoration.",
+      "nextOpportunity": "Offer the same task at a natural time.",
+      "safety": "Adults handle sharp, contaminated, chemical or hazardous debris.",
+      "mode": "Imitation and work",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W034",
+      "ageBand": "B04",
+      "area": "practical",
+      "title": "Prepare the bread-day table",
+      "materials": "Clean cloth; large safe bowl; adult-approved setup",
+      "purpose": "Participate in a real preparation routine.",
+      "steps": [
+        "Wash hands according to program procedure.",
+        "Invite carrying a safe bowl or placing a cloth.",
+        "Watch the adult’s next real step and help restore afterward."
+      ],
+      "adultRole": "The child need not handle dough, flour or heat to participate.",
+      "observe": "Useful action and understanding of the sequence.",
+      "nextOpportunity": "Repeat a comfortable role next time.",
+      "safety": "Adult manages recipe, allergies, raw flour/egg risks and all heat. No raw tasting or unsupervised food/tool access.",
+      "mode": "Food preparation rhythm",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W035",
+      "ageBand": "B04",
+      "area": "oral",
+      "title": "A short gesture rhyme",
+      "materials": "Original verse; optional adult gesture",
+      "purpose": "Enjoy repeated language and expressive choices.",
+      "steps": [
+        "Offer a short familiar phrase.",
+        "Add one comfortable gesture.",
+        "Accept a different response or watching."
+      ],
+      "adultRole": "Do not turn the verse into a copying test.",
+      "observe": "Communication and anticipation.",
+      "nextOpportunity": "Use a child-chosen word or gesture.",
+      "safety": "No compulsory circle participation, touch or physical manipulation.",
+      "mode": "Gesture verse",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W036",
+      "ageBand": "B04",
+      "area": "oral",
+      "title": "A tiny tabletop tale",
+      "materials": "Large adult-controlled safe figures; uncluttered surface",
+      "purpose": "Follow a short sequence through objects and language.",
+      "steps": [
+        "Introduce one character and a familiar action.",
+        "Tell a brief beginning and change.",
+        "End gently and allow the child’s own version afterward."
+      ],
+      "adultRole": "Use minimal props and language suited to actual access.",
+      "observe": "Story meaning and child-authored additions.",
+      "nextOpportunity": "Retell the same tale another day.",
+      "safety": "No small detachable props, strings, candles or frightening surprise effects.",
+      "mode": "Oral story play",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W037",
+      "ageBand": "B04",
+      "area": "play",
+      "title": "Two nearby pretend homes",
+      "materials": "Duplicate large safe props; accessible space",
+      "purpose": "Support parallel and emerging shared play without forced sharing.",
+      "steps": [
+        "Prepare enough usable materials.",
+        "Describe each child’s idea if helpful.",
+        "Support a request or boundary and allow separate play."
+      ],
+      "adultRole": "Togetherness is an invitation, not a developmental demand.",
+      "observe": "Peer interest, communication and support.",
+      "nextOpportunity": "Offer a joint action only if both want it.",
+      "safety": "No stereotypes or exclusion; adults stop harm and supervise props.",
+      "mode": "Pretend and peer play",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W038",
+      "ageBand": "B04",
+      "area": "arts",
+      "title": "Color across a big page",
+      "materials": "Non-toxic large crayons; fixed paper",
+      "purpose": "Make original expressive choices.",
+      "steps": [
+        "Show safe use and restoration.",
+        "Offer an accessible drawing position.",
+        "Let the child choose marks and whether to talk about them."
+      ],
+      "adultRole": "Avoid interpreting the picture as a diagnosis or a required scene.",
+      "observe": "Movement and the child’s own meaning.",
+      "nextOpportunity": "Keep a favored tool available.",
+      "safety": "Check mouthing/breakage risks and provide direct supervision.",
+      "mode": "Drawing",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W039",
+      "ageBand": "B04",
+      "area": "arts",
+      "title": "Modeling through pressing and rolling",
+      "materials": "Approved non-toxic modeling material; blunt safe tools if appropriate",
+      "purpose": "Explore a material through self-chosen action.",
+      "steps": [
+        "Offer only after reviewing sensory and mouthing access.",
+        "Show one optional press or roll.",
+        "Allow exploration, an alternative material or watching."
+      ],
+      "adultRole": "No required product or forced messy contact.",
+      "observe": "Hand action, preference and chosen form.",
+      "nextOpportunity": "Revisit a comfortable action.",
+      "safety": "Check ingredients, allergies and ingestion risks; do not use raw food dough as a tasting material. Select an alternative when mouthing makes this unsuitable.",
+      "mode": "Modeling",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W040",
+      "ageBand": "B04",
+      "area": "nature",
+      "title": "A short repeated nature route",
+      "materials": "Safe accessible outdoor route",
+      "purpose": "Notice local changes through familiarity.",
+      "steps": [
+        "Review conditions and boundaries.",
+        "Pause where the child notices something safe.",
+        "Use a simple description and revisit later."
+      ],
+      "adultRole": "The walk need not become a fact quiz.",
+      "observe": "Interest, movement and communication.",
+      "nextOpportunity": "Return to the same feature.",
+      "safety": "Follow weather/sun/air guidance; no unknown plant tasting, wildlife handling or collecting small hazardous objects.",
+      "mode": "Nature rhythm",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W041",
+      "ageBand": "B05",
+      "area": "rhythm",
+      "title": "Help the room begin and end",
+      "materials": "Familiar materials; accessible restoration places",
+      "purpose": "Participate in predictable useful routines with support.",
+      "steps": [
+        "Name a real beginning or ending task.",
+        "Demonstrate one manageable action.",
+        "Allow a contribution and help complete what remains."
+      ],
+      "adultRole": "Belonging and care do not depend on perfect cleanup.",
+      "observe": "Purpose, agency and actual support.",
+      "nextOpportunity": "Keep a meaningful helper role available.",
+      "safety": "No punishment chores, heavy loads or unsafe cleaning products.",
+      "mode": "Daily rhythm",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W042",
+      "ageBand": "B05",
+      "area": "movement",
+      "title": "A story-led movement invitation",
+      "materials": "Clear space; original short nature image",
+      "purpose": "Explore movement, imagination and space.",
+      "steps": [
+        "Offer a brief image such as walking around a fallen branch.",
+        "Show a safe optional movement.",
+        "Invite children’s own accessible responses."
+      ],
+      "adultRole": "Let children watch or choose another movement.",
+      "observe": "Body planning and expressive choices.",
+      "nextOpportunity": "Use a child’s idea in the next invitation.",
+      "safety": "No forced balance, blindfolds, heights or running into others.",
+      "mode": "Movement and imagination",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W043",
+      "ageBand": "B05",
+      "area": "practical",
+      "title": "Wash and fold a small cloth",
+      "materials": "Small basin; safe water amount; cloth; drying place",
+      "purpose": "Complete a purposeful care sequence with help.",
+      "steps": [
+        "Prepare a safe clean work area.",
+        "Wash or rinse the cloth and fold when appropriate.",
+        "Restore materials and observe the real result."
+      ],
+      "adultRole": "Model slowly, then offer only needed help.",
+      "observe": "Sequence, water control and restoration.",
+      "nextOpportunity": "Repeat the same useful work.",
+      "safety": "Adult checks hygiene; no disinfectants or hot water. Empty water and dry floors promptly.",
+      "mode": "Purposeful work",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W044",
+      "ageBand": "B05",
+      "area": "practical",
+      "title": "Set a simple snack place",
+      "materials": "Approved clean cups/plates; safe table",
+      "purpose": "Use practical sequence and real quantity in shared care.",
+      "steps": [
+        "Identify who needs a place.",
+        "Match one appropriate item to each person.",
+        "Check together and help restore after the meal."
+      ],
+      "adultRole": "Let the useful task carry counting and language naturally.",
+      "observe": "Matching, sequence and support.",
+      "nextOpportunity": "Adjust a real group size when meaningful.",
+      "safety": "Follow food/allergy/hygiene procedures and use safe nonfragile items.",
+      "mode": "Practical mathematics",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W045",
+      "ageBand": "B05",
+      "area": "oral",
+      "title": "A repeated short nature tale",
+      "materials": "Original age-appropriate story; optional large safe props",
+      "purpose": "Build meaning and anticipation through oral storytelling.",
+      "steps": [
+        "Tell a short gentle story clearly.",
+        "Retell across days if interest remains.",
+        "Invite voluntary retelling, movement or a new ending."
+      ],
+      "adultRole": "Keep rich oral language without constant recall questions.",
+      "observe": "Understanding and child-created meaning.",
+      "nextOpportunity": "Revisit a child’s question in later play.",
+      "safety": "No frightening coercive tales, forced performance, small props or real flames.",
+      "mode": "Oral storytelling",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W046",
+      "ageBand": "B05",
+      "area": "oral",
+      "title": "A verse for a real transition",
+      "materials": "Short original verse; practical cue",
+      "purpose": "Make a familiar transition readable through rhythm.",
+      "steps": [
+        "Tell children the actual next step.",
+        "Use the verse while modeling one useful action.",
+        "Pause and support access or strong feelings."
+      ],
+      "adultRole": "Language and predictable help work together.",
+      "observe": "Which cue helped and what support was needed.",
+      "nextOpportunity": "Keep the useful phrase and adapt when it stops helping.",
+      "safety": "Do not require singing, silence, hand holding or completion before food/comfort.",
+      "mode": "Language in rhythm",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W047",
+      "ageBand": "B05",
+      "area": "play",
+      "title": "A cloth becomes a landscape",
+      "materials": "Large safe cloths; large blocks; open space",
+      "purpose": "Support symbolic ideas and child-owned stories.",
+      "steps": [
+        "Offer a few safe open-ended materials.",
+        "Notice what the child decides they represent.",
+        "Join a role only if invited and allow the story to change."
+      ],
+      "adultRole": "Do not supply the one correct imaginative use.",
+      "observe": "Representation, language and collaboration.",
+      "nextOpportunity": "Offer a drawing surface if the story needs a sign.",
+      "safety": "Supervise large cloths; no face covering, body tying, neck loops, enclosed entrapment or shared access by infants.",
+      "mode": "Imaginative play",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W048",
+      "ageBand": "B05",
+      "area": "arts",
+      "title": "A first wet-on-wet color exploration",
+      "materials": "Non-toxic watercolor; damp sturdy paper; stable shallow water; brush",
+      "purpose": "Explore how color moves without a copied picture.",
+      "steps": [
+        "Prepare a safe manageable painting setup.",
+        "Show brush care and offer one or two colors.",
+        "Let the child explore and decide when finished."
+      ],
+      "adultRole": "The process matters; naming or producing a scene is optional.",
+      "observe": "Choices, movement and noticed changes.",
+      "nextOpportunity": "Revisit the same setup or add a color if useful.",
+      "safety": "Check ingredients, mouthing and water risk. No paint tasting, hot water or unattended containers.",
+      "mode": "Watercolor",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W049",
+      "ageBand": "B05",
+      "area": "arts",
+      "title": "Wax-crayon lines and color",
+      "materials": "Approved non-toxic large wax crayons; paper",
+      "purpose": "Make expressive marks with comfortable control.",
+      "steps": [
+        "Show safe handling and restoration.",
+        "Offer large accessible movement space.",
+        "Invite original marks without requiring an outline to fill."
+      ],
+      "adultRole": "Respect the child’s meaning and preferred grip/access.",
+      "observe": "Pressure, movement and chosen patterns.",
+      "nextOpportunity": "Offer another paper size or adapted tool.",
+      "safety": "No heating wax or crayons. Check allergies, breakage and mouthing risks.",
+      "mode": "Drawing",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W050",
+      "ageBand": "B05",
+      "area": "nature",
+      "title": "Care for one real plant",
+      "materials": "Non-toxic plant; safe small watering container; reference care information",
+      "purpose": "Link noticing with appropriate care.",
+      "steps": [
+        "Observe the actual plant.",
+        "Determine needed care with adult guidance.",
+        "Provide a manageable action and revisit changes."
+      ],
+      "adultRole": "Do not water simply to create an activity when the plant does not need it.",
+      "observe": "Observation and a real care decision.",
+      "nextOpportunity": "Draw or describe a visible change.",
+      "safety": "Check species, allergies and hygiene; no unknown plant/soil ingestion or hazardous tools.",
+      "mode": "Nature care",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W051",
+      "ageBand": "B06",
+      "area": "rhythm",
+      "title": "Choose a useful weekly helper role",
+      "materials": "Real safe classroom tasks; visual choices if useful",
+      "purpose": "Contribute to a familiar community rhythm without fixed social roles.",
+      "steps": [
+        "Offer meaningful safe roles.",
+        "Let the child choose or decline a role.",
+        "Review whether the help actually served the group."
+      ],
+      "adultRole": "No role assignments based on gender, language or ability.",
+      "observe": "Agency, purpose and needed support.",
+      "nextOpportunity": "Adapt a role to improve access.",
+      "safety": "Adults retain health/safety duties; children do not handle cleaners, hazards or another child’s private care.",
+      "mode": "Community rhythm",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W052",
+      "ageBand": "B06",
+      "area": "movement",
+      "title": "Create an inclusive movement verse",
+      "materials": "Clear accessible space; a short original verse",
+      "purpose": "Connect language, imagination and self-chosen movement.",
+      "steps": [
+        "Offer a few story images.",
+        "Invite children to suggest safe movements or visual/sign roles.",
+        "Try a short sequence and change what excludes someone."
+      ],
+      "adultRole": "Keep expressive choice instead of exact synchronization.",
+      "observe": "Participation and inclusive revisions.",
+      "nextOpportunity": "Use a willing child’s idea next time.",
+      "safety": "No forced touch, exertion, performance or movement against individual plans.",
+      "mode": "Movement and verse",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W053",
+      "ageBand": "B06",
+      "area": "practical",
+      "title": "Bread-day kneading with adult safeguards",
+      "materials": "Program-approved dough; clean surface; trained adult",
+      "purpose": "Join a useful food process through a reviewed manageable action.",
+      "steps": [
+        "Check permissions, allergy/mouthing needs and food procedures.",
+        "Offer a small supervised kneading or a nonfood preparation role.",
+        "Let the adult handle baking and review the useful result together."
+      ],
+      "adultRole": "Imitation is an invitation; an alternative role belongs equally.",
+      "observe": "Sequence, hand action and support.",
+      "nextOpportunity": "Repeat a comfortable role or measure an approved ingredient.",
+      "safety": "No raw dough/flour/egg tasting or dust play. Adults manage recipe, temperature, oven and all heat; follow food safety and allergy plans.",
+      "mode": "Purposeful food work",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W054",
+      "ageBand": "B06",
+      "area": "practical",
+      "title": "Sweep and restore a shared area",
+      "materials": "Child-sized brush/pan; safe dry area",
+      "purpose": "Care for a shared place through a complete sequence.",
+      "steps": [
+        "Notice a real manageable need.",
+        "Demonstrate gathering and collecting.",
+        "Check the result and restore tools."
+      ],
+      "adultRole": "Describe the real result without shaming mistakes.",
+      "observe": "Strategy, tool control and restoration.",
+      "nextOpportunity": "Invite a child-chosen care task.",
+      "safety": "Adults handle hazardous, sharp, contaminated or chemical messes.",
+      "mode": "Purposeful work",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W055",
+      "ageBand": "B06",
+      "area": "oral",
+      "title": "A tabletop story with child retelling",
+      "materials": "Original gentle story; large safe adult-reviewed props",
+      "purpose": "Represent story meaning through chosen language and action.",
+      "steps": [
+        "Tell a short story without testing.",
+        "Revisit it across days when wanted.",
+        "Invite children to retell, change or enact a part voluntarily."
+      ],
+      "adultRole": "Use home-language vocabulary and accessible roles.",
+      "observe": "Sequence, meaning and child authorship.",
+      "nextOpportunity": "Document a child’s invented ending with permission.",
+      "safety": "No small detachable props, candles, costume ties or frightening effects.",
+      "mode": "Story and puppetry",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W056",
+      "ageBand": "B06",
+      "area": "oral",
+      "title": "A useful message in imaginative play",
+      "materials": "Paper; adapted drawing/writing tools; optional adult scribe",
+      "purpose": "Connect rich oral language with meaningful print when useful.",
+      "steps": [
+        "Notice a real message the play needs.",
+        "Offer drawing, dictation, symbols or emerging spelling.",
+        "Read or communicate it back and check the intended meaning."
+      ],
+      "adultRole": "Do not delay a useful literacy invitation because of a philosophical age rule.",
+      "observe": "Purpose, sound/symbol use where relevant and actual support.",
+      "nextOpportunity": "Invite an audience response.",
+      "safety": "Respect the language/writing system and individual access; no required copying rows or public comparison.",
+      "mode": "Language and emerging literacy",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W057",
+      "ageBand": "B06",
+      "area": "play",
+      "title": "A long-lived pretend setting",
+      "materials": "Open-ended large safe props; construction space",
+      "purpose": "Sustain a child-owned setting and negotiate accessible roles.",
+      "steps": [
+        "Ask children what they are creating.",
+        "Support roles, boundaries and enough usable materials.",
+        "Keep the work available and allow revisions."
+      ],
+      "adultRole": "Ensure consent and safety without directing the whole plot.",
+      "observe": "Collaboration, flexibility and story development.",
+      "nextOpportunity": "Offer a useful tool only if the idea calls for it.",
+      "safety": "Adults stop exclusion or harm; avoid stereotypes and unsafe enclosures/cloth ties.",
+      "mode": "Imaginative peer play",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W058",
+      "ageBand": "B06",
+      "area": "arts",
+      "title": "A color experience revisited",
+      "materials": "Safe watercolor setup; damp paper; child-chosen safe colors",
+      "purpose": "Notice and express changes through repeated art experience.",
+      "steps": [
+        "Prepare and demonstrate safe care of materials.",
+        "Let children choose marks and observe color movement.",
+        "Revisit later without requiring matching paintings."
+      ],
+      "adultRole": "No interpretation of color choice as personality or diagnosis.",
+      "observe": "Intentional choices and what the child notices.",
+      "nextOpportunity": "Offer another medium or retain the favored one.",
+      "safety": "Use non-toxic materials and reviewed water access; no tasting or unsafe pigments.",
+      "mode": "Watercolor",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W059",
+      "ageBand": "B06",
+      "area": "arts",
+      "title": "Wind a short strand or weave paper",
+      "materials": "Short adult-reviewed strand with large stable former, or wide paper strips",
+      "purpose": "Explore a repeated handwork action with a meaningful choice.",
+      "steps": [
+        "Review the safe accessible setup.",
+        "Show one wrap or over/under action.",
+        "Allow a short sequence and restore materials."
+      ],
+      "adultRole": "The child may choose the paper alternative or another fine-movement route.",
+      "observe": "Coordination, pattern and support.",
+      "nextOpportunity": "Repeat or change the design at the child’s request.",
+      "safety": "Direct adult supervision of strands; no wearable loops, neck ties, long cords or loose access for younger children. Prefer paper when strand risk is unsuitable.",
+      "mode": "Handwork",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W060",
+      "ageBand": "B06",
+      "area": "nature",
+      "title": "A local seasonal observation place",
+      "materials": "Safe familiar outdoor place; drawing materials",
+      "purpose": "Notice real local change rather than a fixed seasonal script.",
+      "steps": [
+        "Revisit the same accessible place.",
+        "Record an actual feature through drawing, words or another form.",
+        "Compare records and keep uncertainty visible."
+      ],
+      "adultRole": "A warm climate does not need an invented snowy winter theme.",
+      "observe": "Observation versus assumption and repeated interest.",
+      "nextOpportunity": "Choose a real care action if useful.",
+      "safety": "Review outdoor conditions and plants/animals; no collecting unknown hazardous objects or disturbing wildlife.",
+      "mode": "Nature inquiry",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W061",
+      "ageBand": "B07",
+      "area": "rhythm",
+      "title": "Plan a rhythm that includes everyone",
+      "materials": "Known daily sequence; child voices; accessible representations",
+      "purpose": "Participate in useful shared planning while adults retain care responsibility.",
+      "steps": [
+        "Discuss a manageable part of the day.",
+        "Hear different access and support needs.",
+        "Try a practical adjustment and review its effect."
+      ],
+      "adultRole": "No child must earn food, rest, help or belonging by fitting a rhythm.",
+      "observe": "Perspective taking and the adjustment’s usefulness.",
+      "nextOpportunity": "Revise one part after actual experience.",
+      "safety": "Required care and approved health/safety procedures remain adult duties.",
+      "mode": "Community rhythm",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W062",
+      "ageBand": "B07",
+      "area": "movement",
+      "title": "A cooperative outdoor journey game",
+      "materials": "Safe accessible route; optional story images",
+      "purpose": "Coordinate movement and shared ideas without exclusion.",
+      "steps": [
+        "Plan boundaries and accessible choices.",
+        "Invite children to create a short journey sequence.",
+        "Try and adapt the game so everyone can participate."
+      ],
+      "adultRole": "Value varied movement and communication, not speed or elimination.",
+      "observe": "Planning, access and cooperative revisions.",
+      "nextOpportunity": "Let a different child contribute a next route.",
+      "safety": "Follow weather/mobility plans; no risky heights, blindfolding or forced physical contact.",
+      "mode": "Movement and imagination",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W063",
+      "ageBand": "B07",
+      "area": "practical",
+      "title": "Measure for a real making task",
+      "materials": "Safe practical project; consistent large units or suitable blunt measuring tool",
+      "purpose": "Use number, comparison and measurement for a real purpose.",
+      "steps": [
+        "Identify what must fit or be shared.",
+        "Model a needed measuring/counting strategy.",
+        "Apply the result and check whether it works."
+      ],
+      "adultRole": "Teach the mathematical tool clearly when useful; play and practical work do not replace instruction.",
+      "observe": "Strategy, units, quantity meaning and checking.",
+      "nextOpportunity": "Try a related manageable problem.",
+      "safety": "Adult reviews tools and materials; no sharp, hot or chemical processes outside an approved supervised setup.",
+      "mode": "Practical mathematics",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W064",
+      "ageBand": "B07",
+      "area": "practical",
+      "title": "Prepare and share approved food",
+      "materials": "Approved ingredients/tools; handwashing access; trained adult",
+      "purpose": "Carry out a useful preparation sequence with access and health safeguards.",
+      "steps": [
+        "Plan a safe role and review individual needs.",
+        "Model a selected preparation action.",
+        "Serve appropriately and restore the space together."
+      ],
+      "adultRole": "Include nonfood roles and respect family practices.",
+      "observe": "Sequence, hygiene participation and needed support.",
+      "nextOpportunity": "Revise one step for better access.",
+      "safety": "Adults manage heat, food safety, allergies, choking risks and dangerous tools. No raw tasting or compulsory participation.",
+      "mode": "Purposeful work",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W065",
+      "ageBand": "B07",
+      "area": "oral",
+      "title": "An original story becomes a child’s book",
+      "materials": "Child ideas; paper; writing/drawing tools; optional scribe/AAC",
+      "purpose": "Communicate an authored story through an accessible form.",
+      "steps": [
+        "Invite a child-chosen event or imagined story.",
+        "Support a beginning/change/ending without taking over.",
+        "Record, reread and revise to match the child’s intended meaning."
+      ],
+      "adultRole": "Oral tradition and purposeful literacy can support one another.",
+      "observe": "Authorship, sequence, language and support.",
+      "nextOpportunity": "Offer a real willing audience.",
+      "safety": "Protect privacy and cultural ownership; do not force disclosure or interpret a story as a diagnosis.",
+      "mode": "Storytelling and writing",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W066",
+      "ageBand": "B07",
+      "area": "oral",
+      "title": "Read a meaningful play message",
+      "materials": "Checked text with taught sound-spelling patterns; adult support",
+      "purpose": "Use suitable explicit reading support in a real context.",
+      "steps": [
+        "Confirm the text is accessible through known/taught patterns.",
+        "Model or support decoding rather than picture guessing.",
+        "Read the message and discuss what it means for the play."
+      ],
+      "adultRole": "Coordinate with the child’s school and individual plan; do not delay needed instruction until age seven or tooth changes.",
+      "observe": "Decoding, meaning and adult support separately.",
+      "nextOpportunity": "Revisit a suitable pattern in another meaningful text.",
+      "safety": "Respect language and disability access. No timed ranking or exclusion from support based on philosophy.",
+      "mode": "Purposeful literacy",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W067",
+      "ageBand": "B07",
+      "area": "play",
+      "title": "Build a shared imaginative project",
+      "materials": "Safe construction and pretend materials; work-in-progress area",
+      "purpose": "Develop a collaborative idea with real child agency.",
+      "steps": [
+        "Hear each willing participant’s idea.",
+        "Support accessible roles and safe construction.",
+        "Revisit and revise based on the children’s purposes."
+      ],
+      "adultRole": "Let children change direction; protect consent and boundaries.",
+      "observe": "Planning, social support and revision.",
+      "nextOpportunity": "Document the child’s explanation if desired.",
+      "safety": "Avoid unstable overhead structures, entrapment and exclusion; adults stop harm.",
+      "mode": "Imaginative project play",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W068",
+      "ageBand": "B07",
+      "area": "arts",
+      "title": "Create and revise an expressive work",
+      "materials": "Safe chosen art media; storage for work in progress",
+      "purpose": "Sustain an original expression across time.",
+      "steps": [
+        "Invite a child-chosen purpose.",
+        "Offer safe technique support without supplying a required model.",
+        "Let the child decide what to revise and whether to share."
+      ],
+      "adultRole": "No art product proves readiness, temperament or intelligence.",
+      "observe": "Intent, material choices and change over time.",
+      "nextOpportunity": "Explore another medium if wanted.",
+      "safety": "Use non-toxic accessible materials; no heated wax, solvents, dusty pigments or unsafe tools.",
+      "mode": "Arts",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W069",
+      "ageBand": "B07",
+      "area": "arts",
+      "title": "Simple paper weaving or short-strand braiding",
+      "materials": "Wide paper strips or short reviewed strands; safe support surface",
+      "purpose": "Explore a repeated handwork relationship and chosen pattern.",
+      "steps": [
+        "Show one over/under or crossing action.",
+        "Support a short chosen sequence.",
+        "Check the pattern and restore all materials."
+      ],
+      "adultRole": "Handwork is an invitation, not a readiness test for school.",
+      "observe": "Sequence, coordination, preference and help seeking.",
+      "nextOpportunity": "Use the result in a child-chosen project.",
+      "safety": "Direct adult supervision of strands; no wearable loops, neck ties or long cords. No sharp needles; choose paper/adapted tools when safer.",
+      "mode": "Handwork",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    },
+    {
+      "id": "W070",
+      "ageBand": "B07",
+      "area": "nature",
+      "title": "A real place to care for and describe",
+      "materials": "Safe local outdoor space; appropriate child-safe care tools; reliable reference",
+      "purpose": "Connect observation, practical care and community responsibility.",
+      "steps": [
+        "Observe a real need and hear children’s ideas.",
+        "Verify a safe useful response with adult guidance.",
+        "Carry it out and record what actually changed."
+      ],
+      "adultRole": "Respect living things and distinguish evidence from story imagination.",
+      "observe": "Observation, purpose and whether the care helped.",
+      "nextOpportunity": "Share a factual finding through drawing, writing or another accessible form.",
+      "safety": "No pesticides, sharp pruning, unknown fungi/plants, animal waste or wildlife disturbance. Follow local outdoor and hygiene procedures.",
+      "mode": "Nature and community",
+      "inclusion": "Use home languages, signs, visual cues, adapted movement/tools and sufficient processing time. Watching or another comfortable response is participation; do not force touch, speech, singing or performance.",
+      "familyConnection": "Share one actual strength or preference and ask what the family notices at home. Any suggested home connection is optional and needs no purchase."
+    }
+  ]
+}
