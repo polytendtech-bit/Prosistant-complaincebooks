@@ -1,0 +1,12 @@
+{
+  "play_curriculum_pdf_pages": 28,
+  "curriculum_sections": 28,
+  "sample_age_pathways": 7,
+  "sample_week_entries": 35,
+  "all_activity_links_match_age_pathway": true,
+  "word_file_opened_successfully": true,
+  "markdown_curriculum_created": true,
+  "existing_application_unchanged": true,
+  "existing_application_sha256": "c01b1d7e0977fc3c89ab8e6a6157ceea1bd540b113e0750260faea537d20c08e",
+  "existing_technical_checks_retained": 30
+}

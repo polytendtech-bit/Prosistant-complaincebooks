@@ -2,11 +2,15 @@
 
 An **original play-based, whole-child curriculum draft**, with responsive caregiving for infants/toddlers and guided play, inquiry and intentional teaching for older children. The final pathway includes 5- and 6-year-olds, through 83 months.
 
+## Play-focused curriculum edition
+
+Start with [Play_Based_Curriculum_Birth_to_Six.pdf](Play_Based_Curriculum_Birth_to_Six.pdf), its editable Word version, or the [complete readable curriculum](Play_Based_Curriculum_Birth_to_Six.md). This 28-page guide explains the play approach, seven age pathways, classroom spaces, adult interaction, seven sample five-day menus, observation and play-planning forms. Its 35 daily menu entries link to real age-appropriate plans in the 98-activity library. Menus are flexible invitations, not daily performance requirements.
+
 ## Start here
 
 Download and extract `Early_Learning_Curriculum_Birth_to_Six.zip` from the repository.
 
-- Read **Birth_to_Six_Curriculum_Guide.pdf** for the center-wide organization and implementation approach.
+- Read **Play_Based_Curriculum_Birth_to_Six.pdf** first. The earlier **Birth_to_Six_Curriculum_Guide.pdf** remains a companion for center-wide implementation and research context.
 - Use **Activity_Plan_Library_98.pdf** for individual learning invitations.
 - Open **Early_Learning_Curriculum_and_Records.html** in a current browser for planning and records. No installation, account or server is needed. GitHub displays HTML source, so download the file before using it.
 
@@ -50,6 +54,7 @@ The 48-slot map uses twelve flexible inquiry connections, each with four plannin
 
 | File | Use |
 | --- | --- |
+| `Play_Based_Curriculum_Birth_to_Six.pdf` / `.docx` / `.md` | 28-page play-focused curriculum; editable and readable alternatives |
 | `Birth_to_Six_Curriculum_Guide.pdf` / `.docx` | 26-page PDF guide; editable Word version |
 | `Activity_Plan_Library_98.pdf` / `.docx` | 98 one-page activity plans; editable Word version |
 | `Printable_Planning_and_Observation_Forms.pdf` / `.docx` | Six paper forms for profiles, plans, observations, team review and family conversation |
@@ -89,6 +94,6 @@ Needed care, safe sleep, feeding, comfort, supervision and individual plans alwa
 
 The application has no runtime package dependencies. For development, tests use Python, Playwright and Chromium at `/usr/bin/chromium`. From this directory, start an internal server with `python -m http.server 8793 --bind 127.0.0.1`, then run `python tests/test_browser.py` and `python tests/test_pathways.py` in another terminal. These use isolated fictional records and do not access the classroom’s actual browser data.
 
-Use `python source/build_app.py` after editing the canonical JSON/template. `python source/build_documents.py` rebuilds the PDF, Word and CSV materials using ReportLab, python-docx and DejaVu fonts at `/usr/share/fonts/truetype/dejavu`. Editing a CSV/JSON alone does not change an already-built HTML file. Custom activities added inside the app are included in backups.
+Use `python source/build_app.py` after editing the canonical JSON/template. `python source/build_documents.py` rebuilds the PDF, Word and CSV materials using ReportLab, python-docx and DejaVu fonts at `/usr/share/fonts/truetype/dejavu`. Build the play-focused PDF, Word and Markdown curriculum with `python source/build_play_based_guide.py`. Editing a CSV/JSON alone does not change an already-built HTML file. Custom activities added inside the app are included in backups.
 
 The cloud browser blocks direct `file:` URLs, so that mode was not verified there. Functional tests use internal HTTP and an intercepted standalone document with networking disabled. The app needs no server or separate files at runtime. Technical tests do not establish developmental validity, professional endorsement, current-source verification or regulatory compliance.

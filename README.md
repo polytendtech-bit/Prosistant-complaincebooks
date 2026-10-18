@@ -1,10 +1,10 @@
 # Prosistant child-care staff practice books
 
-## Early Learning Curriculum — birth through age six
+## Play-based Early Learning Curriculum — birth through age six
 
-[Download the complete curriculum and planning system](tools/Early_Learning_Curriculum_Birth_to_Six.zip) · [Read the curriculum guide](tools/early-learning-0-6/Birth_to_Six_Curriculum_Guide.pdf) · [Quick start and research status](tools/early-learning-0-6/README.md)
+[Download the play-based curriculum package](tools/Play_Based_Curriculum_Birth_to_Six.zip) · [Read the curriculum guide](tools/early-learning-0-6/Play_Based_Curriculum_Birth_to_Six.pdf) · [Quick start and research status](tools/early-learning-0-6/README.md)
 
-An original play-based, whole-child draft with seven pathways, 98 activity plans, a flexible 48-slot inquiry map, editable Word materials, printable forms and a separate browser-based planning/observation tool. The final pathway covers 5- and 6-year-olds. Live research was blocked by proxy errors; a national popularity ranking and current source verification remain incomplete. Earlier Montessori and compliance resources remain available below.
+An original play-based, whole-child draft with a 28-page play-focused guide, seven sample weekly menus, seven age pathways, 98 activity plans, a flexible 48-slot inquiry map, editable Word materials, printable forms and a separate browser-based planning/observation tool. The final pathway covers 5- and 6-year-olds. Live research was blocked by proxy errors; a national popularity ranking and current source verification remain incomplete. Earlier Montessori and compliance resources remain available below.
 
 ## Montessori planning and records — ages 3–6
 

@@ -1,6 +1,6 @@
 {
   "title": "Growing Together — Early Learning Curriculum, birth through age six",
-  "version": "1.0 original draft",
+  "version": "1.1 play-focused curriculum edition",
   "approach": "Play-based, whole-child; responsive care and intentional teaching/inquiry",
   "age_scope": "Birth through age six; final pathway 60–83 months",
   "age_pathways": 7,
@@ -59,6 +59,21 @@
       "sha256": "39be38ded50ecb8c81537d3e4e0cf3fba417f2695a61b942ae7c7d1cfee280d9"
     },
     {
+      "path": "Play_Based_Curriculum_Birth_to_Six.docx",
+      "bytes": 50934,
+      "sha256": "fa83789ad0c65903c723c14636c7f6b8ceb4866698f5ae76f4c57d0502cc4d4e"
+    },
+    {
+      "path": "Play_Based_Curriculum_Birth_to_Six.md",
+      "bytes": 43273,
+      "sha256": "7e711bd6e414a92a0201a07ecf52898a713c33853b8a76d1922027ada8c09359"
+    },
+    {
+      "path": "Play_Based_Curriculum_Birth_to_Six.pdf",
+      "bytes": 121187,
+      "sha256": "2def2c7cff60b575e1cf21c9533452f4f27355071393aa8ae398d2aa37a2d4d7"
+    },
+    {
       "path": "Printable_Planning_and_Observation_Forms.docx",
       "bytes": 38242,
       "sha256": "d0fb602e36328275460ed56eaf755d0b62c21d35a7c9eaebf57dcdda0314d8c2"
@@ -70,8 +85,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 8542,
-      "sha256": "32b21ecd348de7be48da5e76b51a831c14bd5b0da0a2c2729ed39189a8254714"
+      "bytes": 9415,
+      "sha256": "55f041e73cb92a24aba1fa3c0fb174d75d87aaaf0e572867f5533ecde45b5312"
     },
     {
       "path": "curriculum.json",
@@ -84,9 +99,19 @@
       "sha256": "29be2be2babb67c5d970d1f51a843ac1f35317764cdbb00e8f335a10bb11b0a9"
     },
     {
+      "path": "play_curriculum_validation.json",
+      "bytes": 439,
+      "sha256": "d51c95f3836a7923f3fa209bc407284738c4a9ba6cd81fa916364d4f0e3c2c12"
+    },
+    {
       "path": "source/GUIDE_CONTENT.json",
       "bytes": 67714,
       "sha256": "77e0edac5bda386f629f85134748e7a5748288f447ad1cf9b4fd95f9b6f9ed7d"
+    },
+    {
+      "path": "source/PLAY_BASED_GUIDE_CONTENT.json",
+      "bytes": 68819,
+      "sha256": "414a6e1e506ae7923d219e2625838b4ec3fb48c625f8a2784361f743233d0038"
     },
     {
       "path": "source/RESEARCH_ATTEMPTS.json",
@@ -114,6 +139,16 @@
       "sha256": "ca04b537e63111c78ab0b87dc409376a9d1a3f35356c335119d4740404f2ef13"
     },
     {
+      "path": "source/build_play_based_guide.py",
+      "bytes": 33107,
+      "sha256": "2acea5b800b13574b4669591ab8138819c8bc650a84ba898b25ab909da4c6824"
+    },
+    {
+      "path": "source/document_renderer.py",
+      "bytes": 3571,
+      "sha256": "9e9141a59d41ae50e3d932266fd317d97f8d12f1cecb1ad5b40986ce6205204b"
+    },
+    {
       "path": "tests/test_browser.py",
       "bytes": 10836,
       "sha256": "1e8821c4ad82aedf34bffd21a77c30a587ca087bcc9a48d52e705d5e7afcdb71"
@@ -128,5 +163,9 @@
       "bytes": 1461,
       "sha256": "1c5876e9246ede9eb3464bb3624ddfbe9349f07f8e3bdeb927787db5a94e1223"
     }
-  ]
+  ],
+  "play_focused_guide_pages": 28,
+  "sample_weekly_menus": 7,
+  "age_matched_daily_menu_entries": 35,
+  "application_changed_in_play_edition": false
 }
