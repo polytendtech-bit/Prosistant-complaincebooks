@@ -1,0 +1,1678 @@
+{
+  "pages": [
+    {
+      "title": "Growing Together",
+      "blocks": [
+        [
+          "p",
+          "An original childcare-center learning curriculum from birth through age six. The final pathway includes 5- and 6-year-olds, through 83 months."
+        ],
+        [
+          "h",
+          "A whole-child, play-based organization"
+        ],
+        [
+          "p",
+          "Warm relationships and responsive care are the foundation. Infants learn through everyday interaction, safe movement and care. Toddlers explore concrete materials and familiar routines. Older children combine sustained play and inquiry with meaningful explicit teaching. Children can participate through movement, gesture, speech, signs, augmentative communication, observation and adapted action."
+        ],
+        [
+          "h",
+          "What is included"
+        ],
+        [
+          "p",
+          "Seven age pathways; seven connected learning areas; 98 original activity plans; twelve inquiry connections organized into 48 flexible planning slots; daily flow examples; planning and observation forms; and a self-contained browser tool. Four additional weeks of a 52-week calendar remain available for closures, transitions, repetition or local priorities."
+        ],
+        [
+          "h",
+          "Research status — read before implementation"
+        ],
+        [
+          "p",
+          "The request was to use popular U.S. curricula as a research starting point. Live search and all ten reference requests were blocked by the environment’s network proxy, including public government, professional and publisher sites. A current nationwide popularity ranking and current primary-source review were not verified. This is an original professional draft based on general established early-childhood knowledge, not a completed live literature review."
+        ],
+        [
+          "p",
+          "The Creative Curriculum, HighScope and Frog Street are recognizable curriculum families for later comparison. No market-share numbers, ranking, endorsement or claim that this resource reproduces any of them is made."
+        ],
+        [
+          "small",
+          "Edition 1.0 · Prepared for review on 2026-10-17 · Local standards, health procedures, individualized plans and trained staff review remain part of implementation."
+        ]
+      ]
+    },
+    {
+      "title": "Why this teaching approach",
+      "blocks": [
+        [
+          "p",
+          "The curriculum uses a play-based, whole-child structure because it can organize a full childcare day across infancy, toddlerhood, preschool and the kindergarten years. Responsive interaction, intentional teaching and child-led inquiry are complementary teaching moves. No one move is suitable for every purpose or age."
+        ],
+        [
+          "table",
+          [
+            "Reference family / approach",
+            "Broad organizing idea",
+            "How this original draft uses the idea"
+          ],
+          [
+            [
+              "The Creative Curriculum",
+              "Comprehensive whole-child curriculum family. Current product details were not retrieved.",
+              "Keep learning areas, routines, environment and assessment connected without copying commercial lessons."
+            ],
+            [
+              "HighScope",
+              "Active participatory learning and intentional adult support. Current source not retrieved.",
+              "Offer choice, meaningful action and reflection at an accessible level."
+            ],
+            [
+              "Frog Street",
+              "Recognizable early-childhood curriculum family. Current source not retrieved.",
+              "Use a coherent center-wide organization while retaining child/family responsiveness."
+            ],
+            [
+              "Inquiry / project learning",
+              "Questions can develop through revisiting materials, evidence and representation.",
+              "Use flexible inquiry connections for older children; do not impose projects on infants."
+            ],
+            [
+              "Responsive, developmentally appropriate teaching",
+              "Individual, family and contextual knowledge inform interaction. Reference routes not retrieved.",
+              "Adjust to cues, strengths, access, home languages and care needs rather than age-only tasks."
+            ]
+          ],
+          [
+            115,
+            170,
+            215
+          ]
+        ],
+        [
+          "p",
+          "These are descriptive comparisons, not a popularity table or a verified product evaluation. The resource is original and is not licensed, affiliated with or endorsed by the named programs. A later source-based review should compare age coverage, evidence, training, family access, adaptations, cost and observation methods before a center purchases a commercial curriculum."
+        ]
+      ]
+    },
+    {
+      "title": "The teaching commitments",
+      "blocks": [
+        [
+          "h",
+          "Connect before directing"
+        ],
+        [
+          "p",
+          "Know the child and the family. Learn the names, languages, communication forms, comfort preferences and supports that make participation possible. An adult’s availability and predictable response are learning conditions, not rewards."
+        ],
+        [
+          "h",
+          "Protect care, movement and sustained play"
+        ],
+        [
+          "p",
+          "Needed feeding, rest, hygiene, comfort and health care are never delayed to finish an activity. Infants follow individual cues and plans. For older children, plan long enough for meaningful self-chosen play, outdoor movement and creative work alongside useful short teaching invitations."
+        ],
+        [
+          "h",
+          "Teach intentionally without taking over"
+        ],
+        [
+          "p",
+          "Choose an action that fits the purpose: wait, describe, demonstrate, offer vocabulary, model a strategy, ask a genuine question, add a useful material or step back. Explicit instruction in a needed tool can sit inside play and projects. Repeated testing, copying and worksheets are not the organizing core."
+        ],
+        [
+          "h",
+          "Let evidence change the plan"
+        ],
+        [
+          "p",
+          "A good activity may be declined. Record what actually happened and adapt the invitation, materials, timing or adult support. Repetition of familiar work is productive. A child’s choice to watch or communicate differently is participation, not evidence of inability."
+        ],
+        [
+          "h",
+          "Avoid age-only expectations"
+        ],
+        [
+          "p",
+          "Pathways organize possible environments and experiences. They are not milestone checklists, readiness gates or requirements to complete every activity. Co-regulation and adapted access remain legitimate supports at every age."
+        ]
+      ]
+    },
+    {
+      "title": "Seven connected learning areas",
+      "blocks": [
+        [
+          "table",
+          [
+            "Area",
+            "Purpose",
+            "Illustrative framework connection"
+          ],
+          [
+            [
+              "Relationships & regulation",
+              "Warm relationships, co-regulation, belonging, turn taking and solving social problems.",
+              "Social and Emotional Development; Approaches to Learning"
+            ],
+            [
+              "Communication & early literacy",
+              "Back-and-forth communication, home languages, stories, sound awareness, reading and purposeful writing.",
+              "Language and Communication / Language and Literacy; Approaches to Learning"
+            ],
+            [
+              "Movement & self-care",
+              "Safe movement, coordination, body awareness, participation in daily care and growing practical independence.",
+              "Perceptual, Motor, and Physical Development"
+            ],
+            [
+              "Thinking & mathematics",
+              "Attention, memory, comparison, spatial thinking, number relationships and flexible problem solving.",
+              "Cognition / Mathematics Development; Approaches to Learning"
+            ],
+            [
+              "Science & inquiry",
+              "Close observation, questions, cause and effect, living things and testing ideas safely.",
+              "Cognition / Scientific Reasoning; Approaches to Learning"
+            ],
+            [
+              "Creative expression",
+              "Original choices through art, music, movement, construction and representation.",
+              "Integrated expression across domains; Approaches to Learning"
+            ],
+            [
+              "Community & belonging",
+              "Family identity, home cultures, access, respectful relationships and care for shared places.",
+              "Social and Emotional Development; Language and Communication"
+            ]
+          ],
+          [
+            115,
+            195,
+            190
+          ]
+        ],
+        [
+          "p",
+          "Attention, interest, persistence, flexibility, help seeking and accessible communication cut across every area. Art and community learning are integrated experiences, not optional rewards after academic work."
+        ],
+        [
+          "small",
+          "The connection column is an author-created organizational crosswalk using familiar Head Start ELOF domain terms. The framework could not be retrieved in this session; no code-by-code, current-edition or official alignment is claimed. ELOF is a birth-to-five reference, and the kindergarten bridge needs separate local/school review."
+        ]
+      ]
+    },
+    {
+      "title": "Prepare a usable environment",
+      "blocks": [
+        [
+          "p",
+          "Arrange safe, accessible choices so children can participate, repeat and restore with appropriate help. A center-wide curriculum does not mean infants and older children share unsafe materials or the same activity timetable."
+        ],
+        [
+          "table",
+          [
+            "Environment feature",
+            "Adult preparation"
+          ],
+          [
+            [
+              "Relationships",
+              "Keep responsive familiar caregivers available. Plan calm handoffs and hear family information."
+            ],
+            [
+              "Movement and floor access",
+              "Provide clear safe space, stable positioning and mobility access. Do not force sitting, crawling, standing or a standard body position."
+            ],
+            [
+              "Materials",
+              "Inspect size, integrity, hygiene, sensory access and intended use. Keep small parts, sharp tools and older-child materials inaccessible to younger children."
+            ],
+            [
+              "Communication",
+              "Include home-language books, photos used with consent, signs, visuals and augmentative communication as appropriate."
+            ],
+            [
+              "Choice and quiet",
+              "Offer manageable choices and a route to a quieter or different experience without isolation or punishment."
+            ],
+            [
+              "Outdoor learning",
+              "Review weather, sun, air quality, boundaries, plants, surfaces and accessible movement options."
+            ],
+            [
+              "Work in progress",
+              "Preserve older children’s projects when practical. Photographs or work samples need consent and secure storage."
+            ]
+          ],
+          [
+            130,
+            370
+          ]
+        ],
+        [
+          "p",
+          "Use an approved safety review before introducing an unusual material, tool, food activity, water experience or experiment. The activity library is not permission to bypass care, supervision or individual plans."
+        ]
+      ]
+    },
+    {
+      "title": "Language, access and belonging",
+      "blocks": [
+        [
+          "p",
+          "Include the child’s strongest communication and the languages used at home. A child may demonstrate understanding by gesture, drawing, movement, signs, a device, another language or supported action. English-only speech and eye contact are not participation requirements."
+        ],
+        [
+          "h",
+          "Plan adaptations before the invitation"
+        ],
+        [
+          "p",
+          "Ask what sensory, movement, hearing, vision, communication and regulation access is needed. Offer a stable surface, alternate grip, visual sequence, extra processing time, quieter materials, a larger object or another way to respond. Adjust the challenge while preserving a meaningful purpose."
+        ],
+        [
+          "h",
+          "Represent families accurately"
+        ],
+        [
+          "p",
+          "Use varied family structures, homes, abilities, languages, occupations and community experiences. Ask for a specific voluntary contribution rather than asking a family or child to represent an entire culture. Do not require photographs, religious disclosure, purchases, donations or public performance."
+        ],
+        [
+          "h",
+          "Respond to behavior as information"
+        ],
+        [
+          "p",
+          "Describe the event, context and support. Stop harm, meet the immediate need and help children communicate or try a workable solution. Avoid character labels, public behavior rankings, forced apologies or withholding care. Do not ask children to negotiate unsafe treatment."
+        ],
+        [
+          "h",
+          "Keep professional decisions in the proper process"
+        ],
+        [
+          "p",
+          "Curriculum observations can inform a conversation; they do not diagnose, replace validated screening or determine eligibility for support. Use the program’s approved family/referral and individualized-planning processes when a concern persists."
+        ]
+      ]
+    },
+    {
+      "title": "Care and safety anchors",
+      "blocks": [
+        [
+          "h",
+          "Infants: responsive care and safe sleep"
+        ],
+        [
+          "p",
+          "Use individual cues and approved care plans for feeding, rest, comfort and hygiene. Awake floor activity is separate from sleep. Tummy-time invitations are awake, directly supervised and adapted to comfort. Put infants on their backs for every sleep on the approved firm flat clear sleep surface, following current health procedures. No activity materials, loose cloth, toys or weighted items belong in the sleep space."
+        ],
+        [
+          "h",
+          "Every pathway"
+        ],
+        [
+          "p",
+          "Adults check choking and mouthing risks, water, tools, allergies, heat, hygiene, outdoor conditions and individual access before an invitation. Direct supervision is essential for water, food preparation and tool activities. Empty water containers afterward and dry wet floors. Adults handle chemicals, hazardous spills, unknown plants, wildlife hazards and unsafe equipment."
+        ],
+        [
+          "h",
+          "Respect the child’s body and dignity"
+        ],
+        [
+          "p",
+          "Do not force tasting, touch, eye contact, speech, a posture or an emotional performance. Support toileting with families and approved health practices; do not make toileting or disability-related independence a readiness test. Offer appropriate rest/quiet options and follow actual program/state procedures."
+        ],
+        [
+          "h",
+          "What this curriculum does not replace"
+        ],
+        [
+          "p",
+          "Attendance, medication, feeding/health orders, illness, incident, safeguarding, emergency and legally required records stay in approved systems. Learning notes are not a substitute. This publication does not set staffing ratios or certify compliance with state/local rules."
+        ],
+        [
+          "small",
+          "Health-reference routes to verify before implementation are documented in the research log: AAP/HealthyChildren, CDC and Caring for Our Children. They could not be retrieved during authoring, so staff should review current authoritative guidance and local requirements."
+        ]
+      ]
+    },
+    {
+      "title": "Observe → plan → revisit",
+      "blocks": [
+        [
+          "table",
+          [
+            "Step",
+            "Useful action",
+            "Record"
+          ],
+          [
+            [
+              "Observe",
+              "Watch the actual event and receive family information.",
+              "What was seen/heard; context; date; access/support."
+            ],
+            [
+              "Interpret cautiously",
+              "Consider possibilities without turning a guess into a fact.",
+              "A working question, separate from the observation."
+            ],
+            [
+              "Plan",
+              "Choose a purpose and a few safe accessible invitations.",
+              "Why this invitation; materials; adaptation; actual child/group."
+            ],
+            [
+              "Join",
+              "Respond, model, ask, describe or step back.",
+              "Support actually given and the child’s response."
+            ],
+            [
+              "Review",
+              "Revisit evidence across time and contexts.",
+              "A possible next opportunity and what might change."
+            ]
+          ],
+          [
+            75,
+            215,
+            210
+          ]
+        ],
+        [
+          "p",
+          "Useful note: “Matched one cup to each of five people, then counted after one reminder.” Less useful: “Mastered math.” Useful infant note: “Turned away after the third sound. Adult paused; infant relaxed and looked back.” Less useful: “Poor attention.”"
+        ],
+        [
+          "p",
+          "The tool’s statuses describe interest, an offered invitation, exploration/practice, a strategy used independently in one observation, or a plan to adjust. They are not scores or permanent mastery labels. Independent performance is not an infant goal; responsive adult help is part of the learning environment."
+        ],
+        [
+          "p",
+          "Review learning across areas without turning coverage into a quota. A blank record is not a learning gap. A declined activity may indicate timing, access, preference or another need, and does not alone establish a developmental concern."
+        ]
+      ]
+    },
+    {
+      "title": "A workable staff planning rhythm",
+      "blocks": [
+        [
+          "h",
+          "Before the day"
+        ],
+        [
+          "p",
+          "Review family information and essential approved care plans; inspect the environment; choose a few possible invitations connected to actual observations. Keep familiar materials available and identify adaptations or supervision needs."
+        ],
+        [
+          "h",
+          "During the day"
+        ],
+        [
+          "p",
+          "Protect responsive care, child-chosen play and useful conversation. One adult’s documentation should never reduce supervision. Short notes can be completed securely later. Record the factual event before writing an interpretation."
+        ],
+        [
+          "h",
+          "At the end of the day"
+        ],
+        [
+          "p",
+          "Finish concise observations, restore materials and adjust the next invitation. Share a meaningful strength or event with families through the approved communication route. Record operational health/safety matters in their proper systems."
+        ],
+        [
+          "h",
+          "Weekly team review"
+        ],
+        [
+          "p",
+          "Ask whose voice is missing, which support helped, which plan no longer fits, where evidence is thin and which family perspective would help. Choose a manageable next step instead of adding many activities. Export a secure backup of the local planning tool."
+        ],
+        [
+          "h",
+          "Initial implementation"
+        ],
+        [
+          "p",
+          "Start with one or two familiar invitations per pathway, not the whole library. Practice factual note writing and review safety/access with trained staff. Use a brief pilot, family feedback and peer review before making center-wide changes. Confirm state standards and current reference guidance when access is available."
+        ]
+      ]
+    },
+    {
+      "title": "Young infants · Birth–5 months",
+      "blocks": [
+        [
+          "p",
+          "Individual, cue-based interactions during care and brief comfortable awake play."
+        ],
+        [
+          "small",
+          "Adult rhythm: Notice cues → respond warmly → pause for a response → adjust or stop. Secure relationships and access to everyday experience; no academic drills or group-performance goals."
+        ],
+        [
+          "table",
+          [
+            "Learning area",
+            "Opportunities to support",
+            "Two starting invitations"
+          ],
+          [
+            [
+              "Relationships & regulation",
+              "Build trust through a predictable response to an infant’s communication. Support co-regulation through a familiar, responsive care sequence.",
+              "Notice a cue, answer, and pause (C001); A familiar calming sequence (C002)"
+            ],
+            [
+              "Communication & early literacy",
+              "Experience a back-and-forth exchange without requiring speech or eye contact. Connect a familiar voice pattern with warm interaction.",
+              "Face-to-face conversation (C003); A family lullaby during care (C004)"
+            ],
+            [
+              "Movement & self-care",
+              "Offer an accessible opportunity for active movement while awake. Explore voluntary reaching and midline movement.",
+              "Comfortable awake tummy-time invitation (C005); Reach toward a familiar hand (C006)"
+            ],
+            [
+              "Thinking & mathematics",
+              "Notice a change and choose how to attend. Experience a simple social cause-and-effect pattern.",
+              "Following a slow nearby movement (C007); My response changes the exchange (C008)"
+            ],
+            [
+              "Science & inquiry",
+              "Experience a gentle difference in the visual environment. Explore a comfortable sensory difference with adult support.",
+              "Noticing daylight and shade (C009); One safe texture at a time (C010)"
+            ],
+            [
+              "Creative expression",
+              "Experience a simple rhythm through warm responsive interaction. Share visual interest and early meaning-making with a caregiver.",
+              "A gentle rhythmic exchange (C011); Sharing a high-contrast page (C012)"
+            ],
+            [
+              "Community & belonging",
+              "Create a predictable connection during arrival. Connect classroom care with familiar people and home language.",
+              "A familiar welcome (C013); Family voices and photographs (C014)"
+            ]
+          ],
+          [
+            105,
+            215,
+            180
+          ]
+        ],
+        [
+          "small",
+          "These are teaching possibilities, not expected achievements by the end of the age range. Notice comfort, choice, communication, access and support. Revisit simpler or more complex work when useful."
+        ]
+      ]
+    },
+    {
+      "title": "Older infants · 6–11 months",
+      "blocks": [
+        [
+          "p",
+          "Safe floor exploration with a nearby responsive adult; repeated familiar experiences."
+        ],
+        [
+          "small",
+          "Adult rhythm: Follow interest → offer a safe object/action → wait → acknowledge the child’s response. Support emerging mobility and communication without forcing positions or milestones."
+        ],
+        [
+          "table",
+          [
+            "Learning area",
+            "Opportunities to support",
+            "Two starting invitations"
+          ],
+          [
+            [
+              "Relationships & regulation",
+              "Support exploration while keeping connection available. Make care a cooperative interaction with a readable sequence.",
+              "Explore and return to a safe base (C015); Predictable care with a small pause (C016)"
+            ],
+            [
+              "Communication & early literacy",
+              "Connect a word or sign with shared attention. Participate actively in a shared book experience.",
+              "Name what the child notices (C017); A book the child can help explore (C018)"
+            ],
+            [
+              "Movement & self-care",
+              "Support the child’s own way of moving toward an interest. Coordinate grasp, release and purposeful movement.",
+              "Travel toward a chosen object (C019); In and out with large objects (C020)"
+            ],
+            [
+              "Thinking & mathematics",
+              "Explore whether a familiar object remains when partly hidden. Explore a simple action and its result.",
+              "A partly hidden familiar object (C021); A sound follows an action (C022)"
+            ],
+            [
+              "Science & inquiry",
+              "Notice a sensory difference through voluntary exploration. Observe movement and what makes an object stop.",
+              "Compare two safe surfaces (C023); Watch a large ball travel (C024)"
+            ],
+            [
+              "Creative expression",
+              "Express an idea and hear it acknowledged. Explore self-chosen movement in response to music.",
+              "Echo the child’s sounds (C025); Move to a familiar song (C026)"
+            ],
+            [
+              "Community & belonging",
+              "Communicate a preference that another person respects. Connect familiar people, names and warm conversation.",
+              "Choose between two familiar things (C027); Our familiar people book (C028)"
+            ]
+          ],
+          [
+            105,
+            215,
+            180
+          ]
+        ],
+        [
+          "small",
+          "These are teaching possibilities, not expected achievements by the end of the age range. Notice comfort, choice, communication, access and support. Revisit simpler or more complex work when useful."
+        ]
+      ]
+    },
+    {
+      "title": "Young toddlers · 12–23 months",
+      "blocks": [
+        [
+          "p",
+          "Predictable routines, concrete materials, movement and short shared play."
+        ],
+        [
+          "small",
+          "Adult rhythm: Offer a choice → show one useful action → allow repetition → support a transition. Use real objects and home-language words; emerging skills need adult support."
+        ],
+        [
+          "table",
+          [
+            "Learning area",
+            "Opportunities to support",
+            "Two starting invitations"
+          ],
+          [
+            [
+              "Relationships & regulation",
+              "Build predictability during separation and reunion. Connect an emotional experience with supportive language.",
+              "A supported arrival ritual (C029); Name a feeling and offer help (C030)"
+            ],
+            [
+              "Communication & early literacy",
+              "Extend a child’s message through responsive language. Connect a repeated story with the child’s own communication.",
+              "A two-turn object conversation (C031); Retell a familiar page (C032)"
+            ],
+            [
+              "Movement & self-care",
+              "Coordinate whole-body movement and stopping. Participate in a useful care routine with adult support.",
+              "Push, stop and park (C033); Help wipe a small safe spill (C034)"
+            ],
+            [
+              "Thinking & mathematics",
+              "Explore capacity and the effects of adding and removing. Explore balance, arrangement and a change in structure.",
+              "Fill, empty and compare (C035); Build and change a short tower (C036)"
+            ],
+            [
+              "Science & inquiry",
+              "Notice a real living thing or natural feature. Explore how a surface changes movement.",
+              "Look closely on a short nature visit (C037); A ramp for a large rolling object (C038)"
+            ],
+            [
+              "Creative expression",
+              "Explore mark making through self-chosen movement. Choose and compare comfortable sound actions.",
+              "Big marks, real choices (C039); Quiet and lively sounds (C040)"
+            ],
+            [
+              "Community & belonging",
+              "Participate in a predictable shared-space routine. Represent a familiar caring action without a required family script.",
+              "My place for familiar belongings (C041); Family routines in pretend play (C042)"
+            ]
+          ],
+          [
+            105,
+            215,
+            180
+          ]
+        ],
+        [
+          "small",
+          "These are teaching possibilities, not expected achievements by the end of the age range. Notice comfort, choice, communication, access and support. Revisit simpler or more complex work when useful."
+        ]
+      ]
+    },
+    {
+      "title": "Older toddlers · 24–35 months",
+      "blocks": [
+        [
+          "p",
+          "Parallel play, pretend routines, simple problem solving and supported peer encounters."
+        ],
+        [
+          "small",
+          "Adult rhythm: Prepare two or more accessible choices → join briefly → model language → step back. Participation and regulation vary widely; no forced sharing or required sitting."
+        ],
+        [
+          "table",
+          [
+            "Learning area",
+            "Opportunities to support",
+            "Two starting invitations"
+          ],
+          [
+            [
+              "Relationships & regulation",
+              "Practice being near a peer with responsive adult support. Participate in a transition with understandable support.",
+              "Two children, enough materials (C043); A supported transition choice (C044)"
+            ],
+            [
+              "Communication & early literacy",
+              "Expand a meaningful message without taking over the play. Represent story events through action and communication.",
+              "Tell me about your play (C045); Act out a short familiar story (C046)"
+            ],
+            [
+              "Movement & self-care",
+              "Plan a comfortable route using current movement abilities. Take an active part in a real hygiene sequence.",
+              "A safe movement pathway (C047); Handwashing as shared learning (C048)"
+            ],
+            [
+              "Thinking & mathematics",
+              "Connect one count word with one object in a real task. Notice a shared feature and use a simple sorting rule.",
+              "Count a small useful collection (C049); Match and sort familiar objects (C050)"
+            ],
+            [
+              "Science & inquiry",
+              "Make and observe a simple prediction with adult support. Explore how one change affects movement.",
+              "Sink or float: notice the result (C051); Change a rolling path (C052)"
+            ],
+            [
+              "Creative expression",
+              "Choose a tool and explore its visual effect. Represent an idea through a self-chosen movement.",
+              "Paint with a chosen tool (C053); Echo and invent a movement (C054)"
+            ],
+            [
+              "Community & belonging",
+              "Recognize varied homes and family experiences without ranking them. Participate in caring for a shared place.",
+              "Homes can look different (C055); Help care for our room (C056)"
+            ]
+          ],
+          [
+            105,
+            215,
+            180
+          ]
+        ],
+        [
+          "small",
+          "These are teaching possibilities, not expected achievements by the end of the age range. Notice comfort, choice, communication, access and support. Revisit simpler or more complex work when useful."
+        ]
+      ]
+    },
+    {
+      "title": "Preschool · 3 years · 36–47 months",
+      "blocks": [
+        [
+          "p",
+          "Longer self-chosen center play with brief optional guided invitations and rich conversation."
+        ],
+        [
+          "small",
+          "Adult rhythm: Notice an idea → add a question or material → support a test or representation → revisit. Build concepts through play, movement, stories and relationships; avoid worksheets as the core."
+        ],
+        [
+          "table",
+          [
+            "Learning area",
+            "Opportunities to support",
+            "Two starting invitations"
+          ],
+          [
+            [
+              "Relationships & regulation",
+              "Use a respectful entry strategy while honoring another person’s response. Practice explaining a need and trying a workable solution.",
+              "Ask to join and hear the answer (C057); Solve a small shared problem (C058)"
+            ],
+            [
+              "Communication & early literacy",
+              "Build understanding and vocabulary through a shared story. Explore how spoken language and print carry useful meaning.",
+              "A question-rich read-aloud (C059); Names, sounds and useful signs (C060)"
+            ],
+            [
+              "Movement & self-care",
+              "Coordinate hands to create an original construction. Coordinate movement while noticing other people and space.",
+              "Cut, arrange and join (C061); Move around a planned space (C062)"
+            ],
+            [
+              "Thinking & mathematics",
+              "Use a small quantity to solve a real distribution problem. Explore shape properties through construction and explanation.",
+              "How many do we need? (C063); Build and describe a shape (C064)"
+            ],
+            [
+              "Science & inquiry",
+              "Notice how position changes a shadow. Connect observation with a real care decision.",
+              "What makes a shadow change? (C065); A plant-care question (C066)"
+            ],
+            [
+              "Creative expression",
+              "Communicate an idea through original choices. Use sound intentionally to represent an event or feeling.",
+              "Make art from an idea (C067); Sound patterns for a story (C068)"
+            ],
+            [
+              "Community & belonging",
+              "Connect a shared agreement with safety, care and belonging. Explore one family’s experience respectfully.",
+              "Our classroom agreements in action (C069); Learn from a family contribution (C070)"
+            ]
+          ],
+          [
+            105,
+            215,
+            180
+          ]
+        ],
+        [
+          "small",
+          "These are teaching possibilities, not expected achievements by the end of the age range. Notice comfort, choice, communication, access and support. Revisit simpler or more complex work when useful."
+        ]
+      ]
+    },
+    {
+      "title": "Pre-K · 4 years · 48–59 months",
+      "blocks": [
+        [
+          "p",
+          "Sustained play and projects with intentional small-group language, literacy and math."
+        ],
+        [
+          "small",
+          "Adult rhythm: Connect to experience → model a strategy → invite use → reflect with evidence. Offer explicit teaching within meaningful work; do not make a birthday a readiness rule."
+        ],
+        [
+          "table",
+          [
+            "Learning area",
+            "Opportunities to support",
+            "Two starting invitations"
+          ],
+          [
+            [
+              "Relationships & regulation",
+              "Negotiate a shared idea while keeping participation flexible. Find a comfortable support with an adult during a manageable moment.",
+              "Plan roles for shared pretend play (C071); Try a helpful regulation strategy together (C072)"
+            ],
+            [
+              "Communication & early literacy",
+              "Notice and manipulate spoken sounds through playful accessible interaction. Use drawing, emerging spelling, signs or dictation to communicate a purpose.",
+              "Hear and play with word sounds (C073); Make a meaningful message (C074)"
+            ],
+            [
+              "Movement & self-care",
+              "Coordinate a useful preparation sequence with hygiene and access support. Plan, explain and adapt a movement game so others can join.",
+              "Prepare a safe shared snack task (C075); Design an accessible movement game (C076)"
+            ],
+            [
+              "Thinking & mathematics",
+              "Use a counting or matching strategy to compare quantities. Recognize a repeated unit and use it to predict or create.",
+              "Count, compare and explain (C077); Continue and change a pattern (C078)"
+            ],
+            [
+              "Science & inquiry",
+              "Compare the result of one changed condition. Use evidence to describe an animal’s features or behavior.",
+              "Test one change in a ramp (C079); Observe an animal without disturbing it (C080)"
+            ],
+            [
+              "Creative expression",
+              "Use a design idea, notice a result and revise intentionally. Express a shared idea through chosen creative roles.",
+              "Create and revise a construction (C081); A child-authored performance choice (C082)"
+            ],
+            [
+              "Community & belonging",
+              "Use a representation to communicate location and access. Plan and evaluate a contribution to a shared community.",
+              "Map a familiar place (C083); A real classroom helping project (C084)"
+            ]
+          ],
+          [
+            105,
+            215,
+            180
+          ]
+        ],
+        [
+          "small",
+          "These are teaching possibilities, not expected achievements by the end of the age range. Notice comfort, choice, communication, access and support. Revisit simpler or more complex work when useful."
+        ]
+      ]
+    },
+    {
+      "title": "Kindergarten bridge · 5- and 6-year-olds · 60–83 months",
+      "blocks": [
+        [
+          "p",
+          "Play, purposeful projects and accessible explicit instruction, coordinated with the child’s school."
+        ],
+        [
+          "small",
+          "Adult rhythm: Choose a meaningful purpose → teach a needed tool → apply it → discuss and revise. Includes children through age six. This author-designed bridge is not a verified state kindergarten curriculum."
+        ],
+        [
+          "table",
+          [
+            "Learning area",
+            "Opportunities to support",
+            "Two starting invitations"
+          ],
+          [
+            [
+              "Relationships & regulation",
+              "Coordinate ideas, roles and changing needs in a group project. Discuss a challenge using evidence and a useful support.",
+              "Collaborative planning with revision (C085); Reflect on a helpful next step (C086)"
+            ],
+            [
+              "Communication & early literacy",
+              "Connect accessible decoding with the meaning of a real message. Use a source and an original message to communicate a finding.",
+              "Decode and understand a short message (C087); Research and write for a purpose (C088)"
+            ],
+            [
+              "Movement & self-care",
+              "Coordinate a short meaningful sequence with accessible tools. Explore an upcoming routine without making independence a condition of belonging.",
+              "A multi-step practical project (C089); Practice a school-day routine through play (C090)"
+            ],
+            [
+              "Thinking & mathematics",
+              "Explore an operation as a meaningful change in quantity. Choose and use a consistent comparison strategy.",
+              "Represent joining and separating (C091); Measure to solve a design problem (C092)"
+            ],
+            [
+              "Science & inquiry",
+              "Compare conditions, record results and discuss the limits of a small test. Recognize that a representation shows some features and leaves out others.",
+              "A small fair-test investigation (C093); Compare a model with the real world (C094)"
+            ],
+            [
+              "Creative expression",
+              "Sustain an idea, make choices and revise with authorship intact. Represent and communicate a pattern or expressive idea.",
+              "Develop an original work over time (C095); Compose a sound or movement sequence (C096)"
+            ],
+            [
+              "Community & belonging",
+              "Use respectful inquiry before making a shared decision. Communicate strengths, interests and useful supports for a transition.",
+              "Listen to more than one perspective (C097); A family-informed transition portfolio (C098)"
+            ]
+          ],
+          [
+            105,
+            215,
+            180
+          ]
+        ],
+        [
+          "small",
+          "These are teaching possibilities, not expected achievements by the end of the age range. Notice comfort, choice, communication, access and support. Revisit simpler or more complex work when useful."
+        ]
+      ]
+    },
+    {
+      "title": "Daily flow: infants and toddlers",
+      "blocks": [
+        [
+          "h",
+          "Infants — an individualized responsive cycle"
+        ],
+        [
+          "p",
+          "Arrival and caregiver connection → respond to current feeding/rest/comfort needs → a brief awake interaction or safe floor exploration when available → care and recovery → repeat according to the actual child. Several children can be on different care rhythms. There is no required circle time, academic block or weekly-theme performance."
+        ],
+        [
+          "h",
+          "Toddlers — a predictable flexible flow"
+        ],
+        [
+          "table",
+          [
+            "Part of the day",
+            "Learning opportunity"
+          ],
+          [
+            [
+              "Arrival",
+              "A familiar handoff, comfort and an accessible choice."
+            ],
+            [
+              "Play and exploration",
+              "Concrete materials, movement, books and short responsive conversations. Repetition is welcome."
+            ],
+            [
+              "Outdoor movement",
+              "Accessible movement and safe close observation; adjust for weather and individual plans."
+            ],
+            [
+              "Care and food",
+              "Real participation with adult help; health, hygiene and feeding needs take priority."
+            ],
+            [
+              "Rest / quiet",
+              "Follow individual needs and actual program requirements; provide appropriate quiet alternatives."
+            ],
+            [
+              "Later play and departure",
+              "Return to familiar interests, restore together and share a factual family update."
+            ]
+          ],
+          [
+            125,
+            375
+          ]
+        ],
+        [
+          "p",
+          "A transition can carry learning through a word, gesture, useful action or predictable cue. Do not turn every care moment into a quiz or delay care to complete a teaching sequence."
+        ]
+      ]
+    },
+    {
+      "title": "Daily flow: preschool and kindergarten bridge",
+      "blocks": [
+        [
+          "p",
+          "This is an example organization, not a required clock schedule. Adjust duration, meals, rest, outdoor access and transport to the actual program and children. Keep meaningful play and care central."
+        ],
+        [
+          "table",
+          [
+            "Example sequence",
+            "Purpose / adult role"
+          ],
+          [
+            [
+              "Arrival and open choices",
+              "Welcome families, hear useful information, and support connection."
+            ],
+            [
+              "Sustained play / project period",
+              "Allow a substantial uninterrupted block when practical; offer brief individual or small-group invitations without rotating every child through the same task."
+            ],
+            [
+              "Outdoor movement and inquiry",
+              "Support active movement, access, observation and real questions."
+            ],
+            [
+              "Meal and care routines",
+              "Provide required care, conversation and appropriate participation."
+            ],
+            [
+              "Rest / quiet options",
+              "Respond to individual needs and actual program/state procedures."
+            ],
+            [
+              "Second play / investigation period",
+              "Revisit materials, a question, reading/writing purpose or a developing project."
+            ],
+            [
+              "Short shared reflection when useful",
+              "Children may show, tell, draw, point or choose not to perform."
+            ],
+            [
+              "Departure and family connection",
+              "Share a specific strength, event or useful support through approved routes."
+            ]
+          ],
+          [
+            155,
+            345
+          ]
+        ],
+        [
+          "p",
+          "For 5- and 6-year-olds, coordinate literacy, mathematics and transition supports with the receiving school. Explicit teaching can help a needed skill; worksheets and timed drills are not the foundation. This bridge has not been checked against a specific state kindergarten standard."
+        ]
+      ]
+    },
+    {
+      "title": "Flexible inquiry map · connections 1–2",
+      "blocks": [
+        [
+          "h",
+          "1. Belonging and routines"
+        ],
+        [
+          "table",
+          [
+            "Slot",
+            "Question / connection",
+            "Planning move"
+          ],
+          [
+            [
+              "1",
+              "Who is here and how do we connect?",
+              "Notice interests and access; choose a few useful invitations."
+            ],
+            [
+              "2",
+              "What helps us feel secure?",
+              "Revisit familiar work and model one useful strategy."
+            ],
+            [
+              "3",
+              "How do we care for shared spaces?",
+              "Extend one child-led question or comparison when ready."
+            ],
+            [
+              "4",
+              "Which routines help, and what should change?",
+              "Review actual evidence with children/families and plan a next opportunity."
+            ]
+          ],
+          [
+            35,
+            245,
+            220
+          ]
+        ],
+        [
+          "small",
+          "Infant/toddler use: Keep responsive care and familiar routines stable. Use this connection only if a real infant/toddler interest makes it meaningful; no weekly theme performance is expected."
+        ],
+        [
+          "h",
+          "2. Bodies, movement and care"
+        ],
+        [
+          "table",
+          [
+            "Slot",
+            "Question / connection",
+            "Planning move"
+          ],
+          [
+            [
+              "5",
+              "What can our bodies do comfortably?",
+              "Notice interests and access; choose a few useful invitations."
+            ],
+            [
+              "6",
+              "How can we move through a space safely?",
+              "Revisit familiar work and model one useful strategy."
+            ],
+            [
+              "7",
+              "What care and support do we need?",
+              "Extend one child-led question or comparison when ready."
+            ],
+            [
+              "8",
+              "How can we make movement accessible?",
+              "Review actual evidence with children/families and plan a next opportunity."
+            ]
+          ],
+          [
+            35,
+            245,
+            220
+          ]
+        ],
+        [
+          "small",
+          "Infant/toddler use: Keep responsive care and familiar routines stable. Use this connection only if a real infant/toddler interest makes it meaningful; no weekly theme performance is expected."
+        ]
+      ]
+    },
+    {
+      "title": "Flexible inquiry map · connections 3–4",
+      "blocks": [
+        [
+          "h",
+          "3. People, families and communication"
+        ],
+        [
+          "table",
+          [
+            "Slot",
+            "Question / connection",
+            "Planning move"
+          ],
+          [
+            [
+              "9",
+              "How do people communicate?",
+              "Notice interests and access; choose a few useful invitations."
+            ],
+            [
+              "10",
+              "What matters in different families?",
+              "Revisit familiar work and model one useful strategy."
+            ],
+            [
+              "11",
+              "How can we ask, listen and respond?",
+              "Extend one child-led question or comparison when ready."
+            ],
+            [
+              "12",
+              "What have we learned from another perspective?",
+              "Review actual evidence with children/families and plan a next opportunity."
+            ]
+          ],
+          [
+            35,
+            245,
+            220
+          ]
+        ],
+        [
+          "small",
+          "Infant/toddler use: Keep responsive care and familiar routines stable. Use this connection only if a real infant/toddler interest makes it meaningful; no weekly theme performance is expected."
+        ],
+        [
+          "h",
+          "4. Light, shadow and sound"
+        ],
+        [
+          "table",
+          [
+            "Slot",
+            "Question / connection",
+            "Planning move"
+          ],
+          [
+            [
+              "13",
+              "What do we notice about light?",
+              "Notice interests and access; choose a few useful invitations."
+            ],
+            [
+              "14",
+              "How can a position change a shadow?",
+              "Revisit familiar work and model one useful strategy."
+            ],
+            [
+              "15",
+              "What makes a sound, and who can access it?",
+              "Extend one child-led question or comparison when ready."
+            ],
+            [
+              "16",
+              "How can we represent a noticed change?",
+              "Review actual evidence with children/families and plan a next opportunity."
+            ]
+          ],
+          [
+            35,
+            245,
+            220
+          ]
+        ],
+        [
+          "small",
+          "Infant/toddler use: Keep responsive care and familiar routines stable. Use this connection only if a real infant/toddler interest makes it meaningful; no weekly theme performance is expected."
+        ]
+      ]
+    },
+    {
+      "title": "Flexible inquiry map · connections 5–6",
+      "blocks": [
+        [
+          "h",
+          "5. Water, weather and change"
+        ],
+        [
+          "table",
+          [
+            "Slot",
+            "Question / connection",
+            "Planning move"
+          ],
+          [
+            [
+              "17",
+              "What changes can we observe?",
+              "Notice interests and access; choose a few useful invitations."
+            ],
+            [
+              "18",
+              "What happens when we test a safe idea?",
+              "Revisit familiar work and model one useful strategy."
+            ],
+            [
+              "19",
+              "What does the weather mean for our care?",
+              "Extend one child-led question or comparison when ready."
+            ],
+            [
+              "20",
+              "What evidence have we recorded?",
+              "Review actual evidence with children/families and plan a next opportunity."
+            ]
+          ],
+          [
+            35,
+            245,
+            220
+          ]
+        ],
+        [
+          "small",
+          "Infant/toddler use: Keep responsive care and familiar routines stable. Use this connection only if a real infant/toddler interest makes it meaningful; no weekly theme performance is expected."
+        ],
+        [
+          "h",
+          "6. Living things"
+        ],
+        [
+          "table",
+          [
+            "Slot",
+            "Question / connection",
+            "Planning move"
+          ],
+          [
+            [
+              "21",
+              "What do living things need?",
+              "Notice interests and access; choose a few useful invitations."
+            ],
+            [
+              "22",
+              "What can we observe without harming?",
+              "Revisit familiar work and model one useful strategy."
+            ],
+            [
+              "23",
+              "How do we care for a plant or place?",
+              "Extend one child-led question or comparison when ready."
+            ],
+            [
+              "24",
+              "What has changed over time?",
+              "Review actual evidence with children/families and plan a next opportunity."
+            ]
+          ],
+          [
+            35,
+            245,
+            220
+          ]
+        ],
+        [
+          "small",
+          "Infant/toddler use: Keep responsive care and familiar routines stable. Use this connection only if a real infant/toddler interest makes it meaningful; no weekly theme performance is expected."
+        ]
+      ]
+    },
+    {
+      "title": "Flexible inquiry map · connections 7–8",
+      "blocks": [
+        [
+          "h",
+          "7. Materials and making"
+        ],
+        [
+          "table",
+          [
+            "Slot",
+            "Question / connection",
+            "Planning move"
+          ],
+          [
+            [
+              "25",
+              "What can this material do?",
+              "Notice interests and access; choose a few useful invitations."
+            ],
+            [
+              "26",
+              "Which tool helps us act on an idea?",
+              "Revisit familiar work and model one useful strategy."
+            ],
+            [
+              "27",
+              "What happens when we change one feature?",
+              "Extend one child-led question or comparison when ready."
+            ],
+            [
+              "28",
+              "What would we keep or revise?",
+              "Review actual evidence with children/families and plan a next opportunity."
+            ]
+          ],
+          [
+            35,
+            245,
+            220
+          ]
+        ],
+        [
+          "small",
+          "Infant/toddler use: Keep responsive care and familiar routines stable. Use this connection only if a real infant/toddler interest makes it meaningful; no weekly theme performance is expected."
+        ],
+        [
+          "h",
+          "8. Buildings and journeys"
+        ],
+        [
+          "table",
+          [
+            "Slot",
+            "Question / connection",
+            "Planning move"
+          ],
+          [
+            [
+              "29",
+              "How do people and things move?",
+              "Notice interests and access; choose a few useful invitations."
+            ],
+            [
+              "30",
+              "What makes a structure useful?",
+              "Revisit familiar work and model one useful strategy."
+            ],
+            [
+              "31",
+              "How can we describe a route?",
+              "Extend one child-led question or comparison when ready."
+            ],
+            [
+              "32",
+              "Who can use what we have designed?",
+              "Review actual evidence with children/families and plan a next opportunity."
+            ]
+          ],
+          [
+            35,
+            245,
+            220
+          ]
+        ],
+        [
+          "small",
+          "Infant/toddler use: Keep responsive care and familiar routines stable. Use this connection only if a real infant/toddler interest makes it meaningful; no weekly theme performance is expected."
+        ]
+      ]
+    },
+    {
+      "title": "Flexible inquiry map · connections 9–10",
+      "blocks": [
+        [
+          "h",
+          "9. Patterns, shapes and quantities"
+        ],
+        [
+          "table",
+          [
+            "Slot",
+            "Question / connection",
+            "Planning move"
+          ],
+          [
+            [
+              "33",
+              "What repeats or fits together?",
+              "Notice interests and access; choose a few useful invitations."
+            ],
+            [
+              "34",
+              "How can we compare?",
+              "Revisit familiar work and model one useful strategy."
+            ],
+            [
+              "35",
+              "How many or how much is useful here?",
+              "Extend one child-led question or comparison when ready."
+            ],
+            [
+              "36",
+              "How can we explain our strategy?",
+              "Review actual evidence with children/families and plan a next opportunity."
+            ]
+          ],
+          [
+            35,
+            245,
+            220
+          ]
+        ],
+        [
+          "small",
+          "Infant/toddler use: Keep responsive care and familiar routines stable. Use this connection only if a real infant/toddler interest makes it meaningful; no weekly theme performance is expected."
+        ],
+        [
+          "h",
+          "10. Stories, signs and messages"
+        ],
+        [
+          "table",
+          [
+            "Slot",
+            "Question / connection",
+            "Planning move"
+          ],
+          [
+            [
+              "37",
+              "What story do we want to tell?",
+              "Notice interests and access; choose a few useful invitations."
+            ],
+            [
+              "38",
+              "How do words and symbols carry meaning?",
+              "Revisit familiar work and model one useful strategy."
+            ],
+            [
+              "39",
+              "Who is our audience?",
+              "Extend one child-led question or comparison when ready."
+            ],
+            [
+              "40",
+              "Does our message say what we intended?",
+              "Review actual evidence with children/families and plan a next opportunity."
+            ]
+          ],
+          [
+            35,
+            245,
+            220
+          ]
+        ],
+        [
+          "small",
+          "Infant/toddler use: Keep responsive care and familiar routines stable. Use this connection only if a real infant/toddler interest makes it meaningful; no weekly theme performance is expected."
+        ]
+      ]
+    },
+    {
+      "title": "Flexible inquiry map · connections 11–12",
+      "blocks": [
+        [
+          "h",
+          "11. Food, gardens and community"
+        ],
+        [
+          "table",
+          [
+            "Slot",
+            "Question / connection",
+            "Planning move"
+          ],
+          [
+            [
+              "41",
+              "How do people care for a shared need?",
+              "Notice interests and access; choose a few useful invitations."
+            ],
+            [
+              "42",
+              "What can we prepare or grow safely?",
+              "Revisit familiar work and model one useful strategy."
+            ],
+            [
+              "43",
+              "How do choices reflect different families?",
+              "Extend one child-led question or comparison when ready."
+            ],
+            [
+              "44",
+              "Did our contribution help?",
+              "Review actual evidence with children/families and plan a next opportunity."
+            ]
+          ],
+          [
+            35,
+            245,
+            220
+          ]
+        ],
+        [
+          "small",
+          "Infant/toddler use: Keep responsive care and familiar routines stable. Use this connection only if a real infant/toddler interest makes it meaningful; no weekly theme performance is expected."
+        ],
+        [
+          "h",
+          "12. Reflection and transitions"
+        ],
+        [
+          "table",
+          [
+            "Slot",
+            "Question / connection",
+            "Planning move"
+          ],
+          [
+            [
+              "45",
+              "What have we returned to?",
+              "Notice interests and access; choose a few useful invitations."
+            ],
+            [
+              "46",
+              "What work matters to the child?",
+              "Revisit familiar work and model one useful strategy."
+            ],
+            [
+              "47",
+              "Which supports should travel with us?",
+              "Extend one child-led question or comparison when ready."
+            ],
+            [
+              "48",
+              "What question or invitation comes next?",
+              "Review actual evidence with children/families and plan a next opportunity."
+            ]
+          ],
+          [
+            35,
+            245,
+            220
+          ]
+        ],
+        [
+          "small",
+          "Infant/toddler use: Keep responsive care and familiar routines stable. Use this connection only if a real infant/toddler interest makes it meaningful; no weekly theme performance is expected."
+        ]
+      ]
+    },
+    {
+      "title": "Families, review and transitions",
+      "blocks": [
+        [
+          "h",
+          "A useful conversation"
+        ],
+        [
+          "p",
+          "Begin with a specific strength and invite the family’s account. Explain the context and actual support rather than a global label. Ask what the child enjoys, which language or routine is helpful and what priority the family wants heard. An optional home connection should use safe ordinary routines and never require a purchase, project or public disclosure."
+        ],
+        [
+          "h",
+          "When there is a concern"
+        ],
+        [
+          "p",
+          "Document repeated observations and access/support already tried, separate from interpretation. Talk with the family through the program’s approved process and seek qualified guidance as appropriate. Do not diagnose from a lesson, wait for completion of the curriculum before raising a concern, or present a curriculum status as a screening result."
+        ],
+        [
+          "h",
+          "A strengths-based transition handoff"
+        ],
+        [
+          "p",
+          "With authorization, share the child’s interests, meaningful work samples, communication strengths, useful supports and the family’s perspective. Include the child’s voice in an accessible form. Keep attendance, health, individual service plans and legally required transfers in their approved systems."
+        ],
+        [
+          "h",
+          "Privacy"
+        ],
+        [
+          "p",
+          "Use only necessary teaching information. Keep names, photographs, quotations and backups private. The included browser tool stores locally without shared staff accounts, cloud synchronization or application-level encryption. A real multiuser deployment needs separate access, storage, retention and consent decisions."
+        ]
+      ]
+    },
+    {
+      "title": "Reference review and next checks",
+      "blocks": [
+        [
+          "p",
+          "All ten online retrievals failed with proxy CONNECT 403 errors. An escalated read-only government-site request also failed. No returned source body was read. The following routes identify what should be reviewed; they are not citations to a completed live review."
+        ],
+        [
+          "table",
+          [
+            "Reference",
+            "Purpose / status"
+          ],
+          [
+            [
+              "Curriculum prevalence search — Search engine",
+              "Current nationwide popularity ranking\nNot retrieved. https://www.google.com/search?q=most+widely+used+preschool+curriculum+United+States+Creative+Curriculum+HighScope+Head+Start+FACES"
+            ],
+            [
+              "Head Start curriculum consumer reports — U.S. Department of Health and Human Services",
+              "Program-specific curriculum review framework; not national market share\nNot retrieved. https://headstart.gov/curriculum"
+            ],
+            [
+              "Head Start Early Learning Outcomes Framework — U.S. Department of Health and Human Services",
+              "Birth-to-five learning framework reference route\nNot retrieved. https://headstart.gov/school-readiness/article/head-start-early-learning-outcomes-framework"
+            ],
+            [
+              "Developmentally Appropriate Practice — NAEYC",
+              "Developmentally appropriate teaching reference route\nNot retrieved. https://www.naeyc.org/resources/position-statements/dap/contents"
+            ],
+            [
+              "The Creative Curriculum — Teaching Strategies",
+              "Recognized commercial whole-child curriculum; any popularity claim would be publisher-reported unless independently supported\nNot retrieved. https://teachingstrategies.com/product/the-creative-curriculum/"
+            ],
+            [
+              "HighScope approach — HighScope Educational Research Foundation",
+              "Active participatory learning reference route\nNot retrieved. https://highscope.org/our-practice/"
+            ],
+            [
+              "Frog Street curriculum — Frog Street",
+              "Recognized commercial curriculum family; no verified market-share comparison\nNot retrieved. https://www.frogstreet.com/"
+            ],
+            [
+              "Developmental milestones — CDC",
+              "Family developmental monitoring; not a curriculum test or diagnosis\nNot retrieved. https://www.cdc.gov/act-early/milestones/index.html"
+            ],
+            [
+              "Safe sleep information — American Academy of Pediatrics / HealthyChildren",
+              "Infant safe-sleep reference route; local health policies still apply\nNot retrieved. https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx"
+            ],
+            [
+              "Caring for Our Children — National Resource Center for Health and Safety in Child Care and Early Education",
+              "Health and safety reference route\nNot retrieved. https://nrckids.org/CFOC"
+            ]
+          ],
+          [
+            160,
+            340
+          ]
+        ],
+        [
+          "small",
+          "Before formal implementation: review current sources, applicable state early-learning/kindergarten standards, current health guidance, individualized plans and the program’s requirements. Review bilingual/communication access, activity safety and classroom usability with qualified staff and families. No national market-share ranking, official endorsement or completed standards validation is claimed."
+        ]
+      ]
+    }
+  ]
+}

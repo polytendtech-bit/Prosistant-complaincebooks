@@ -1,0 +1,20 @@
+{
+  "application_sha256": "c01b1d7e0977fc3c89ab8e6a6157ceea1bd540b113e0750260faea537d20c08e",
+  "checks_passed": 12,
+  "checks": [
+    "All seven pathways and seven areas have two distinct original activities",
+    "Pathway boundaries cover birth through age six without gaps or overlap",
+    "Every activity includes safety, access, family connection and a complete interaction outline",
+    "CSV exports match 98 activities and twelve four-slot inquiry connections",
+    "Research log and curriculum explicitly preserve failed-access and unverified-ranking status",
+    "Pathway navigation and combined age/domain filters show the intended activities",
+    "Infant profile accepts birth date and preserves family and interaction priorities",
+    "A new infant invitation defaults to a responsive infant activity",
+    "Year-map drafts keep infant routines stable and do not create completed records",
+    "Infant evidence records co-regulation and defaults to observed experiences rather than future checklists",
+    "Separate application identity prevents accidental Montessori-backup import",
+    "Research limitations are visible inside the working tool without JavaScript errors"
+  ],
+  "javascript_errors": [],
+  "data_used": "synthetic infant profile only"
+}

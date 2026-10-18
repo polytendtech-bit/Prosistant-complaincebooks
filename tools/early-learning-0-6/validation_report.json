@@ -1,0 +1,28 @@
+{
+  "application_sha256": "c01b1d7e0977fc3c89ab8e6a6157ceea1bd540b113e0750260faea537d20c08e",
+  "functional_checks_passed": 18,
+  "checks": [
+    "Fresh startup with 98 activities and no invented child records",
+    "Child profile creation and persistence",
+    "Library search, lesson detail and linked plan without invented progress",
+    "Individual outcome records evidence without changing group status",
+    "Progress record reflects latest linked observation",
+    "Backdated observations retain chronological progress",
+    "Custom curriculum lesson creation",
+    "HTML escaping, safe record identifiers and spreadsheet formula neutralization",
+    "Date-filtered report, CSV download and printable PDF",
+    "Invalid report dates blocked",
+    "Full JSON backup and reload persistence",
+    "Confirmed restore replaces data and preserves linked records",
+    "Invalid backups rejected without data loss",
+    "Archive and restore keep child history",
+    "All ten views usable at 390px without page overflow",
+    "Self-contained application renders with network access disabled",
+    "Future observations rejected",
+    "Storage write failure preserves the previous dataset"
+  ],
+  "javascript_errors": [],
+  "browser": "Chromium / Playwright",
+  "direct_file_url_check": "not executed: environment browser policy blocks file URLs; functional tests used local HTTP and an intercepted offline document",
+  "legal_or_professional_endorsement": false
+}

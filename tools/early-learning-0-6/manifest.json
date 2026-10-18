@@ -1,0 +1,132 @@
+{
+  "title": "Growing Together — Early Learning Curriculum, birth through age six",
+  "version": "1.0 original draft",
+  "approach": "Play-based, whole-child; responsive care and intentional teaching/inquiry",
+  "age_scope": "Birth through age six; final pathway 60–83 months",
+  "age_pathways": 7,
+  "learning_areas": 7,
+  "original_activities": 98,
+  "flexible_planning_slots": 48,
+  "curriculum_guide_pdf_pages": 26,
+  "activity_library_pdf_pages": 98,
+  "printable_forms_pdf_pages": 6,
+  "technical_and_pathway_checks_passed": 30,
+  "national_popularity_ranking_verified": false,
+  "live_primary_sources_retrieved": 0,
+  "reference_retrievals_logged": 10,
+  "official_alignment_or_endorsement": false,
+  "cloud_sync": false,
+  "montessori_records_changed": false,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 27,
+      "sha256": "235e4c290690a9ce8bc3300d67be40d6f3f157f54766ebdeb4fa1f589773704c"
+    },
+    {
+      "path": "Activity_Library_98.csv",
+      "bytes": 96389,
+      "sha256": "72ac2b785c164372b422574da968e2fa0ab32acdd82732bfa31a0f3ca291a732"
+    },
+    {
+      "path": "Activity_Plan_Library_98.docx",
+      "bytes": 60113,
+      "sha256": "25de096491368376120f4022c907f5620f8a47e33a8efd50bc6794dfd8207cf9"
+    },
+    {
+      "path": "Activity_Plan_Library_98.pdf",
+      "bytes": 246698,
+      "sha256": "91f82577757c870d0d34d4946e0bf00b49efbd6b08c1e99da519bec7cffe474d"
+    },
+    {
+      "path": "Birth_to_Six_Curriculum_Guide.docx",
+      "bytes": 52935,
+      "sha256": "9be9c659d5d04f5e2f23925fa5ecf0b50466f9e6ad0cc1ef761d2c67d0310f16"
+    },
+    {
+      "path": "Birth_to_Six_Curriculum_Guide.pdf",
+      "bytes": 120065,
+      "sha256": "67af17e5f1ad2130563a1093496f3224becbb11ab2d4938dffdec7ff911f7dc3"
+    },
+    {
+      "path": "Early_Learning_Curriculum_and_Records.html",
+      "bytes": 252910,
+      "sha256": "c01b1d7e0977fc3c89ab8e6a6157ceea1bd540b113e0750260faea537d20c08e"
+    },
+    {
+      "path": "Flexible_48_Week_Map.csv",
+      "bytes": 14355,
+      "sha256": "39be38ded50ecb8c81537d3e4e0cf3fba417f2695a61b942ae7c7d1cfee280d9"
+    },
+    {
+      "path": "Printable_Planning_and_Observation_Forms.docx",
+      "bytes": 38242,
+      "sha256": "d0fb602e36328275460ed56eaf755d0b62c21d35a7c9eaebf57dcdda0314d8c2"
+    },
+    {
+      "path": "Printable_Planning_and_Observation_Forms.pdf",
+      "bytes": 71981,
+      "sha256": "730c31d970f09b25480a0bdfe52a952dd395734fe7a4951e96f9a6e7fd6ab359"
+    },
+    {
+      "path": "README.md",
+      "bytes": 8542,
+      "sha256": "32b21ecd348de7be48da5e76b51a831c14bd5b0da0a2c2729ed39189a8254714"
+    },
+    {
+      "path": "curriculum.json",
+      "bytes": 209231,
+      "sha256": "b7a368e0a62e781148b0a8d907a5098339a85fe2f566e3dcfc76d5152ba948fb"
+    },
+    {
+      "path": "pathway_validation.json",
+      "bytes": 1267,
+      "sha256": "29be2be2babb67c5d970d1f51a843ac1f35317764cdbb00e8f335a10bb11b0a9"
+    },
+    {
+      "path": "source/GUIDE_CONTENT.json",
+      "bytes": 67714,
+      "sha256": "77e0edac5bda386f629f85134748e7a5748288f447ad1cf9b4fd95f9b6f9ed7d"
+    },
+    {
+      "path": "source/RESEARCH_ATTEMPTS.json",
+      "bytes": 5275,
+      "sha256": "0f8a3a11917c2aedaaf2d13df25ba3c76b810e1c77dc0d7c58a38a75d0e64225"
+    },
+    {
+      "path": "source/RESEARCH_BASIS.md",
+      "bytes": 4020,
+      "sha256": "1caa3c1dc2d5deda8c76c0cc4edfffd54532998157c4c4f2eb3e29c05e816822"
+    },
+    {
+      "path": "source/app_template.html",
+      "bytes": 65804,
+      "sha256": "a9818082191373f1064249c46ede4f0cfd515c7b96c34e0176dd46a67008d978"
+    },
+    {
+      "path": "source/build_app.py",
+      "bytes": 597,
+      "sha256": "bab814ac0b8301edbf0849bf5e24cc75058c5be10bbc7fcd64de658a40b0d86c"
+    },
+    {
+      "path": "source/build_documents.py",
+      "bytes": 29961,
+      "sha256": "ca04b537e63111c78ab0b87dc409376a9d1a3f35356c335119d4740404f2ef13"
+    },
+    {
+      "path": "tests/test_browser.py",
+      "bytes": 10836,
+      "sha256": "1e8821c4ad82aedf34bffd21a77c30a587ca087bcc9a48d52e705d5e7afcdb71"
+    },
+    {
+      "path": "tests/test_pathways.py",
+      "bytes": 6138,
+      "sha256": "6c799d4a36b1dbc6eede11500864db5bd8bc26fcd4afbb39cf969f389de9ed02"
+    },
+    {
+      "path": "validation_report.json",
+      "bytes": 1461,
+      "sha256": "1c5876e9246ede9eb3464bb3624ddfbe9349f07f8e3bdeb927787db5a94e1223"
+    }
+  ]
+}

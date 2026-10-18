@@ -1,0 +1,117 @@
+{
+  "sources": [
+    {
+      "id": "R01",
+      "title": "Curriculum prevalence search",
+      "publisher": "Search engine",
+      "url": "https://www.google.com/search?q=most+widely+used+preschool+curriculum+United+States+Creative+Curriculum+HighScope+Head+Start+FACES",
+      "purpose": "Current nationwide popularity ranking",
+      "attempted_at_utc": "2026-10-18T04:58:10.869025+00:00",
+      "local_review_date": "2026-10-17",
+      "retrieved": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "R02",
+      "title": "Head Start curriculum consumer reports",
+      "publisher": "U.S. Department of Health and Human Services",
+      "url": "https://headstart.gov/curriculum",
+      "purpose": "Program-specific curriculum review framework; not national market share",
+      "attempted_at_utc": "2026-10-18T04:58:10.869597+00:00",
+      "local_review_date": "2026-10-17",
+      "retrieved": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "R03",
+      "title": "Head Start Early Learning Outcomes Framework",
+      "publisher": "U.S. Department of Health and Human Services",
+      "url": "https://headstart.gov/school-readiness/article/head-start-early-learning-outcomes-framework",
+      "purpose": "Birth-to-five learning framework reference route",
+      "attempted_at_utc": "2026-10-18T04:58:10.872607+00:00",
+      "local_review_date": "2026-10-17",
+      "retrieved": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "R04",
+      "title": "Developmentally Appropriate Practice",
+      "publisher": "NAEYC",
+      "url": "https://www.naeyc.org/resources/position-statements/dap/contents",
+      "purpose": "Developmentally appropriate teaching reference route",
+      "attempted_at_utc": "2026-10-18T04:58:10.873483+00:00",
+      "local_review_date": "2026-10-17",
+      "retrieved": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "R05",
+      "title": "The Creative Curriculum",
+      "publisher": "Teaching Strategies",
+      "url": "https://teachingstrategies.com/product/the-creative-curriculum/",
+      "purpose": "Recognized commercial whole-child curriculum; any popularity claim would be publisher-reported unless independently supported",
+      "attempted_at_utc": "2026-10-18T04:58:10.876536+00:00",
+      "local_review_date": "2026-10-17",
+      "retrieved": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "R06",
+      "title": "HighScope approach",
+      "publisher": "HighScope Educational Research Foundation",
+      "url": "https://highscope.org/our-practice/",
+      "purpose": "Active participatory learning reference route",
+      "attempted_at_utc": "2026-10-18T04:58:10.882427+00:00",
+      "local_review_date": "2026-10-17",
+      "retrieved": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "R07",
+      "title": "Frog Street curriculum",
+      "publisher": "Frog Street",
+      "url": "https://www.frogstreet.com/",
+      "purpose": "Recognized commercial curriculum family; no verified market-share comparison",
+      "attempted_at_utc": "2026-10-18T04:58:10.915236+00:00",
+      "local_review_date": "2026-10-17",
+      "retrieved": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "R08",
+      "title": "Developmental milestones",
+      "publisher": "CDC",
+      "url": "https://www.cdc.gov/act-early/milestones/index.html",
+      "purpose": "Family developmental monitoring; not a curriculum test or diagnosis",
+      "attempted_at_utc": "2026-10-18T04:58:10.926969+00:00",
+      "local_review_date": "2026-10-17",
+      "retrieved": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "R09",
+      "title": "Safe sleep information",
+      "publisher": "American Academy of Pediatrics / HealthyChildren",
+      "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx",
+      "purpose": "Infant safe-sleep reference route; local health policies still apply",
+      "attempted_at_utc": "2026-10-18T04:58:10.934873+00:00",
+      "local_review_date": "2026-10-17",
+      "retrieved": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "R10",
+      "title": "Caring for Our Children",
+      "publisher": "National Resource Center for Health and Safety in Child Care and Early Education",
+      "url": "https://nrckids.org/CFOC",
+      "purpose": "Health and safety reference route",
+      "attempted_at_utc": "2026-10-18T04:58:10.939831+00:00",
+      "local_review_date": "2026-10-17",
+      "retrieved": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    }
+  ],
+  "national_popularity_ranking_verified": false,
+  "additional_attempt": "An escalated read-only HTTPS request to headstart.gov also received a proxy CONNECT 403.",
+  "interpretation": "Do not present failed requests as consulted references or claim a verified market-share ranking."
+}
